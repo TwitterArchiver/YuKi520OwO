@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1946580874755018980",
+    "created_at": "2025-07-30T16:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T17:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950597863991550130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "776096283802996737",
+          "start": 0,
+          "username": "yottan20001202"
+        },
+        {
+          "end": 26,
+          "id": "983614790890242048",
+          "start": 16,
+          "username": "non_otoge"
+        },
+        {
+          "end": 34,
+          "id": "1029746069326815234",
+          "start": 27,
+          "username": "Jakads"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950597863991550130",
+    "in_reply_to_user_id": "776096283802996737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946580874755018980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yottan20001202 @non_otoge @Jakads 草wwwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6316,
+        "height": 720,
+        "media_key": "13_1946580796736991232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946580796736991232/img/9wQPQ2tMXDMJvera.jpg",
+        "public_metrics": {
+          "view_count": 52182
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946580796736991232/vid/avc1/480x270/mb91r7g0QfboipHa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946580796736991232/vid/avc1/640x360/a7xt5owy-IlooDS-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946580796736991232/vid/avc1/1280x720/r177wzWoNlij3ubx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946580796736991232/pl/CTZYAiRDIDp9LBqg.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1946580874755018980",
+        "created_at": "2025-07-30T16:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T17:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950597863991550130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "776096283802996737",
+              "start": 0,
+              "username": "yottan20001202"
+            },
+            {
+              "end": 26,
+              "id": "983614790890242048",
+              "start": 16,
+              "username": "non_otoge"
+            },
+            {
+              "end": 34,
+              "id": "1029746069326815234",
+              "start": 27,
+              "username": "Jakads"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950597863991550130",
+        "in_reply_to_user_id": "776096283802996737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946580874755018980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yottan20001202 @non_otoge @Jakads 草wwwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946580796736991232"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "conversation_id": "1946580874755018980",
+        "created_at": "2025-07-19T14:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T15:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946580874755018980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0y6Y3KEYz",
+              "end": 31,
+              "expanded_url": "https://x.com/yottan20001202/status/1946580874755018980/video/1",
+              "media_key": "13_1946580796736991232",
+              "start": 8,
+              "url": "https://t.co/x0y6Y3KEYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946580874755018980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 128061,
+          "like_count": 2147,
+          "quote_count": 35,
+          "reply_count": 111,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "你們是男同嗎？ https://t.co/x0y6Y3KEYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8745,
+          "following_count": 1066,
+          "like_count": 15319,
+          "listed_count": 15,
+          "media_count": 248,
+          "tweet_count": 1851
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会7回優勝(5連覇中！)🏆／フジテレビ2時間生放送出演+大会優勝／地上波テレビ出演／公式生放送出演／ST紫全曲理論値／PANDORA白世界初完走＆理論値＆☆5／太鼓.全良71(25)／ウニ、プロセカ／サブ@ysk__sub_／インスタ→yottan20001202／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "1893891419569357280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46691,
+          "following_count": 798,
+          "like_count": 24765,
+          "listed_count": 88,
+          "media_count": 13140,
+          "tweet_count": 64079
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-10T07:56:55.000Z",
+        "description": "KoP 4th準優勝3rd･6th出場 MASTER全理論値/RATING MASTER/VF21.316/SP十段\n神アイコンは@Eve24186720(麗星夜いぶ)様から頂きました\nブログ→ https://t.co/vygZG67cFz\nYouTube↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "Eve24186720"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nonsmusicgameblog.blogspot.com/?m=1",
+                "end": 121,
+                "expanded_url": "https://nonsmusicgameblog.blogspot.com/?m=1",
+                "start": 98,
+                "url": "https://t.co/vygZG67cFz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@non_maimai",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@non_maimai",
+                "start": 0,
+                "url": "https://t.co/E7JEjAJIdF"
+              }
+            ]
+          }
+        },
+        "id": "983614790890242048",
+        "location": "ちいさな まほうつかい",
+        "name": "のん",
+        "pinned_tweet_id": "1880224352685433181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949852110486634496/X3X6TDNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12323,
+          "following_count": 747,
+          "like_count": 35688,
+          "listed_count": 33,
+          "media_count": 3404,
+          "tweet_count": 22888
+        },
+        "url": "https://t.co/E7JEjAJIdF",
+        "username": "non_otoge",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-15T15:06:09.000Z",
+        "description": "地力こそパワー\n\n• #KOP4th #KOP5th CHUNITHM Intl. ver WINNER\n• BMK SDVX S2 CHAMPION\n• #CONNECT3 #CONNECT4\n• pfp: @felyunn\n• Sister: @saam_saek\n• 한글계정 @JakadsKR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 11,
+                "tag": "KOP4th"
+              },
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "KOP5th"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "tag": "CONNECT3"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "tag": "CONNECT4"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 113,
+                "start": 105,
+                "username": "felyunn"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "saam_saek"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "username": "JakadsKR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jakads.github.io",
+                "end": 23,
+                "expanded_url": "http://jakads.github.io",
+                "start": 0,
+                "url": "https://t.co/nx4IsDg92C"
+              }
+            ]
+          }
+        },
+        "id": "1029746069326815234",
+        "location": "Songpa-gu, South Korea",
+        "name": "Jakads🎹ジャカズ",
+        "pinned_tweet_id": "1906326437038289108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510257888715231242/vrNErv2s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28605,
+          "following_count": 2920,
+          "like_count": 19725,
+          "listed_count": 43,
+          "media_count": 4895,
+          "tweet_count": 23598
+        },
+        "url": "https://t.co/nx4IsDg92C",
+        "username": "Jakads",
+        "verified": false
+      }
+    ]
+  }
+}

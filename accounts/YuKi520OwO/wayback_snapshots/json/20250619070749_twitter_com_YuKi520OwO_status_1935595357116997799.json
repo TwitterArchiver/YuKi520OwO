@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1935301577289724006",
+    "created_at": "2025-06-19T07:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T08:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935595357116997799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "BaoFan7551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935595357116997799",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935301577289724006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoFan7551 hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_1935301569005719552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtuShfnXkAA8aW5.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1935301577289724006",
+        "created_at": "2025-06-19T07:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T08:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935595357116997799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoFan7551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935595357116997799",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935301577289724006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoFan7551 hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935301569005719552"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "1935301577289724006",
+        "created_at": "2025-06-18T11:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935301577289724006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JWvInd9gAe",
+              "end": 59,
+              "expanded_url": "https://x.com/BaoFan7551/status/1935301577289724006/photo/1",
+              "media_key": "3_1935301569005719552",
+              "start": 36,
+              "url": "https://t.co/JWvInd9gAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935301577289724006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11872,
+          "like_count": 128,
+          "quote_count": 5,
+          "reply_count": 113,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一翻就是在问花火酱怎么了\n这样，单开个帖子，一起扣 hi 让花火酱复活 https://t.co/JWvInd9gAe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8731,
+          "following_count": 1024,
+          "like_count": 14993,
+          "listed_count": 15,
+          "media_count": 239,
+          "tweet_count": 1781
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄(˘▽˘)っ🍅/19 目前在大陆 生理性别男/友跨友双友同无任何政治倾向/抽象 b",
+        "id": "1756909109788753920",
+        "location": "china mainland",
+        "name": "包着番茄籽的番茄",
+        "pinned_tweet_id": "1923230527705817125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876828438067363841/Jp8N96wc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 1142,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2224
+        },
+        "username": "BaoFan7551",
+        "verified": false
+      }
+    ]
+  }
+}

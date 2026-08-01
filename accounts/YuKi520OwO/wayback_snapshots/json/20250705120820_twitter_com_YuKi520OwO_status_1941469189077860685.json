@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1941469189077860685",
+    "created_at": "2025-07-05T12:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T13:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941469189077860685"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1941469189077860685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "右美沙芬你操死我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1941469189077860685",
+        "created_at": "2025-07-05T12:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T13:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941469189077860685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941469189077860685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬你操死我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8797,
+          "following_count": 1056,
+          "like_count": 15145,
+          "listed_count": 17,
+          "media_count": 245,
+          "tweet_count": 1832
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

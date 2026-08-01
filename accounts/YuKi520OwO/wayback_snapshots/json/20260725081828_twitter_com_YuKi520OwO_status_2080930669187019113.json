@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2080923787453964502",
+    "created_at": "2026-07-25T08:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080930669187019113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599012090517540869",
+          "start": 0,
+          "username": "loveforeversfy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080930669187019113",
+    "in_reply_to_user_id": "1599012090517540869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080923787453964502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveforeversfy 怎么搞到的啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2080923775433093120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODtJgdasAA-TQC.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2080923787453964502",
+        "created_at": "2026-07-25T08:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080930669187019113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080930669187019113",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080923787453964502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 怎么搞到的啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080923775433093120"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080923787453964502",
+        "created_at": "2026-07-25T07:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080923787453964502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwfGWrJ8sr",
+              "end": 35,
+              "expanded_url": "https://x.com/loveforeversfy/status/2080923787453964502/photo/1",
+              "media_key": "3_2080923775433093120",
+              "start": 12,
+              "url": "https://t.co/EwfGWrJ8sr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080923787453964502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑点解析我吃了愈美打的 https://t.co/EwfGWrJ8sr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8673,
+          "following_count": 1153,
+          "like_count": 16315,
+          "listed_count": 18,
+          "media_count": 346,
+          "tweet_count": 2474
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 1558,
+          "like_count": 35756,
+          "listed_count": 10,
+          "media_count": 1247,
+          "tweet_count": 11565
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      }
+    ]
+  }
+}

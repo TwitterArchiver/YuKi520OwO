@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1978552086670241817",
+    "created_at": "2026-02-23T07:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T08:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025836405151453679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1321036918021189632",
+          "start": 0,
+          "username": "boomingrove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025836405151453679",
+    "in_reply_to_user_id": "1321036918021189632",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025440792916136342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boomingrove ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1978552086670241817",
+        "created_at": "2026-02-23T07:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025836405151453679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1321036918021189632",
+              "start": 0,
+              "username": "boomingrove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025836405151453679",
+        "in_reply_to_user_id": "1321036918021189632",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025440792916136342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boomingrove ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1321036918021189632",
+        "conversation_id": "1978552086670241817",
+        "created_at": "2026-02-22T05:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025440792916136342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025440792916136342",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016448911666495849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 卧槽千雪你tm还我西地那非"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2014246601913712929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8523,
+          "following_count": 1111,
+          "like_count": 15859,
+          "listed_count": 17,
+          "media_count": 304,
+          "tweet_count": 2157
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-27T10:32:12.000Z",
+        "description": "现居上海🇨🇳99CN老龄跨➗🏳️‍⚧️infj/p ღ丑陋但喜欢一切可爱♪喜欢音乐且希望让能每个人都开心☠中度躁狂.重度抑郁.极度焦虑✘经济外貌身材都是问题♨但我神经性贪食就tm吃吃吃吃吃☯中国古典吟游诗人:皎月遥知参宿四，嘤嘤咽咽念飞升",
+        "id": "1321036918021189632",
+        "location": "参宿四",
+        "name": "Boomingrove🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778714887524696064/6Ewdr1nR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 194,
+          "like_count": 1647,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 1047
+        },
+        "username": "boomingrove",
+        "verified": false
+      }
+    ]
+  }
+}

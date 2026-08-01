@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989655468508413952"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1989655472648176027",
+    "created_at": "2025-11-15T11:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T12:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989655472648176027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780837272126132224",
+          "start": 4,
+          "username": "qn52157"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tzOxancnHR",
+          "end": 124,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1989655472648176027/photo/1",
+          "media_key": "3_1989655468508413952",
+          "start": 101,
+          "url": "https://t.co/tzOxancnHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989655472648176027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "五河泉奈@qn52157接援交\n12.4是泉奈的生日，泉奈希望寻求单主一起过生日，希望路过的人看一眼\n不能陪她过生日的也可以去约她出来瑟瑟。\n泉奈人在苏州，价格的话单次1200包夜1500\n另附大头照 https://t.co/tzOxancnHR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989655472648176027].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989655472648176027",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989655472648176027"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1705,
+        "media_key": "3_1989655468508413952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ytG2HbgAA-KJs.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8585,
+          "following_count": 1129,
+          "like_count": 15762,
+          "listed_count": 15,
+          "media_count": 289,
+          "tweet_count": 2083
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T05:54:33.000Z",
+        "description": "药娘，常驻苏州，🚪68，全国可飞，不接推广，接寄拍，愿世上再也没有戒网瘾学校",
+        "id": "1780837272126132224",
+        "name": "五河泉奈",
+        "pinned_tweet_id": "1981272189136752781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984943665949904898/rck7qRij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5533,
+          "following_count": 511,
+          "like_count": 1519,
+          "listed_count": 25,
+          "media_count": 135,
+          "tweet_count": 385
+        },
+        "username": "qn52157",
+        "verified": false
+      }
+    ]
+  }
+}

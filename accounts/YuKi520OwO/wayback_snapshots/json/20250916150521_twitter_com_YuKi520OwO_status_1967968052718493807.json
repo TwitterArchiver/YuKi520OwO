@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967727464161108211",
+    "created_at": "2025-09-16T15:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T16:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967968052718493807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1734929931325591552",
+          "start": 0,
+          "username": "JntmB81196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967968052718493807",
+    "in_reply_to_user_id": "1734929931325591552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967967212737868062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JntmB81196 呃啊，搜教程吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967727464161108211",
+        "created_at": "2025-09-16T15:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T16:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967968052718493807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1734929931325591552",
+              "start": 0,
+              "username": "JntmB81196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967968052718493807",
+        "in_reply_to_user_id": "1734929931325591552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967967212737868062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JntmB81196 呃啊，搜教程吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734929931325591552",
+        "conversation_id": "1967727464161108211",
+        "created_at": "2025-09-16T15:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T16:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967967212737868062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967967212737868062",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967966985695924243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 不會怎麼辦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8685,
+          "following_count": 1082,
+          "like_count": 15359,
+          "listed_count": 15,
+          "media_count": 266,
+          "tweet_count": 1955
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:35:21.000Z",
+        "description": "並沒有什麼好看的，只是想做一個和自己一樣的，心目中的，我喜歡的自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+5l1c3DGzTVUxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+5l1c3DGzTVUxMDE1",
+                "start": 0,
+                "url": "https://t.co/ribTGp4uIo"
+              }
+            ]
+          }
+        },
+        "id": "1734929931325591552",
+        "location": "台北市, 台灣",
+        "name": "風起地🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769265395201146880/IR8RYs3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 1460,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/ribTGp4uIo",
+        "username": "JntmB81196",
+        "verified": false
+      }
+    ]
+  }
+}

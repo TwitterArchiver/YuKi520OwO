@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2044596947252912419",
+    "created_at": "2026-04-16T14:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044782752466370916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917988927409143812",
+          "start": 0,
+          "username": "OverSpeed_Wiki2"
+        },
+        {
+          "end": 32,
+          "id": "1849043039496617984",
+          "start": 17,
+          "username": "Rinko_zero8964"
+        },
+        {
+          "end": 42,
+          "id": "1520998756392570883",
+          "start": 33,
+          "username": "muxi_pur"
+        },
+        {
+          "end": 58,
+          "id": "1599012090517540869",
+          "start": 43,
+          "username": "loveforeversfy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044782752466370916",
+    "in_reply_to_user_id": "1917988927409143812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044780067231060086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki2 @Rinko_zero8964 @muxi_pur @loveforeversfy 联系我吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2044596947252912419",
+        "created_at": "2026-04-16T14:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044782752466370916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 32,
+              "id": "1849043039496617984",
+              "start": 17,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 42,
+              "id": "1520998756392570883",
+              "start": 33,
+              "username": "muxi_pur"
+            },
+            {
+              "end": 58,
+              "id": "1599012090517540869",
+              "start": 43,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044782752466370916",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044780067231060086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 @Rinko_zero8964 @muxi_pur @loveforeversfy 联系我吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "2044596947252912419",
+        "created_at": "2026-04-16T14:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044780067231060086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 29,
+              "id": "1849043039496617984",
+              "start": 14,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 40,
+              "id": "1520998756392570883",
+              "start": 31,
+              "username": "muxi_pur"
+            },
+            {
+              "end": 57,
+              "id": "1599012090517540869",
+              "start": 42,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044780067231060086",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044776871729193295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 好\n@Rinko_zero8964 \n@muxi_pur \n@loveforeversfy \n要联系看看吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2044443894151364641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8245,
+          "following_count": 1107,
+          "like_count": 16034,
+          "listed_count": 15,
+          "media_count": 316,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "2009423003097199073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 281,
+          "like_count": 31340,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 4960
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 677,
+          "like_count": 17340,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 8448
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T05:29:04.000Z",
+        "description": "我很好看请来找我🚪58，88，138 谁要来听我原生家庭的痛",
+        "id": "1520998756392570883",
+        "name": "木兮",
+        "pinned_tweet_id": "2009273589581725885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924934937209352192/k2hVIFel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 531,
+          "like_count": 893,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 93
+        },
+        "username": "muxi_pur",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2307,
+          "following_count": 1551,
+          "like_count": 34126,
+          "listed_count": 8,
+          "media_count": 1147,
+          "tweet_count": 10840
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

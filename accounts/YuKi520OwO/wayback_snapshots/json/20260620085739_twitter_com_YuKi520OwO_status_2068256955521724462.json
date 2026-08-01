@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2067975068605718876",
+    "created_at": "2026-06-20T08:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068256955521724462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068256955521724462",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068255780487499856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 回我fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2067975068605718876",
+        "created_at": "2026-06-20T08:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068256955521724462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068256955521724462",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068255780487499856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 回我fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916817753635426304",
+        "conversation_id": "2067975068605718876",
+        "created_at": "2026-06-20T08:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068255780487499856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068255780487499856",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068253831318950236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 我不一直是这样吗\n怎么我胖了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8683,
+          "following_count": 1145,
+          "like_count": 16260,
+          "listed_count": 18,
+          "media_count": 336,
+          "tweet_count": 2414
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 UNSW学生🇦🇺 新西兰ACT正式成员🇳🇿 哈耶克最锋利的剑 满人正黄旗完颜氏",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2062041029390610678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 1017,
+          "like_count": 7626,
+          "listed_count": 5,
+          "media_count": 320,
+          "tweet_count": 1419
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

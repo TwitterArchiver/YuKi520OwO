@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2015051107152634124",
+    "created_at": "2026-01-26T04:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T05:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015642688352366836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "961832160377282560",
+          "start": 0,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015642688352366836",
+    "in_reply_to_user_id": "961832160377282560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015051107152634124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iMoeAya 这里有我吗（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015051036059217920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bmPbiXsAA1zp6.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2015051107152634124",
+        "created_at": "2026-01-26T04:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015642688352366836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "961832160377282560",
+              "start": 0,
+              "username": "iMoeAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015642688352366836",
+        "in_reply_to_user_id": "961832160377282560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015051107152634124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iMoeAya 这里有我吗（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015051036059217920"
+          ]
+        },
+        "author_id": "961832160377282560",
+        "conversation_id": "2015051107152634124",
+        "created_at": "2026-01-24T13:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015051107152634124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Db6dsViqjt",
+              "end": 53,
+              "expanded_url": "https://x.com/iMoeAya/status/2015051107152634124/photo/1",
+              "media_key": "3_2015051036059217920",
+              "start": 30,
+              "url": "https://t.co/Db6dsViqjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015051107152634124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11265,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊嘞？？什么…？？萌绫排第一？？？(´ﾟωﾟ｀) 这对么？ https://t.co/Db6dsViqjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2014246601913712929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8464,
+          "following_count": 1114,
+          "like_count": 15777,
+          "listed_count": 15,
+          "media_count": 300,
+          "tweet_count": 2123
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40383,
+          "following_count": 4815,
+          "like_count": 175058,
+          "listed_count": 151,
+          "media_count": 1155,
+          "tweet_count": 35462
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064659472656826368"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "2064659494911844407",
+    "created_at": "2026-06-10T10:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064659494911844407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OOcWiSF3Ed",
+          "end": 72,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2064659494911844407/photo/1",
+          "media_key": "3_2064659472656826368",
+          "start": 49,
+          "url": "https://t.co/OOcWiSF3Ed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064659494911844407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没想到吧 当初发这张图片的时候我裙底是故意露出来给别人看得 穿的是个蓝粉色条纹胖次 还真有男的看 https://t.co/OOcWiSF3Ed"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064659494911844407].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064659494911844407",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064659494911844407"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2064659472656826368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKck2fHbAAApBUz.jpg",
+        "width": 680
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2064012227951423791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8660,
+          "following_count": 1117,
+          "like_count": 16036,
+          "listed_count": 17,
+          "media_count": 329,
+          "tweet_count": 2303
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

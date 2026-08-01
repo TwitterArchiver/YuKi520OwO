@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2021085023248736657",
+    "created_at": "2026-02-11T10:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T11:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021535996597395580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021535996597395580",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021085023248736657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog 白兔不看价格我给五星 哮喘片也是五星（这东西需要一次一盒才有比较舒服的效果）晚安我给0星 美金刚我给三星（大概因为低剂量下的解离效果我觉得很舒服） 其他评价我均持赞同观点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2021085023248736657",
+        "created_at": "2026-02-11T10:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021535996597395580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021535996597395580",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021085023248736657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog 白兔不看价格我给五星 哮喘片也是五星（这东西需要一次一盒才有比较舒服的效果）晚安我给0星 美金刚我给三星（大概因为低剂量下的解离效果我觉得很舒服） 其他评价我均持赞同观点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2021085023248736657",
+        "created_at": "2026-02-10T04:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T05:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021085023248736657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021085023248736657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 13546,
+          "like_count": 193,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "评价我吃过的药（个人观点\n右美沙芬🌟🌟🌟🌟🌟白月光\npr🌟🌟🌟🌟🌟药效好 购买方便 价格实惠\n白兔🌟🌟🌟需要较多t起效  贵 药效还可以\n美金刚🌟🌟好多星星…\n金刚烷胺🌟🌟谵妄剂 药效中很诡异 暗爽\n愈美片🌟🌟otc方面购买 但我很恨它\n哮喘片🌟毫无效果\nlsd🌟🌟🌟🌟这是药吗啊喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2014246601913712929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8441,
+          "following_count": 1110,
+          "like_count": 15850,
+          "listed_count": 16,
+          "media_count": 304,
+          "tweet_count": 2150
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+全友好｜论点/观点常有 欢迎交流｜互fo私信 选拒建议别来",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015796280795258880/pvCRCu-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 192,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1948
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1949405463558385955",
+    "created_at": "2025-07-29T09:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T10:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950119515603214645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1600148543125090305",
+          "start": 0,
+          "username": "Yaiikawa"
+        },
+        {
+          "end": 18,
+          "id": "1433678976564662273",
+          "start": 10,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950119515603214645",
+    "in_reply_to_user_id": "1600148543125090305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950119243049292018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yaiikawa @hsn8086 哈基芽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1949405463558385955",
+        "created_at": "2025-07-29T09:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T10:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950119515603214645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600148543125090305",
+              "start": 0,
+              "username": "Yaiikawa"
+            },
+            {
+              "end": 18,
+              "id": "1433678976564662273",
+              "start": 10,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950119515603214645",
+        "in_reply_to_user_id": "1600148543125090305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950119243049292018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yaiikawa @hsn8086 哈基芽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600148543125090305",
+        "conversation_id": "1949405463558385955",
+        "created_at": "2025-07-29T09:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T10:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950119243049292018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 20,
+              "id": "1433678976564662273",
+              "start": 12,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950119243049292018",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950118636737151259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO @hsn8086 哈基雪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8748,
+          "following_count": 1067,
+          "like_count": 15301,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1849
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T15:22:19.000Z",
+        "description": "目前在向第二人格发展。喜欢的人@happyending8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "happyending8964"
+              }
+            ]
+          }
+        },
+        "id": "1600148543125090305",
+        "location": "🚪38，但是我很废",
+        "name": "珠芽",
+        "pinned_tweet_id": "1919210984415363220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856646987564879872/RN4ngD86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 389,
+          "like_count": 8382,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 933
+        },
+        "username": "Yaiikawa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1938548630870458380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87491,
+          "following_count": 979,
+          "like_count": 42925,
+          "listed_count": 202,
+          "media_count": 14165,
+          "tweet_count": 21103
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

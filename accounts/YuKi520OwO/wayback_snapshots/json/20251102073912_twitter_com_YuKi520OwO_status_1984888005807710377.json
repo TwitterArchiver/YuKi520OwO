@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1984479131753714014",
+    "created_at": "2025-11-02T07:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984888005807710377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1960187829687885824",
+          "start": 0,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984888005807710377",
+    "in_reply_to_user_id": "1960187829687885824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984796773823750218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxuejilebaike 还是有效果的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1984479131753714014",
+        "created_at": "2025-11-02T07:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984888005807710377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960187829687885824",
+              "start": 0,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984888005807710377",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984796773823750218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxuejilebaike 还是有效果的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "1984479131753714014",
+        "created_at": "2025-11-02T01:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T02:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984796773823750218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984796773823750218",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984479131753714014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 娱乐不行吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "#女的，别再来找我发约炮广告了，sb吧？\n                呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女的"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8556,
+          "following_count": 1112,
+          "like_count": 15685,
+          "listed_count": 15,
+          "media_count": 286,
+          "tweet_count": 2064
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官网:https://t.co/DM4fmdhdkn\nTG频道:https://t.co/YoXqIDrwpe\n交流群:https://t.co/JfbYdIujGy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "https://overdose.day/",
+                "start": 3,
+                "url": "https://t.co/DM4fmdhdkn"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaike",
+                "end": 55,
+                "expanded_url": "https://t.me/huaxuejilebaike",
+                "start": 32,
+                "url": "https://t.co/YoXqIDrwpe"
+              },
+              {
+                "display_url": "t.me/huaxuejile",
+                "end": 83,
+                "expanded_url": "https://t.me/huaxuejile",
+                "start": 60,
+                "url": "https://t.co/JfbYdIujGy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1982257451740070310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982252885577453568/G1aVUn34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 199,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2064913319048393209",
+    "created_at": "2026-06-11T04:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064922213191680236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646930999144742913",
+          "start": 0,
+          "username": "lesbianyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064922213191680236",
+    "in_reply_to_user_id": "1646930999144742913",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064918048251994301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lesbianyiyi 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2064913319048393209",
+        "created_at": "2026-06-11T04:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064922213191680236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646930999144742913",
+              "start": 0,
+              "username": "lesbianyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064922213191680236",
+        "in_reply_to_user_id": "1646930999144742913",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064918048251994301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lesbianyiyi 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646930999144742913",
+        "conversation_id": "2064913319048393209",
+        "created_at": "2026-06-11T03:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064918048251994301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2064918048251994301",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064913319048393209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 敢發全身照非臉照，內心都是額外的level，兔姐感覺妳很厲害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2064012227951423791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8663,
+          "following_count": 1118,
+          "like_count": 16046,
+          "listed_count": 17,
+          "media_count": 330,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T17:38:54.000Z",
+        "description": "素子姐姐，求偶|不卡颜\n女性主義和心理研究所經歷",
+        "id": "1646930999144742913",
+        "location": "amoy,china",
+        "name": "⚧⚢♀☿一只兔🌈💜♠⚮⚤",
+        "pinned_tweet_id": "2057644251081756744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906284104565526528/LU9-zqw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 756,
+          "like_count": 14201,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 1344
+        },
+        "username": "lesbianyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

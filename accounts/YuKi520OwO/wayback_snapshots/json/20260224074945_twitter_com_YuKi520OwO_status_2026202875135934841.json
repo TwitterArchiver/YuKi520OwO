@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2025929541508857946",
+    "created_at": "2026-02-24T07:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T08:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026202875135934841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1729570197567143936",
+          "start": 0,
+          "username": "067xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026202875135934841",
+    "in_reply_to_user_id": "1729570197567143936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025980251294372123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@067xyn 三四单吧不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2025929541508857946",
+        "created_at": "2026-02-24T07:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026202875135934841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1729570197567143936",
+              "start": 0,
+              "username": "067xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026202875135934841",
+        "in_reply_to_user_id": "1729570197567143936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025980251294372123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@067xyn 三四单吧不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729570197567143936",
+        "conversation_id": "2025929541508857946",
+        "created_at": "2026-02-23T17:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T18:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025980251294372123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025980251294372123",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025929541508857946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 你平时在一个地方能接到多少单，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2025837106732613865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8516,
+          "following_count": 1117,
+          "like_count": 15861,
+          "listed_count": 17,
+          "media_count": 306,
+          "tweet_count": 2161
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T18:37:30.000Z",
+        "description": "——————————\n谢谢关注傻fufu的067～\n––––––––––––––––––––\nmtf跨性别|xyn|持证含糖|糖龄2年多|呆|172/123|🚪66 联系方式（同类不用）|网上冲浪|瑟瑟|sub|暂定厦门|双向情感障碍混合发作型|想要有人陪|",
+        "id": "1729570197567143936",
+        "location": "海王星",
+        "name": "是零陆柒酱呀~🍥🏳️‍⚧",
+        "pinned_tweet_id": "1908429781563318397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826590863138357249/sgyIMgw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 97,
+          "like_count": 708,
+          "listed_count": 4,
+          "media_count": 95,
+          "tweet_count": 600
+        },
+        "username": "067xyn",
+        "verified": false
+      }
+    ]
+  }
+}

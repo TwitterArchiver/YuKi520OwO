@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065777136326078807",
+    "created_at": "2026-06-13T14:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065807929530614010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751240173650935808",
+          "start": 0,
+          "username": "Liver_MST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065807929530614010",
+    "in_reply_to_user_id": "1751240173650935808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065777136326078807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liver_MST 有的有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065777136326078807",
+        "created_at": "2026-06-13T14:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065807929530614010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751240173650935808",
+              "start": 0,
+              "username": "Liver_MST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065807929530614010",
+        "in_reply_to_user_id": "1751240173650935808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065777136326078807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liver_MST 有的有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751240173650935808",
+        "conversation_id": "2065777136326078807",
+        "created_at": "2026-06-13T12:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065777136326078807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065777136326078807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想认识珠三角打舞萌中二的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8669,
+          "following_count": 1132,
+          "like_count": 16144,
+          "listed_count": 18,
+          "media_count": 333,
+          "tweet_count": 2363
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:46:20.000Z",
+        "description": "欢迎私信扩列互fo/可以叫我帕克/🎂2006.07.01/音ゲー/maimai暁神確認/🇨🇳简体中文|🇹🇼繁體中文|🇬🇧🇺🇸English|🇯🇵日本語の投稿はすべて機械翻訳です。おかしな表現があったらごめんね！",
+        "id": "1751240173650935808",
+        "location": "Guangzhou, China",
+        "name": "Livermst",
+        "pinned_tweet_id": "2062824852268937440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924381317656576/Ov7oEjtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 678,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 1271
+        },
+        "username": "Liver_MST",
+        "verified": false
+      }
+    ]
+  }
+}

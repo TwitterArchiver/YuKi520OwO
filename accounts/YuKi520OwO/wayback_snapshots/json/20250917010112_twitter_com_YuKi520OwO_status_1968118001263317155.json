@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1968111857648157006",
+    "created_at": "2025-09-17T01:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T02:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968118001263317155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1598873184438083586",
+          "start": 0,
+          "username": "MuSHrO0ooM"
+        },
+        {
+          "end": 27,
+          "id": "1705934998673686528",
+          "start": 12,
+          "username": "KatoRosa220201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968118001263317155",
+    "in_reply_to_user_id": "1598873184438083586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968111857648157006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuSHrO0ooM @KatoRosa220201 什么时候我能在浮光跃金见到你🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1968111848969908224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1AjTJQWsAApfnb.jpg",
+        "width": 1125
+      },
+      {
+        "height": 750,
+        "media_key": "3_1968111848961576960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1AjTJOXkAAXJlz.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1125,
+        "media_key": "3_1968111849183834112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1AjTKDW8AA4AiX.jpg",
+        "width": 750
+      },
+      {
+        "height": 1134,
+        "media_key": "3_1968111852916781056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1AjTX9XMAAaB_x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1968111857648157006",
+        "created_at": "2025-09-17T01:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T02:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968118001263317155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1598873184438083586",
+              "start": 0,
+              "username": "MuSHrO0ooM"
+            },
+            {
+              "end": 27,
+              "id": "1705934998673686528",
+              "start": 12,
+              "username": "KatoRosa220201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968118001263317155",
+        "in_reply_to_user_id": "1598873184438083586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968111857648157006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuSHrO0ooM @KatoRosa220201 什么时候我能在浮光跃金见到你🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968111848969908224",
+            "3_1968111848961576960",
+            "3_1968111849183834112",
+            "3_1968111852916781056"
+          ]
+        },
+        "author_id": "1598873184438083586",
+        "conversation_id": "1968111857648157006",
+        "created_at": "2025-09-17T00:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T01:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968111857648157006"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 142,
+              "tag": "shibari"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "捆绑"
+            },
+            {
+              "end": 157,
+              "start": 155,
+              "tag": "绳"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "男娘"
+            },
+            {
+              "end": 169,
+              "start": 162,
+              "tag": "femboy"
+            },
+            {
+              "end": 173,
+              "start": 170,
+              "tag": "伪娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 79,
+              "id": "1598873184438083586",
+              "start": 68,
+              "username": "MuSHrO0ooM"
+            },
+            {
+              "end": 98,
+              "id": "1705934998673686528",
+              "start": 83,
+              "username": "KatoRosa220201"
+            },
+            {
+              "end": 117,
+              "id": "1705934998673686528",
+              "start": 102,
+              "username": "KatoRosa220201"
+            },
+            {
+              "end": 136,
+              "id": "1705934998673686528",
+              "start": 121,
+              "username": "KatoRosa220201"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y38Z8or5ev",
+              "end": 197,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1968111857648157006/photo/1",
+              "media_key": "3_1968111848969908224",
+              "start": 174,
+              "url": "https://t.co/y38Z8or5ev"
+            },
+            {
+              "display_url": "pic.x.com/y38Z8or5ev",
+              "end": 197,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1968111857648157006/photo/1",
+              "media_key": "3_1968111848961576960",
+              "start": 174,
+              "url": "https://t.co/y38Z8or5ev"
+            },
+            {
+              "display_url": "pic.x.com/y38Z8or5ev",
+              "end": 197,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1968111857648157006/photo/1",
+              "media_key": "3_1968111849183834112",
+              "start": 174,
+              "url": "https://t.co/y38Z8or5ev"
+            },
+            {
+              "display_url": "pic.x.com/y38Z8or5ev",
+              "end": 197,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1968111857648157006/photo/1",
+              "media_key": "3_1968111852916781056",
+              "start": 174,
+              "url": "https://t.co/y38Z8or5ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968111857648157006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是上吊了，感觉气变的很短，锁骨火辣辣的疼，几分钟就不行了，后面被放下来感觉要晕过去了😵😵😵但是一会就缓过来了然后又想玩了🤤🤤🤤\n被缚：@MuSHrO0ooM\n捆捆：@KatoRosa220201\n摄摄：@KatoRosa220201\n绳屋：@KatoRosa220201的浮光跃金\n#shibari #捆绑 #绳 #男娘 #femboy #伪娘 https://t.co/y38Z8or5ev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "樱井🥺千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8685,
+          "following_count": 1084,
+          "like_count": 15403,
+          "listed_count": 15,
+          "media_count": 269,
+          "tweet_count": 1970
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T02:54:22.000Z",
+        "description": "🚪88&同类免费/172cm/51kg/偏m/男娘/双性恋/infj，喜欢游戏，诗歌，月亮，听别人讲故事，如果你愿意，我可以成为很好的听众，蘑菇不会评论你，蘑菇只会静静听你说😶",
+        "id": "1598873184438083586",
+        "location": "北京",
+        "name": "玛诗如木",
+        "pinned_tweet_id": "1962777023711211889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932453550522515456/j1UCYhEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 168,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 723
+        },
+        "username": "MuSHrO0ooM",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T13:19:51.000Z",
+        "description": "北京/INFJ/处女座/被缚/养成系缚手/浮光屋招常驻绳师/欢迎私信\nLike the wind of the wilderness.",
+        "id": "1705934998673686528",
+        "name": "KatoRosa",
+        "pinned_tweet_id": "1959089048209039646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961294909786525696/aVy7whjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 295,
+          "like_count": 1569,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 513
+        },
+        "username": "KatoRosa220201",
+        "verified": false
+      }
+    ]
+  }
+}

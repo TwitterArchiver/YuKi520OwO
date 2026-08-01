@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2066997464008462622",
+    "created_at": "2026-06-16T21:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T22:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066997464008462622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nina0288052150…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nina02880521506/status/2066987783835791701",
+          "start": 6,
+          "url": "https://t.co/jJlMFg6IfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066997464008462622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066987783835791701",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也要加入 https://t.co/jJlMFg6IfO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066987777296826368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9qbpzaAAAVXIY.jpg",
+        "width": 945
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2066987777301041152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9qbp0aUAAwNqg.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2066987777296924672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9qbpzbgAAtUQm.jpg",
+        "width": 1280
+      },
+      {
+        "height": 810,
+        "media_key": "3_2066987777267507200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9qbpsaoAApCWs.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2066997464008462622",
+        "created_at": "2026-06-16T21:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066997464008462622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nina0288052150…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nina02880521506/status/2066987783835791701",
+              "start": 6,
+              "url": "https://t.co/jJlMFg6IfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066997464008462622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066987783835791701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要加入 https://t.co/jJlMFg6IfO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066987777296826368",
+            "3_2066987777301041152",
+            "3_2066987777296924672",
+            "3_2066987777267507200"
+          ]
+        },
+        "author_id": "1933203967703724038",
+        "conversation_id": "2066987783835791701",
+        "created_at": "2026-06-16T20:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066987783835791701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qKQJdkU5u",
+              "end": 76,
+              "expanded_url": "https://x.com/nina02880521506/status/2066987783835791701/photo/1",
+              "media_key": "3_2066987777296826368",
+              "start": 53,
+              "url": "https://t.co/2qKQJdkU5u"
+            },
+            {
+              "display_url": "pic.x.com/2qKQJdkU5u",
+              "end": 76,
+              "expanded_url": "https://x.com/nina02880521506/status/2066987783835791701/photo/1",
+              "media_key": "3_2066987777301041152",
+              "start": 53,
+              "url": "https://t.co/2qKQJdkU5u"
+            },
+            {
+              "display_url": "pic.x.com/2qKQJdkU5u",
+              "end": 76,
+              "expanded_url": "https://x.com/nina02880521506/status/2066987783835791701/photo/1",
+              "media_key": "3_2066987777296924672",
+              "start": 53,
+              "url": "https://t.co/2qKQJdkU5u"
+            },
+            {
+              "display_url": "pic.x.com/2qKQJdkU5u",
+              "end": 76,
+              "expanded_url": "https://x.com/nina02880521506/status/2066987783835791701/photo/1",
+              "media_key": "3_2066987777267507200",
+              "start": 53,
+              "url": "https://t.co/2qKQJdkU5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066987783835791701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总之就是非常感谢，关注淚花喵，关注淚花謝謝喵！！欢迎金主爸爸点单，欢迎新的娼年系加入，真的非常感谢大家！ https://t.co/2qKQJdkU5u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8681,
+          "following_count": 1140,
+          "like_count": 16212,
+          "listed_count": 18,
+          "media_count": 333,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T16:46:08.000Z",
+        "description": "08年正太药娘含糖。25年遭天道镇压，同king的待遇刚出道就被镇压，被送去湘潭市青少年专门教育学校。QQ：2275833392\n 请帮我转帖，否则我会不惜一切代价咬死你们所有人！",
+        "id": "1933203967703724038",
+        "location": "广州",
+        "name": "池咲恋厌孤.柠檬冰.泪千🍥（互推且扩列）",
+        "pinned_tweet_id": "1949136617006100811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034650391535816704/P4Ymf7_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 202,
+          "like_count": 57,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 144
+        },
+        "username": "nina02880521506",
+        "verified": false
+      }
+    ]
+  }
+}

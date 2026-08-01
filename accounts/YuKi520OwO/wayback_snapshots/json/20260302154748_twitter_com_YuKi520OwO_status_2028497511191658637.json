@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2028364675268899239",
+    "created_at": "2026-03-02T15:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028497511191658637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028497511191658637",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028371362180628659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO 把我脖子都撞歪了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2028371352655441920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCY4_5ubMAAymMi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2028364675268899239",
+        "created_at": "2026-03-02T15:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028497511191658637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028497511191658637",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028371362180628659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO 把我脖子都撞歪了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028371352655441920"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2028364675268899239",
+        "created_at": "2026-03-02T07:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028371362180628659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XU4hLUkbgY",
+              "end": 39,
+              "expanded_url": "https://x.com/StarNekOvO/status/2028371362180628659/photo/1",
+              "media_key": "3_2028371352655441920",
+              "start": 16,
+              "url": "https://t.co/XU4hLUkbgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028371362180628659",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028364675268899239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 现场怪 https://t.co/XU4hLUkbgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2025837106732613865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8512,
+          "following_count": 1118,
+          "like_count": 15888,
+          "listed_count": 17,
+          "media_count": 307,
+          "tweet_count": 2164
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛🐰🪼🍥系统 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sT95"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "name": "牛奶喵",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4560,
+          "following_count": 2403,
+          "like_count": 35934,
+          "listed_count": 18,
+          "media_count": 1434,
+          "tweet_count": 12215
+        },
+        "url": "https://t.co/9NEqS9sT95",
+        "username": "StarNekOvO",
+        "verified": false
+      }
+    ]
+  }
+}

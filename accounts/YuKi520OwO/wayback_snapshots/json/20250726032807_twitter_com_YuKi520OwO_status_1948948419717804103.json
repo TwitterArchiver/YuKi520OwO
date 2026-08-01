@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1948850159510847528",
+    "created_at": "2025-07-26T03:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T04:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948948419717804103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926307161480568832",
+          "start": 0,
+          "username": "banzaixyg"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948948419717804103",
+    "in_reply_to_user_id": "1926307161480568832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948850159510847528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banzaixyg @grok 我怎么成你奶奶了，这不合理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1948850159510847528",
+        "created_at": "2025-07-26T03:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T04:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948948419717804103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926307161480568832",
+              "start": 0,
+              "username": "banzaixyg"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948948419717804103",
+        "in_reply_to_user_id": "1926307161480568832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948850159510847528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzaixyg @grok 我怎么成你奶奶了，这不合理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926307161480568832",
+        "conversation_id": "1948850159510847528",
+        "created_at": "2025-07-25T20:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T21:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948850159510847528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1720665183188922368",
+              "start": 20,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Cano_3118/stat…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/Cano_3118/status/1948667427187032317",
+              "start": 70,
+              "url": "https://t.co/Uf23FQSSnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948850159510847528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948667427187032317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "与我的追随者列出一个族谱，使用他们的全名@grok\n爸爸：\n妈妈：\n爷爷：\n奶奶：\n外公：\n外婆：\n弟弟：\n哥哥:\n妹妹:\n姐姐:\n爱人: https://t.co/Uf23FQSSnx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8755,
+          "following_count": 1064,
+          "like_count": 15274,
+          "listed_count": 16,
+          "media_count": 248,
+          "tweet_count": 1844
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/09xyn/双性人/od仙人/时不时出药品混搭玩法/刷新福州/可以约我哦～/身高179/130/姐姐@rik0yuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "rik0yuki"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "主的创造 神迹的地方",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1944620416422846702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926477398863671296/NjWycX_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 169,
+          "like_count": 1190,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 290
+        },
+        "username": "banzaixyg",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5485488,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4473,
+          "media_count": 2400100,
+          "tweet_count": 25701095
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

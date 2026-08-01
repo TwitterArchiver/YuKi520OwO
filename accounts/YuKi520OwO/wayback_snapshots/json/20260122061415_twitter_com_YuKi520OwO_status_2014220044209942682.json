@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2014003343660826931",
+    "created_at": "2026-01-22T06:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T07:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014220044209942682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1477006342418165761",
+          "start": 0,
+          "username": "yuleiwusheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014220044209942682",
+    "in_reply_to_user_id": "1477006342418165761",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014071472151732359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuleiwusheng ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2014003343660826931",
+        "created_at": "2026-01-22T06:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T07:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014220044209942682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1477006342418165761",
+              "start": 0,
+              "username": "yuleiwusheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014220044209942682",
+        "in_reply_to_user_id": "1477006342418165761",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014071472151732359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuleiwusheng ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477006342418165761",
+        "conversation_id": "2014003343660826931",
+        "created_at": "2026-01-21T20:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T21:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014071472151732359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014071472151732359",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014003343660826931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 那就剪了吧（滑稽）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8469,
+          "following_count": 1104,
+          "like_count": 15714,
+          "listed_count": 15,
+          "media_count": 292,
+          "tweet_count": 2095
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T19:58:59.000Z",
+        "description": "北京/26/药娘但是攻守兼备/可线下/178cm/145/想被玩到翻白眼吐舌头脑袋空白(* ⁰̷̴͈꒨⁰̷̴͈)/看上的请带照片私信ʕ ᵔᴥᵔ ʔ/请用真心换取真心哦(　ﾟ∀ﾟ) ﾉ♡/希望多多关注点赞！(∗❛ั∀❛ั∗)✧*。/打赏请看置顶٩(๑•ㅂ•)۶/谢谢你到来爱你＾3＾~/QQ1762315155🚪58",
+        "id": "1477006342418165761",
+        "location": "北京, 中华人民共和国",
+        "name": "阿羽想雌堕~",
+        "pinned_tweet_id": "1654168279382884355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860981675024424960/gSkMYCbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 453,
+          "like_count": 232,
+          "listed_count": 12,
+          "media_count": 117,
+          "tweet_count": 170
+        },
+        "username": "yuleiwusheng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065372741537259958",
+    "created_at": "2026-06-13T00:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065590861178851836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065297017396690944",
+          "start": 0,
+          "username": "nnon12onn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065590861178851836",
+    "in_reply_to_user_id": "2065297017396690944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065372741537259958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnon12onn 私の友達になってくれませんか？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065372741537259958",
+        "created_at": "2026-06-13T00:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065590861178851836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065297017396690944",
+              "start": 0,
+              "username": "nnon12onn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065590861178851836",
+        "in_reply_to_user_id": "2065297017396690944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065372741537259958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnon12onn 私の友達になってくれませんか？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065297017396690944",
+        "conversation_id": "2065372741537259958",
+        "created_at": "2026-06-12T09:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065372741537259958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065372741537259958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16636,
+          "like_count": 191,
+          "quote_count": 0,
+          "reply_count": 156,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想交中国朋友，不过身边没有能一起聊天的人💦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8661,
+          "following_count": 1126,
+          "like_count": 16116,
+          "listed_count": 17,
+          "media_count": 333,
+          "tweet_count": 2354
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T04:57:06.000Z",
+        "description": "🇯🇵海外の人とお話ししたいオタク🚺07　NFSW!!　🇨🇳 学习中文　🇰🇷 한국어 공부 중　🇷🇺 Изучаю русский　🇬🇧 Studying English　　聴覚障害あります。",
+        "id": "2065297017396690944",
+        "location": "女子高生です！",
+        "name": "山吹　奏",
+        "pinned_tweet_id": "2065408485538550257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336890111475712/Fs84AiQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 16,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 82
+        },
+        "username": "nnon12onn",
+        "verified": false
+      }
+    ]
+  }
+}

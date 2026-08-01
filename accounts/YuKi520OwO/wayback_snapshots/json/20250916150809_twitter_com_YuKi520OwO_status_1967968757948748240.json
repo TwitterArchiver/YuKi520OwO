@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967832506109137411",
+    "created_at": "2025-09-16T15:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T16:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967968757948748240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902902431190499328",
+          "start": 0,
+          "username": "Blujack283685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967968757948748240",
+    "in_reply_to_user_id": "1902902431190499328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967832506109137411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blujack283685 一但地震桥是很可能支撑不住的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1621,
+        "media_key": "3_1967832258498240518",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08lA1lXoAYEPOP.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967832506109137411",
+        "created_at": "2025-09-16T15:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T16:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967968757948748240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902902431190499328",
+              "start": 0,
+              "username": "Blujack283685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967968757948748240",
+        "in_reply_to_user_id": "1902902431190499328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967832506109137411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blujack283685 一但地震桥是很可能支撑不住的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967832258498240518"
+          ]
+        },
+        "author_id": "1902902431190499328",
+        "conversation_id": "1967832506109137411",
+        "created_at": "2025-09-16T06:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967832506109137411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eF2O78zyoc",
+              "end": 52,
+              "expanded_url": "https://x.com/Blujack283685/status/1967832506109137411/photo/1",
+              "media_key": "3_1967832258498240518",
+              "start": 29,
+              "url": "https://t.co/eF2O78zyoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967832506109137411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 199152,
+          "like_count": 216,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "38公里的大裂缝为什么不修一座桥 这样不就方便通行了吗？ https://t.co/eF2O78zyoc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8685,
+          "following_count": 1082,
+          "like_count": 15361,
+          "listed_count": 15,
+          "media_count": 266,
+          "tweet_count": 1956
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:58:19.000Z",
+        "description": "🇨🇳正义必胜\n🇨🇳和平必胜\n🇨🇳人民必胜\n小号：@dameizhongguo3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "dameizhongguo3"
+              }
+            ]
+          }
+        },
+        "id": "1902902431190499328",
+        "name": "千百度❤（互fo互赞互关）",
+        "pinned_tweet_id": "1952532827154919774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902902804433473539/w9rg7B4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8201,
+          "following_count": 5231,
+          "like_count": 20886,
+          "listed_count": 8,
+          "media_count": 252,
+          "tweet_count": 14942
+        },
+        "username": "Blujack283685",
+        "verified": false
+      }
+    ]
+  }
+}

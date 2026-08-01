@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1968042375290425438",
+    "created_at": "2025-09-16T20:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T21:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968042375290425438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuehongdieqwq/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yuehongdieqwq/status/1968029497493688448",
+          "start": 8,
+          "url": "https://t.co/prxfyF4Q1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968042375290425438",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968029497493688448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来互关月虹蝶！ https://t.co/prxfyF4Q1H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_1968029494654144513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_YZfhaEAE1IfY.jpg",
+        "width": 2063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1968042375290425438",
+        "created_at": "2025-09-16T20:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T21:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968042375290425438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuehongdieqwq/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yuehongdieqwq/status/1968029497493688448",
+              "start": 8,
+              "url": "https://t.co/prxfyF4Q1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968042375290425438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968029497493688448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来互关月虹蝶！ https://t.co/prxfyF4Q1H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968029494654144513"
+          ]
+        },
+        "author_id": "1965786477302075393",
+        "conversation_id": "1968029497493688448",
+        "created_at": "2025-09-16T19:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T20:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968029497493688448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQLMGQAj4h",
+              "end": 40,
+              "expanded_url": "https://x.com/yuehongdieqwq/status/1968029497493688448/photo/1",
+              "media_key": "3_1968029494654144513",
+              "start": 17,
+              "url": "https://t.co/nQLMGQAj4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968029497493688448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求转转，想互关…想要更多朋友! https://t.co/nQLMGQAj4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8687,
+          "following_count": 1082,
+          "like_count": 15372,
+          "listed_count": 15,
+          "media_count": 266,
+          "tweet_count": 1959
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T14:36:51.000Z",
+        "description": "新人友跨顺女大王请多关照!｜互关寻回中｜ed｜ADHD｜双相｜交流障碍｜♡",
+        "id": "1965786477302075393",
+        "location": "Nagasaki-shi, Nagasaki",
+        "name": "月虹蝶（2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965788219636891648/lhHWssHI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 76,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "yuehongdieqwq",
+        "verified": false
+      }
+    ]
+  }
+}

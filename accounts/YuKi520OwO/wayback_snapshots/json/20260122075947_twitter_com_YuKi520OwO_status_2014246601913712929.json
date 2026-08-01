@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014246524222316544"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "2014246601913712929",
+    "created_at": "2026-01-22T07:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014246601913712929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eOcBvxYqtw",
+          "end": 187,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2014246601913712929/photo/1",
+          "media_key": "3_2014246524222316544",
+          "start": 164,
+          "url": "https://t.co/eOcBvxYqtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014246601913712929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是千雪 叫我千雪/雪/雪宝/小雪都行\n年龄23/身高175cm/体重60kg\n伪音苦手/中性装日常/不够pass\n定居广州/全国可飞\n爱好音游/日漫/旅行/游戏\n目前精神状况稳定 正在持续服药控制精神疾病 （双相情感障碍/精神分裂症）\n🚪28单次只约/58附带陪聊多次可约/108附带置顶陪聊加回头客折扣\n口令红包也可以哦~ https://t.co/eOcBvxYqtw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2014246524222316544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QKirZWIAAIyiT.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014246524222316544"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2014246601913712929",
+        "created_at": "2026-01-22T07:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014246601913712929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOcBvxYqtw",
+              "end": 187,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2014246601913712929/photo/1",
+              "media_key": "3_2014246524222316544",
+              "start": 164,
+              "url": "https://t.co/eOcBvxYqtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014246601913712929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是千雪 叫我千雪/雪/雪宝/小雪都行\n年龄23/身高175cm/体重60kg\n伪音苦手/中性装日常/不够pass\n定居广州/全国可飞\n爱好音游/日漫/旅行/游戏\n目前精神状况稳定 正在持续服药控制精神疾病 （双相情感障碍/精神分裂症）\n🚪28单次只约/58附带陪聊多次可约/108附带置顶陪聊加回头客折扣\n口令红包也可以哦~ https://t.co/eOcBvxYqtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1924415107662266562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8468,
+          "following_count": 1107,
+          "like_count": 15720,
+          "listed_count": 15,
+          "media_count": 293,
+          "tweet_count": 2102
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967812089118110203",
+    "created_at": "2025-09-16T07:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T08:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967855055610187927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1196633399999389696",
+          "start": 0,
+          "username": "kirisame_nana23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967855055610187927",
+    "in_reply_to_user_id": "1196633399999389696",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967812089118110203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirisame_nana23 ⑨ baka！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_1967812056348045312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08So6tbMAAr4Y_.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2890,
+        "media_key": "3_1967812056377352192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08So60aYAA39Zu.jpg",
+        "width": 1911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967812089118110203",
+        "created_at": "2025-09-16T07:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967855055610187927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1196633399999389696",
+              "start": 0,
+              "username": "kirisame_nana23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967855055610187927",
+        "in_reply_to_user_id": "1196633399999389696",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967812089118110203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirisame_nana23 ⑨ baka！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967812056348045312",
+            "3_1967812056377352192"
+          ]
+        },
+        "author_id": "1196633399999389696",
+        "conversation_id": "1967812089118110203",
+        "created_at": "2025-09-16T04:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T05:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967812089118110203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zE4Y7mtFCH",
+              "end": 23,
+              "expanded_url": "https://x.com/kirisame_nana23/status/1967812089118110203/photo/1",
+              "media_key": "3_1967812056348045312",
+              "start": 0,
+              "url": "https://t.co/zE4Y7mtFCH"
+            },
+            {
+              "display_url": "pic.x.com/zE4Y7mtFCH",
+              "end": 23,
+              "expanded_url": "https://x.com/kirisame_nana23/status/1967812089118110203/photo/1",
+              "media_key": "3_1967812056377352192",
+              "start": 0,
+              "url": "https://t.co/zE4Y7mtFCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967812089118110203",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1146,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zE4Y7mtFCH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8683,
+          "following_count": 1077,
+          "like_count": 15273,
+          "listed_count": 15,
+          "media_count": 264,
+          "tweet_count": 1911
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-19T03:36:57.000Z",
+        "description": "男娘 | 小红书b站抖音同名 ----------- 里百合💕@TKNS_kanatsu不接任何推广和账号出售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "TKNS_kanatsu"
+              }
+            ]
+          }
+        },
+        "id": "1196633399999389696",
+        "location": "東京 渋谷区",
+        "name": "雾雨菜菜✨",
+        "pinned_tweet_id": "1819596960892178485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942063681036247040/RjvuAT0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48669,
+          "following_count": 1542,
+          "like_count": 12677,
+          "listed_count": 190,
+          "media_count": 275,
+          "tweet_count": 4184
+        },
+        "username": "kirisame_nana23",
+        "verified": false
+      }
+    ]
+  }
+}

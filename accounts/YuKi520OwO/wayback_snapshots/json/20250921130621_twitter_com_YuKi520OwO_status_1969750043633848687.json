@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1969703714547241071",
+    "created_at": "2025-09-21T13:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969750043633848687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553282763490336769",
+          "start": 0,
+          "username": "Chiyuki_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969750043633848687",
+    "in_reply_to_user_id": "1553282763490336769",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969703714547241071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuki_OvO ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1969703711422418944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XLFvAaEAAyD2Q.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1969703714547241071",
+        "created_at": "2025-09-21T13:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969750043633848687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553282763490336769",
+              "start": 0,
+              "username": "Chiyuki_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969750043633848687",
+        "in_reply_to_user_id": "1553282763490336769",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969703714547241071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuki_OvO ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969703711422418944"
+          ]
+        },
+        "author_id": "1553282763490336769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1969703714547241071",
+        "created_at": "2025-09-21T10:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T11:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969703714547241071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zt0Q8p5NRK",
+              "end": 38,
+              "expanded_url": "https://x.com/Chiyuki_OvO/status/1969703714547241071/photo/1",
+              "media_key": "3_1969703711422418944",
+              "start": 15,
+              "url": "https://t.co/zt0Q8p5NRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969703714547241071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前锁后塞开60能走路，大赢😋 https://t.co/zt0Q8p5NRK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "。",
+        "id": "1479730386431545346",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "樱井🥺千雪🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8693,
+          "following_count": 1094,
+          "like_count": 15467,
+          "listed_count": 15,
+          "media_count": 271,
+          "tweet_count": 1986
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:34:16.000Z",
+        "description": "25.5.31 hrt｜欢迎xyn xnn 友跨互fo哦｜08年末｜",
+        "id": "1553282763490336769",
+        "location": "Akita-shi, Akita",
+        "name": "天野川千雪🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1964720838646940096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969596189080502279/yLtWGZXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 290,
+          "like_count": 258,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 418
+        },
+        "username": "Chiyuki_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

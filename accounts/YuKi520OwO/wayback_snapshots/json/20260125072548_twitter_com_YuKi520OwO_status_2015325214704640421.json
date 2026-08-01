@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2014989101716672844",
+    "created_at": "2026-01-25T07:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T08:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015325214704640421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801490762888318976",
+          "start": 0,
+          "username": "raotianshou"
+        },
+        {
+          "end": 23,
+          "id": "1271512602145730560",
+          "start": 13,
+          "username": "Akino_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015325214704640421",
+    "in_reply_to_user_id": "1801490762888318976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014998695117492366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raotianshou @Akino_QwQ 掐掐你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2014989101716672844",
+        "created_at": "2026-01-25T07:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015325214704640421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801490762888318976",
+              "start": 0,
+              "username": "raotianshou"
+            },
+            {
+              "end": 23,
+              "id": "1271512602145730560",
+              "start": 13,
+              "username": "Akino_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015325214704640421",
+        "in_reply_to_user_id": "1801490762888318976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014998695117492366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raotianshou @Akino_QwQ 掐掐你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801490762888318976",
+        "conversation_id": "2014989101716672844",
+        "created_at": "2026-01-24T09:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014998695117492366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1271512602145730560",
+              "start": 0,
+              "username": "Akino_QwQ"
+            },
+            {
+              "end": 22,
+              "id": "1479730386431545346",
+              "start": 11,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014998695117492366",
+        "in_reply_to_user_id": "1271512602145730560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014989101716672844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akino_QwQ @YuKi520OwO 我也要玩，快点掐我脖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2014246601913712929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8468,
+          "following_count": 1110,
+          "like_count": 15754,
+          "listed_count": 15,
+          "media_count": 295,
+          "tweet_count": 2112
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T05:44:21.000Z",
+        "description": "05註冊地球online🍥一读书就不开心🍥大一萌新医学生🍥嘴上功夫一流🍥同類私信互fo🍥努力圓角中 #线下 #圆角",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "线下"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "圆角"
+              }
+            ]
+          }
+        },
+        "id": "1801490762888318976",
+        "name": "神楽坂 幻蝶纯梦🍥(互fo版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935366192602001408/7pYL-OmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 158,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 222
+        },
+        "username": "raotianshou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！持证含？/友跨顺男/收破烂的/Maimai DX/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/拆机/LLer/火车迷/mc原版/化学已退坑/ADHD/想od/不键政!/对象(不混圈)/主人@HoshinoMako0131/妹妹@banzaixyg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 122,
+                "username": "HoshinoMako0131"
+              },
+              {
+                "end": 151,
+                "start": 141,
+                "username": "banzaixyg"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "location": "华立科技展厅",
+        "name": "一定不是银喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 858,
+          "like_count": 15943,
+          "listed_count": 5,
+          "media_count": 557,
+          "tweet_count": 3217
+        },
+        "username": "Akino_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

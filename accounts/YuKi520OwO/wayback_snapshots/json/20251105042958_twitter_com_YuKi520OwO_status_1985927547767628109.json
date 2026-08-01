@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1985927547767628109",
+    "created_at": "2025-11-05T04:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T05:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985927547767628109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905258429821898752",
+          "start": 3,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985927547767628109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985913911011655763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarNekOvO: 最新一期的作业是 一周入门golang 和 nmap👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1985927547767628109",
+        "created_at": "2025-11-05T04:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T05:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985927547767628109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905258429821898752",
+              "start": 3,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985927547767628109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985913911011655763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarNekOvO: 最新一期的作业是 一周入门golang 和 nmap👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905258429821898752",
+        "conversation_id": "1985913911011655763",
+        "created_at": "2025-11-05T03:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T04:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985913911011655763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/milkstarneko/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/milkstarneko/status/1975876904336150968",
+              "start": 29,
+              "url": "https://t.co/mv5d9FUYS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985913911011655763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975876904336150968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最新一期的作业是 一周入门golang 和 nmap👁️ https://t.co/mv5d9FUYS9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8560,
+          "following_count": 1118,
+          "like_count": 15706,
+          "listed_count": 15,
+          "media_count": 286,
+          "tweet_count": 2071
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T14:00:02.000Z",
+        "description": "牛奶猫@MilkStarNeko | バグバウンティハンター（見習い）Rust🦀 | Co-Founder of @0xSomeLab | 🍥友跨 | 心理学苦手 | 真人会回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "MilkStarNeko"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "0xSomeLab"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/AU3CBDyMuO"
+              }
+            ]
+          }
+        },
+        "id": "1905258429821898752",
+        "location": "🌕",
+        "name": "Misaka8023",
+        "pinned_tweet_id": "1974208245377233378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984175670197645312/BzLyYUci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 301,
+          "like_count": 1813,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 572
+        },
+        "url": "https://t.co/AU3CBDyMuO",
+        "username": "StarNekOvO",
+        "verified": false
+      }
+    ]
+  }
+}

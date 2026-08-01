@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1939609965670613046",
+    "created_at": "2025-07-01T08:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T09:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939959957496934821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1924965014831824896",
+          "start": 0,
+          "username": "Yuwen_Tang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939959957496934821",
+    "in_reply_to_user_id": "1924965014831824896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939609965670613046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuwen_Tang1019 那我缺的反跨这块谁给我补啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939609962990239744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gurg_B7XgAAvd4y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1939609965670613046",
+        "created_at": "2025-07-01T08:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T09:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939959957496934821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1924965014831824896",
+              "start": 0,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939959957496934821",
+        "in_reply_to_user_id": "1924965014831824896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939609965670613046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuwen_Tang1019 那我缺的反跨这块谁给我补啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939609962990239744"
+          ]
+        },
+        "author_id": "1924965014831824896",
+        "conversation_id": "1939609965670613046",
+        "created_at": "2025-06-30T09:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939609965670613046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjswJ4p6uz",
+              "end": 67,
+              "expanded_url": "https://x.com/Yuwen_Tang1019/status/1939609965670613046/photo/1",
+              "media_key": "3_1939609962990239744",
+              "start": 44,
+              "url": "https://t.co/KjswJ4p6uz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939609965670613046",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7659,
+          "like_count": 73,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HRT START !!!（6.30）\nday 1\n今日吃50mg色和4mg雌（复合） https://t.co/KjswJ4p6uz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8794,
+          "following_count": 1033,
+          "like_count": 15070,
+          "listed_count": 16,
+          "media_count": 244,
+          "tweet_count": 1822
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "MTF（hrt2025.6.30）\n被迫绿奴\n出轨的老公:@zhishi_cook\n墨尔本\n道德价值观如钢板\n反跨\nq群975641126\nhttps://t.co/HRulu0zTpS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "zhishi_cook"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+DhBw7EtOmx01Z…",
+                "end": 93,
+                "expanded_url": "https://t.me/+DhBw7EtOmx01ZDY1",
+                "start": 70,
+                "url": "https://t.co/HRulu0zTpS"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "妈妈的怀里",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1939173873758675122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 256,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1622
+        },
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

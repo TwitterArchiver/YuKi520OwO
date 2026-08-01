@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1938080839193239976",
+    "created_at": "2025-06-26T04:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T05:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938089260508406228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1477006342418165761",
+          "start": 0,
+          "username": "yuleiwusheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938089260508406228",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938080839193239976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuleiwusheng"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938080829793808384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuVyPw3asAAlfLb.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1938080839193239976",
+        "created_at": "2025-06-26T04:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938089260508406228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1477006342418165761",
+              "start": 0,
+              "username": "yuleiwusheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938089260508406228",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938080839193239976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuleiwusheng"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938080829793808384"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1938080839193239976",
+        "created_at": "2025-06-26T03:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T04:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938080839193239976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CI3TDwojAI",
+              "end": 26,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1938080839193239976/photo/1",
+              "media_key": "3_1938080829793808384",
+              "start": 3,
+              "url": "https://t.co/CI3TDwojAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938080839193239976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "银帕 https://t.co/CI3TDwojAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8772,
+          "following_count": 1032,
+          "like_count": 15028,
+          "listed_count": 16,
+          "media_count": 242,
+          "tweet_count": 1799
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T19:58:59.000Z",
+        "description": "北京/26/药娘但是攻守兼备/178cm/145/想被玩到翻白眼吐舌头脑袋空白(* ⁰̷̴͈꒨⁰̷̴͈)/看上的请带照片私信ʕ ᵔᴥᵔ ʔ/请用真心换取真心哦(　ﾟ∀ﾟ) ﾉ♡/希望多多关注点赞！(∗❛ั∀❛ั∗)✧*。/打赏请看置顶٩(๑•ㅂ•)۶/谢谢你到来爱你＾3＾~/QQ1762315155🚪58",
+        "id": "1477006342418165761",
+        "location": "北京, 中华人民共和国",
+        "name": "阿羽想雌堕~",
+        "pinned_tweet_id": "1654168279382884355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860981675024424960/gSkMYCbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 477,
+          "like_count": 195,
+          "listed_count": 12,
+          "media_count": 87,
+          "tweet_count": 133
+        },
+        "username": "yuleiwusheng",
+        "verified": false
+      }
+    ]
+  }
+}

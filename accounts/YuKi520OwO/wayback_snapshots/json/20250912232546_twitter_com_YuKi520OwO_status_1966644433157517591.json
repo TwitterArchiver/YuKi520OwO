@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1966432559119638786",
+    "created_at": "2025-09-12T23:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T00:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966644433157517591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1222065289417891840",
+          "start": 0,
+          "username": "_XingShang_"
+        },
+        {
+          "end": 21,
+          "id": "961832160377282560",
+          "start": 13,
+          "username": "iMoeAya"
+        },
+        {
+          "end": 37,
+          "id": "1705934998673686528",
+          "start": 22,
+          "username": "KatoRosa220201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966644433157517591",
+    "in_reply_to_user_id": "1222065289417891840",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966432559119638786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_XingShang_ @iMoeAya @KatoRosa220201 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15296,
+        "height": 1280,
+        "media_key": "7_1966432503440539648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1966432503440539648/pu/img/1gBKAQrcyYe0qNto.jpg",
+        "public_metrics": {
+          "view_count": 1377
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966432503440539648/pu/vid/avc1/320x568/6ZLfTF3P9QsewdQo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966432503440539648/pu/vid/avc1/480x852/qc_THdF77HhPbEsZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966432503440539648/pu/vid/avc1/720x1280/rFCeANBiNRUO5wMP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1966432503440539648/pu/pl/xI0pEp4rys0kdkFE.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1966432559119638786",
+        "created_at": "2025-09-12T23:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T00:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966644433157517591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1222065289417891840",
+              "start": 0,
+              "username": "_XingShang_"
+            },
+            {
+              "end": 21,
+              "id": "961832160377282560",
+              "start": 13,
+              "username": "iMoeAya"
+            },
+            {
+              "end": 37,
+              "id": "1705934998673686528",
+              "start": 22,
+              "username": "KatoRosa220201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966644433157517591",
+        "in_reply_to_user_id": "1222065289417891840",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966432559119638786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_XingShang_ @iMoeAya @KatoRosa220201 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1966432503440539648"
+          ]
+        },
+        "author_id": "1222065289417891840",
+        "conversation_id": "1966432559119638786",
+        "created_at": "2025-09-12T09:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T10:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966432559119638786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 125,
+              "id": "961832160377282560",
+              "start": 117,
+              "username": "iMoeAya"
+            },
+            {
+              "end": 148,
+              "id": "1705934998673686528",
+              "start": 133,
+              "username": "KatoRosa220201"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtDyc0Sk6v",
+              "end": 172,
+              "expanded_url": "https://x.com/_XingShang_/status/1966432559119638786/video/1",
+              "media_key": "7_1966432503440539648",
+              "start": 149,
+              "url": "https://t.co/QtDyc0Sk6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966432559119638786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5104,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "（擦地）（擦地）（擦地）（用力擦地）（擦汗）大小姐最近玩的真花啊，这地板擦不干净不会扣我工资吧，哎不管了擦完地送大小姐回去就能收工了，下次加班要让大小姐给加班费……等等，大小姐呢？不好大小姐还在上面吊着吐血呢╭(°A°`)╮\n大小姐：@iMoeAya\n场    地：@KatoRosa220201 https://t.co/QtDyc0Sk6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8690,
+          "following_count": 1069,
+          "like_count": 15252,
+          "listed_count": 15,
+          "media_count": 262,
+          "tweet_count": 1902
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-28T07:54:17.000Z",
+        "description": "一个玩绳子的，大概算不上专业，比上不足比下有余，泛性恋，开放关系，纯绳/调教/色色均可。",
+        "id": "1222065289417891840",
+        "location": "北京",
+        "name": "行觞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960515730400796676/HTZ3znQC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 127,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 148
+        },
+        "username": "_XingShang_",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951641714483183616/OGRyh4_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38198,
+          "following_count": 4106,
+          "like_count": 164727,
+          "listed_count": 134,
+          "media_count": 1086,
+          "tweet_count": 34458
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T13:19:51.000Z",
+        "description": "北京/INFJ/处女座/被缚/养成系缚手/浮光屋招常驻绳师/欢迎私信\nLike the wind of the wilderness.",
+        "id": "1705934998673686528",
+        "name": "KatoRosa",
+        "pinned_tweet_id": "1959089048209039646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961294909786525696/aVy7whjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 292,
+          "like_count": 1558,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 504
+        },
+        "username": "KatoRosa220201",
+        "verified": false
+      }
+    ]
+  }
+}

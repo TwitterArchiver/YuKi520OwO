@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065654001442681073",
+    "created_at": "2026-06-13T04:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065654001442681073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youy1qwq/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/youy1qwq/status/2065471067108610223",
+          "start": 7,
+          "url": "https://t.co/dWO0ujos8w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065654001442681073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065471067108610223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "口水唧唧8元 https://t.co/dWO0ujos8w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2065471058602561539",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoG_AXbEAMfPF4.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065654001442681073",
+        "created_at": "2026-06-13T04:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065654001442681073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2065471067108610223",
+              "start": 7,
+              "url": "https://t.co/dWO0ujos8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065654001442681073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065471067108610223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "口水唧唧8元 https://t.co/dWO0ujos8w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065471058602561539"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065471067108610223",
+        "created_at": "2026-06-12T16:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065471067108610223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCBoSpMMOE",
+              "end": 35,
+              "expanded_url": "https://x.com/youy1qwq/status/2065471067108610223/photo/1",
+              "media_key": "3_2065471058602561539",
+              "start": 12,
+              "url": "https://t.co/qCBoSpMMOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065471067108610223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2933,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的菜似乎有些不一样 https://t.co/qCBoSpMMOE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8660,
+          "following_count": 1127,
+          "like_count": 16118,
+          "listed_count": 17,
+          "media_count": 334,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14488,
+          "following_count": 2104,
+          "like_count": 5663,
+          "listed_count": 24,
+          "media_count": 2040,
+          "tweet_count": 2981
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

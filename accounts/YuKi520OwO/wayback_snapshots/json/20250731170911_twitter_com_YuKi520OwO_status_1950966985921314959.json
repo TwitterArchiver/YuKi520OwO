@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1950966985921314959",
+    "created_at": "2025-07-31T17:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T18:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950966985921314959"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "東京",
+          "probability": 0.9808,
+          "start": 8,
+          "type": "Place"
+        },
+        {
+          "end": 28,
+          "normalized_text": "日本",
+          "probability": 0.7871,
+          "start": 27,
+          "type": "Place"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950966985921314959",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私は8月20日に東京に到着しましたが、一緒に遊びに来る日本の友達はいますか？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1950966985921314959",
+        "created_at": "2025-07-31T17:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T18:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950966985921314959"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "東京",
+              "probability": 0.9808,
+              "start": 8,
+              "type": "Place"
+            },
+            {
+              "end": 28,
+              "normalized_text": "日本",
+              "probability": 0.7871,
+              "start": 27,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950966985921314959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私は8月20日に東京に到着しましたが、一緒に遊びに来る日本の友達はいますか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8750,
+          "following_count": 1064,
+          "like_count": 15212,
+          "listed_count": 14,
+          "media_count": 249,
+          "tweet_count": 1853
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

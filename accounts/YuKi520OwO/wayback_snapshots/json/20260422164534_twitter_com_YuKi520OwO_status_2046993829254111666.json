@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2046867201005916288",
+    "created_at": "2026-04-22T16:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046993829254111666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "716102708873170944",
+          "start": 0,
+          "username": "ufucjxtssuvovlk"
+        },
+        {
+          "end": 33,
+          "id": "1186651487155322880",
+          "start": 17,
+          "username": "RonaldSimmonsUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046993829254111666",
+    "in_reply_to_user_id": "716102708873170944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046983387483914347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ufucjxtssuvovlk @RonaldSimmonsUS 反正禁售了我也不需要这种药就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2046867201005916288",
+        "created_at": "2026-04-22T16:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046993829254111666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "716102708873170944",
+              "start": 0,
+              "username": "ufucjxtssuvovlk"
+            },
+            {
+              "end": 33,
+              "id": "1186651487155322880",
+              "start": 17,
+              "username": "RonaldSimmonsUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046993829254111666",
+        "in_reply_to_user_id": "716102708873170944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046983387483914347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ufucjxtssuvovlk @RonaldSimmonsUS 反正禁售了我也不需要这种药就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "716102708873170944",
+        "conversation_id": "2046867201005916288",
+        "created_at": "2026-04-22T16:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046983387483914347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1186651487155322880",
+              "start": 0,
+              "username": "RonaldSimmonsUS"
+            },
+            {
+              "end": 28,
+              "id": "1479730386431545346",
+              "start": 17,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046983387483914347",
+        "in_reply_to_user_id": "1186651487155322880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046976029361865206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RonaldSimmonsUS @YuKi520OwO 说的轻巧  不过要靠这种药物度日的人 也比较难移民吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2044443894151364641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8566,
+          "following_count": 1107,
+          "like_count": 16095,
+          "listed_count": 17,
+          "media_count": 321,
+          "tweet_count": 2260
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-02T03:19:25.000Z",
+        "description": "反乌托邦",
+        "id": "716102708873170944",
+        "location": "比利时",
+        "name": "诶哎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581125143199375361/yxHQy22y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 80,
+          "like_count": 719,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 273
+        },
+        "username": "ufucjxtssuvovlk",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-22T14:32:26.000Z",
+        "description": "American, Christian, patriot(Republican), journalist, Julian Assange supporter.\nGod bless America!\n🇺🇸🤝🇮🇱\n#MadeInUSA\n#1A\n#2A\n#FollowBack 100%\n#IFBAP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 105,
+                "tag": "MadeInUSA"
+              },
+              {
+                "end": 119,
+                "start": 116,
+                "tag": "1A"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "2A"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "tag": "FollowBack"
+              },
+              {
+                "end": 147,
+                "start": 141,
+                "tag": "IFBAP"
+              }
+            ]
+          }
+        },
+        "id": "1186651487155322880",
+        "location": "Washington, DC",
+        "name": "Ronald Simmons🇺🇸🦅✝️",
+        "pinned_tweet_id": "1869860983642173565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343476573706485760/y4nITVko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64298,
+          "following_count": 56968,
+          "like_count": 225228,
+          "listed_count": 112,
+          "media_count": 25430,
+          "tweet_count": 169264
+        },
+        "username": "RonaldSimmonsUS",
+        "verified": true
+      }
+    ]
+  }
+}

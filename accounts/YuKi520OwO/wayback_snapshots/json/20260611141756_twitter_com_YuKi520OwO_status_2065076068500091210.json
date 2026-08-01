@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cuisines",
+          "id": "860133563332648963",
+          "name": "Cuisines"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Chinese Cuisine",
+          "id": "860136866950950912",
+          "name": "Chinese cuisine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Chinese Cuisine",
+          "id": "860136866950950912",
+          "name": "Chinese cuisine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1193991001892745216",
+          "name": "Cuisines"
+        }
+      }
+    ],
+    "conversation_id": "2064930015083655653",
+    "created_at": "2026-06-11T14:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065076068500091210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1417457938025779200",
+          "start": 0,
+          "username": "43_ojou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065076068500091210",
+    "in_reply_to_user_id": "1417457938025779200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064930015083655653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@43_ojou 本当に中国に旅行して中華料理を食べるべきだと思います"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_2064930009022885888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKga5xnacAALasP.jpg",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          }
+        ],
+        "conversation_id": "2064930015083655653",
+        "created_at": "2026-06-11T14:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065076068500091210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1417457938025779200",
+              "start": 0,
+              "username": "43_ojou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065076068500091210",
+        "in_reply_to_user_id": "1417457938025779200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064930015083655653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@43_ojou 本当に中国に旅行して中華料理を食べるべきだと思います"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064930009022885888"
+          ]
+        },
+        "author_id": "1417457938025779200",
+        "conversation_id": "2064930015083655653",
+        "created_at": "2026-06-11T04:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064930015083655653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kX49o7Q1Ex",
+              "end": 91,
+              "expanded_url": "https://x.com/43_ojou/status/2064930015083655653/photo/1",
+              "media_key": "3_2064930009022885888",
+              "start": 68,
+              "url": "https://t.co/kX49o7Q1Ex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064930015083655653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12181,
+          "like_count": 287,
+          "quote_count": 0,
+          "reply_count": 89,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国🇨🇳のフォロワーさんにDMでそのへんの八百屋さんで買ったおいしそうで安い大量のライチを見せられて羨ましい、僕も玄宗皇帝になろうかな https://t.co/kX49o7Q1Ex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2064012227951423791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8664,
+          "following_count": 1120,
+          "like_count": 16071,
+          "listed_count": 17,
+          "media_count": 331,
+          "tweet_count": 2322
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T12:14:51.000Z",
+        "description": "英語や中国語、アラビア語を学んだり女装をしたりしています",
+        "id": "1417457938025779200",
+        "name": "恵",
+        "pinned_tweet_id": "2058095616241369415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055559369077739520/JH7BJMqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 1919,
+          "like_count": 344579,
+          "listed_count": 12,
+          "media_count": 8596,
+          "tweet_count": 53289
+        },
+        "username": "43_ojou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967893574156242994",
+    "created_at": "2025-09-16T14:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T15:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967956070145691991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943704460813041665",
+          "start": 0,
+          "username": "kasaikoxyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967956070145691991",
+    "in_reply_to_user_id": "1943704460813041665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967893574156242994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasaikoxyg 确实耐杀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1967893560461852673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09cxFMbgAE0-4N.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967893574156242994",
+        "created_at": "2025-09-16T14:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967956070145691991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943704460813041665",
+              "start": 0,
+              "username": "kasaikoxyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967956070145691991",
+        "in_reply_to_user_id": "1943704460813041665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967893574156242994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasaikoxyg 确实耐杀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967893560461852673"
+          ]
+        },
+        "author_id": "1943704460813041665",
+        "conversation_id": "1967893574156242994",
+        "created_at": "2025-09-16T10:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T11:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967893574156242994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvcOhkZsCf",
+              "end": 72,
+              "expanded_url": "https://x.com/kasaikoxyg/status/1967893574156242994/photo/1",
+              "media_key": "3_1967893560461852673",
+              "start": 49,
+              "url": "https://t.co/YvcOhkZsCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967893574156242994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 929,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的疼死我了，一觉醒来腿感觉和废了一样剧痛，我不得不说月尘止痛效果真的好，可是药效过了真的会疼死 https://t.co/YvcOhkZsCf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8685,
+          "following_count": 1081,
+          "like_count": 15322,
+          "listed_count": 15,
+          "media_count": 266,
+          "tweet_count": 1937
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎耐杀王，成功又活一天",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 554,
+          "like_count": 10904,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 3367
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1984278519644569985",
+    "created_at": "2025-10-31T15:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T16:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984278519644569985"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984278519644569985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "纪念spring风\n为此，白天o了神秘小药物\n也确实达到了致幻效果，变形了但不是剧烈变形，看来还是要煮一锅死藤水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1984278519644569985",
+        "created_at": "2025-10-31T15:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984278519644569985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984278519644569985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纪念spring风\n为此，白天o了神秘小药物\n也确实达到了致幻效果，变形了但不是剧烈变形，看来还是要煮一锅死藤水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "#女的，别再来找我发约炮广告了，sb吧？\n                呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女的"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984225791648145409/7VIyzL2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8560,
+          "following_count": 1111,
+          "like_count": 15597,
+          "listed_count": 15,
+          "media_count": 285,
+          "tweet_count": 2054
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

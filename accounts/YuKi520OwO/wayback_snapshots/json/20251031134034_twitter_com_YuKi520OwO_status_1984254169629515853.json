@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1981039507815485740",
+    "created_at": "2025-10-31T13:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T14:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984254169629515853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817584080437014528",
+          "start": 0,
+          "username": "N552AA"
+        },
+        {
+          "end": 19,
+          "id": "1943704460813041665",
+          "start": 8,
+          "username": "kasaikoxyg"
+        },
+        {
+          "end": 30,
+          "id": "1926307161480568832",
+          "start": 20,
+          "username": "banzaixyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984254169629515853",
+    "in_reply_to_user_id": "1817584080437014528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981105923293925529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA @kasaikoxyg @banzaixyg 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1981039507815485740",
+        "created_at": "2025-10-31T13:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984254169629515853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817584080437014528",
+              "start": 0,
+              "username": "N552AA"
+            },
+            {
+              "end": 19,
+              "id": "1943704460813041665",
+              "start": 8,
+              "username": "kasaikoxyg"
+            },
+            {
+              "end": 30,
+              "id": "1926307161480568832",
+              "start": 20,
+              "username": "banzaixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984254169629515853",
+        "in_reply_to_user_id": "1817584080437014528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981105923293925529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA @kasaikoxyg @banzaixyg 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817584080437014528",
+        "conversation_id": "1981039507815485740",
+        "created_at": "2025-10-22T21:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T22:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981105923293925529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926307161480568832",
+              "start": 0,
+              "username": "banzaixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981105923293925529",
+        "in_reply_to_user_id": "1926307161480568832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2550,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981039507815485740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzaixyg 亲身经历：别相信寒涟漪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "#女的，别再来找我发约炮广告了，sb吧？\n                呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女的"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984225791648145409/7VIyzL2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8562,
+          "following_count": 1112,
+          "like_count": 15548,
+          "listed_count": 15,
+          "media_count": 283,
+          "tweet_count": 2048
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/家暴党/ADHD/BPD/断续含糖/坐标上海/有小证/抱抱最最可爱的姐姐: @yizhikapaiqaq 妈妈：@bolichara0 主人：@yumekaayumi @nahida_miao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "bolichara0"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "yumekaayumi"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "nahida_miao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLj51"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004171713146880/ZhbhI7xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 968,
+          "like_count": 3737,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1316
+        },
+        "url": "https://t.co/zkiZZtLj51",
+        "username": "N552AA",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎耐杀王，成功又活一天",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 714,
+          "like_count": 13230,
+          "listed_count": 4,
+          "media_count": 118,
+          "tweet_count": 3823
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@yaiikawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984103853646827520/2hCQevKI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 448,
+          "like_count": 3397,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1521
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

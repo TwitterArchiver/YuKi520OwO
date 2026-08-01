@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1934843389398405552",
+    "created_at": "2025-06-20T04:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T05:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935915681725530604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814654715369816064",
+          "start": 0,
+          "username": "RosaritaCisner"
+        },
+        {
+          "end": 27,
+          "id": "1836782122037874688",
+          "start": 16,
+          "username": "mio1738468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935915681725530604",
+    "in_reply_to_user_id": "1814654715369816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935701912638419084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RosaritaCisner @mio1738468 防止晶哥钓鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1934843389398405552",
+        "created_at": "2025-06-20T04:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T05:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935915681725530604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814654715369816064",
+              "start": 0,
+              "username": "RosaritaCisner"
+            },
+            {
+              "end": 27,
+              "id": "1836782122037874688",
+              "start": 16,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935915681725530604",
+        "in_reply_to_user_id": "1814654715369816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935701912638419084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RosaritaCisner @mio1738468 防止晶哥钓鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814654715369816064",
+        "conversation_id": "1934843389398405552",
+        "created_at": "2025-06-19T14:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T15:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935701912638419084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 23,
+              "id": "1836782122037874688",
+              "start": 12,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935701912638419084",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934843389398405552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO @mio1738468 好奇已经购买并且发货的会怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8763,
+          "following_count": 1026,
+          "like_count": 15001,
+          "listed_count": 15,
+          "media_count": 239,
+          "tweet_count": 1784
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T13:33:15.000Z",
+        "description": "双相混合/舞萌痴/音游痴/osu！/术力口/Ado",
+        "id": "1814654715369816064",
+        "name": "Yameii",
+        "pinned_tweet_id": "1927074877833363554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908060706609704963/3F3w2n0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 205,
+          "like_count": 1323,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 652
+        },
+        "username": "RosaritaCisner",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是三崎，@misakixyg这个也是我哦谢谢你和我一起玩，我会记得你😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "misakixyg"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被拉莫三崎噎死",
+        "pinned_tweet_id": "1887720941645615580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887983199336476672/YFxSqeQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4571,
+          "following_count": 478,
+          "like_count": 10564,
+          "listed_count": 5,
+          "media_count": 955,
+          "tweet_count": 8862
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1978552086670241817",
+    "created_at": "2026-01-28T09:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T10:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016448481595199900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810566312286142464",
+          "start": 0,
+          "username": "AltoliaPandrago"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016448481595199900",
+    "in_reply_to_user_id": "1810566312286142464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982766689667437008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AltoliaPandrago 411能看精神科也能手术好吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1978552086670241817",
+        "created_at": "2026-01-28T09:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T10:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016448481595199900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810566312286142464",
+              "start": 0,
+              "username": "AltoliaPandrago"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016448481595199900",
+        "in_reply_to_user_id": "1810566312286142464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982766689667437008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AltoliaPandrago 411能看精神科也能手术好吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810566312286142464",
+        "conversation_id": "1978552086670241817",
+        "created_at": "2025-10-27T11:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982766689667437008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982766689667437008",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978552086670241817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 先看看这医院是什么医院吧😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2014246601913712929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8460,
+          "following_count": 1111,
+          "like_count": 15832,
+          "listed_count": 15,
+          "media_count": 301,
+          "tweet_count": 2139
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T06:47:11.000Z",
+        "description": "",
+        "id": "1810566312286142464",
+        "location": "北京",
+        "name": "EX咖喱棒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889406301509451776/4Kgxln_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 1378,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 146
+        },
+        "username": "AltoliaPandrago",
+        "verified": false
+      }
+    ]
+  }
+}

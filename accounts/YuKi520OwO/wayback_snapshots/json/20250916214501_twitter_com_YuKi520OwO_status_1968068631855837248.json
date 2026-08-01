@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968068617024790528"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1968054887964672384",
+    "created_at": "2025-09-16T21:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T22:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968068631855837248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1742111768649052160",
+          "start": 0,
+          "username": "Hanachanwa1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ixGKm3UXjM",
+          "end": 92,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1968068631855837248/photo/1",
+          "media_key": "3_1968068617024790528",
+          "start": 69,
+          "url": "https://t.co/ixGKm3UXjM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968068631855837248",
+    "in_reply_to_user_id": "1742111768649052160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968054887964672384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hanachanwa1 可以看看有没有w或者丽思卡尔顿，住起来很舒服还有行政酒廊 景观房 泳池。w还给你提供很多饮品酒品食品情趣用品。 https://t.co/ixGKm3UXjM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968068617024790528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_7-ttbYAAtXVc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968068617024790528"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1968054887964672384",
+        "created_at": "2025-09-16T21:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T22:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968068631855837248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1742111768649052160",
+              "start": 0,
+              "username": "Hanachanwa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixGKm3UXjM",
+              "end": 92,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1968068631855837248/photo/1",
+              "media_key": "3_1968068617024790528",
+              "start": 69,
+              "url": "https://t.co/ixGKm3UXjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968068631855837248",
+        "in_reply_to_user_id": "1742111768649052160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968054887964672384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hanachanwa1 可以看看有没有w或者丽思卡尔顿，住起来很舒服还有行政酒廊 景观房 泳池。w还给你提供很多饮品酒品食品情趣用品。 https://t.co/ixGKm3UXjM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742111768649052160",
+        "conversation_id": "1968054887964672384",
+        "created_at": "2025-09-16T20:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T21:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968054887964672384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968054887964672384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "武汉有什么超级豪华必住的酒店吗？想去武汉度假……呜呜呜呜、自从上次去澳门圆角、住了澳门的豪华酒店之后、就感觉内地的豪华酒店都千篇一律、好无聊、估计好长一段时间无法超越了……（对了、武汉也可以接圆角、并且可以按工时计费！武汉专属门槛、支付宝口令红包68！）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8688,
+          "following_count": 1083,
+          "like_count": 15384,
+          "listed_count": 15,
+          "media_count": 269,
+          "tweet_count": 1964
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T09:13:44.000Z",
+        "description": "🚫仅此一个号 ｜ 🏳️‍⚧️Highly qualified #xyn ｜ 🍥小药娘 ｜ 💜地雷系、萝莉系、可爱脸 ｜ ⚠️接线下 #圆角 #爸爸活 ｜ 🚪#门槛 口令红包298 ｜ ✈️全国可飞 ｜ 🔞未成年勿扰 ｜ 📷寻找摄影师 ｜ 🍑出售 #原味",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "xyn"
+              },
+              {
+                "end": 69,
+                "start": 66,
+                "tag": "圆角"
+              },
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "爸爸活"
+              },
+              {
+                "end": 81,
+                "start": 78,
+                "tag": "门槛"
+              },
+              {
+                "end": 126,
+                "start": 123,
+                "tag": "原味"
+              }
+            ]
+          }
+        },
+        "id": "1742111768649052160",
+        "name": "小花酱🏳️‍⚧️はなちゃんは〜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742530929263104000/IALD6jyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16791,
+          "following_count": 291,
+          "like_count": 1649,
+          "listed_count": 37,
+          "media_count": 385,
+          "tweet_count": 1944
+        },
+        "username": "Hanachanwa1",
+        "verified": false
+      }
+    ]
+  }
+}

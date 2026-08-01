@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953934952728502272"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1953934964141281784",
+    "created_at": "2025-08-08T21:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T22:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953934964141281784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JSVW2XYA1f",
+          "end": 25,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1953934964141281784/photo/1",
+          "media_key": "3_1953934952728502272",
+          "start": 2,
+          "url": "https://t.co/JSVW2XYA1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953934964141281784",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/JSVW2XYA1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953934952728502272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx3FfLOaIAAiwKw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953934952728502272"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953934964141281784",
+        "created_at": "2025-08-08T21:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T22:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953934964141281784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSVW2XYA1f",
+              "end": 25,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1953934964141281784/photo/1",
+              "media_key": "3_1953934952728502272",
+              "start": 2,
+              "url": "https://t.co/JSVW2XYA1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953934964141281784",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/JSVW2XYA1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8762,
+          "following_count": 1073,
+          "like_count": 15275,
+          "listed_count": 14,
+          "media_count": 256,
+          "tweet_count": 1881
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

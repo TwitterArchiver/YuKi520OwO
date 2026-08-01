@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1983940324092486003",
+    "created_at": "2025-10-30T16:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T17:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983940324092486003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Snow_YuKi_OvO/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Snow_YuKi_OvO/status/1983940084836847719",
+          "start": 3,
+          "url": "https://t.co/1JrbqidKLb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983940324092486003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983940084836847719",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "教我 https://t.co/1JrbqidKLb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1983940084836847719].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1983940084836847719",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983940084836847719"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1983940324092486003",
+        "created_at": "2025-10-30T16:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T17:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983940324092486003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_YuKi_OvO/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Snow_YuKi_OvO/status/1983940084836847719",
+              "start": 3,
+              "url": "https://t.co/1JrbqidKLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983940324092486003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983940084836847719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "教我 https://t.co/1JrbqidKLb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "#女的，别再来找我发约炮广告了，sb吧？\n                呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女的"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8560,
+          "following_count": 1104,
+          "like_count": 15481,
+          "listed_count": 15,
+          "media_count": 282,
+          "tweet_count": 2039
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

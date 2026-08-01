@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1967830811719373136",
+    "created_at": "2025-09-16T07:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T08:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967860611259531481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1965439333286248455",
+          "start": 0,
+          "username": "mumu_yumemi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967860611259531481",
+    "in_reply_to_user_id": "1965439333286248455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967830811719373136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mumu_yumemi むむさんは本当にかわいいです！\nむむさんの今後のvtuberキャリアが順風満帆であることを願っています"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1967817604216852480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08Xr2IbEAARoqg.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1967830811719373136",
+        "created_at": "2025-09-16T07:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967860611259531481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965439333286248455",
+              "start": 0,
+              "username": "mumu_yumemi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967860611259531481",
+        "in_reply_to_user_id": "1965439333286248455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967830811719373136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mumu_yumemi むむさんは本当にかわいいです！\nむむさんの今後のvtuberキャリアが順風満帆であることを願っています"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967817604216852480"
+          ]
+        },
+        "author_id": "1965439333286248455",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405259614053036032",
+              "name": "Dating sims"
+            }
+          }
+        ],
+        "conversation_id": "1967830811719373136",
+        "created_at": "2025-09-16T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967830811719373136"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 65,
+              "tag": "すぺしゃりて"
+            },
+            {
+              "end": 156,
+              "start": 146,
+              "tag": "新人Vtuber️"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNiIqjspSN",
+              "end": 180,
+              "expanded_url": "https://x.com/mumu_yumemi/status/1967830811719373136/photo/1",
+              "media_key": "3_1967817604216852480",
+              "start": 157,
+              "url": "https://t.co/XNiIqjspSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967830811719373136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 12390,
+          "like_count": 252,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "♡･ 𝟵/𝟮𝟯（𝗧𝘂𝗲） 𝟭𝟵:𝟯𝟬 𝗗𝗲𝗯𝘂𝘁 ･♡\n╭━━━━━━━━╮\n      ばっきゅーん!!\n╰━ｖ━━━━━━╯\n#すぺしゃりて 所属4期生のギャルゲー担当❕\n\"きゅん\"が主食の夢見せ獏！夢見むむだよ💬💜\n\n夢はこの世のギャルゲーを全てやり尽くすｺﾄ❕\nこれからよろしくね💤\n#新人Vtuber️ https://t.co/XNiIqjspSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8683,
+          "following_count": 1078,
+          "like_count": 15284,
+          "listed_count": 15,
+          "media_count": 264,
+          "tweet_count": 1922
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T15:37:26.000Z",
+        "description": "すぺしゃりて( @Specialite_JP )所属4期生┆ 幸せな夢を見せる\"きゅん\"が主食の獏💬💜 ┆ ギャルゲーと可愛い女の子がすき ┆ まま @kimishima_ao ┆ぱぱ @n_syusi ┆総合 #夢見むむ ┆配信 #むむの夢見中 ┆ 🎨 #むむの夢日記 ┆ ✂️ #切り抜きむむ ┆ FN むむ党",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 106,
+                "tag": "夢見むむ"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "tag": "むむの夢見中"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "tag": "むむの夢日記"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "tag": "切り抜きむむ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "Specialite_JP"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "kimishima_ao"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "n_syusi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mumu_yumemi",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@mumu_yumemi",
+                "start": 0,
+                "url": "https://t.co/vVyiGR93QW"
+              }
+            ]
+          }
+        },
+        "id": "1965439333286248455",
+        "name": "夢見むむ💬💜",
+        "pinned_tweet_id": "1967830811719373136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967768541303808000/d5_1xFOX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 22,
+          "like_count": 23,
+          "listed_count": 66,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/vVyiGR93QW",
+        "username": "mumu_yumemi",
+        "verified": false
+      }
+    ]
+  }
+}

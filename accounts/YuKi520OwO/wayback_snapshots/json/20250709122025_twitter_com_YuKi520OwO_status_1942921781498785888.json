@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1942847761809883422",
+    "created_at": "2025-07-09T12:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T13:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942921781498785888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1780837272126132224",
+          "start": 0,
+          "username": "qn52157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942921781498785888",
+    "in_reply_to_user_id": "1780837272126132224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942847761809883422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qn52157 🐱:喵～喵呜～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1942847747880812544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZhu6kagAAEgIi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1942847761809883422",
+        "created_at": "2025-07-09T12:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T13:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942921781498785888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1780837272126132224",
+              "start": 0,
+              "username": "qn52157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942921781498785888",
+        "in_reply_to_user_id": "1780837272126132224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942847761809883422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qn52157 🐱:喵～喵呜～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942847747880812544"
+          ]
+        },
+        "author_id": "1780837272126132224",
+        "conversation_id": "1942847761809883422",
+        "created_at": "2025-07-09T07:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T08:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942847761809883422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8b0RBQKlt",
+              "end": 33,
+              "expanded_url": "https://x.com/qn52157/status/1942847761809883422/photo/1",
+              "media_key": "3_1942847747880812544",
+              "start": 10,
+              "url": "https://t.co/Q8b0RBQKlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942847761809883422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上最笨的哈基米 https://t.co/Q8b0RBQKlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8781,
+          "following_count": 1056,
+          "like_count": 15186,
+          "listed_count": 16,
+          "media_count": 247,
+          "tweet_count": 1839
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T05:54:33.000Z",
+        "description": "常驻苏州，🚪68，原味闲置可出，全国可飞，愿世上再也没有戒网瘾学校",
+        "id": "1780837272126132224",
+        "name": "泉奈🍥",
+        "pinned_tweet_id": "1913516973742604618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937391657026224129/icDvcANH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5322,
+          "following_count": 520,
+          "like_count": 1418,
+          "listed_count": 15,
+          "media_count": 125,
+          "tweet_count": 328
+        },
+        "username": "qn52157",
+        "verified": false
+      }
+    ]
+  }
+}

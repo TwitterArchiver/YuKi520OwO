@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2064796528737177958",
+    "created_at": "2026-06-11T05:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064937847568973938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1005907526876106752",
+          "start": 0,
+          "username": "ozgeppn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064937847568973938",
+    "in_reply_to_user_id": "1005907526876106752",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064796528737177958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ozgeppn 76901  64  Here I see two numbers"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1555,
+        "media_key": "3_2064796523955683328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKehf6_XAAAT9aL.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2064796528737177958",
+        "created_at": "2026-06-11T05:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064937847568973938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1005907526876106752",
+              "start": 0,
+              "username": "ozgeppn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064937847568973938",
+        "in_reply_to_user_id": "1005907526876106752",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064796528737177958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ozgeppn 76901  64  Here I see two numbers"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064796523955683328"
+          ]
+        },
+        "author_id": "1005907526876106752",
+        "conversation_id": "2064796528737177958",
+        "created_at": "2026-06-10T19:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T20:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064796528737177958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKlp8GQvFf",
+              "end": 181,
+              "expanded_url": "https://x.com/ozgeppn/status/2064796528737177958/photo/1",
+              "media_key": "3_2064796523955683328",
+              "start": 158,
+              "url": "https://t.co/eKlp8GQvFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064796528737177958",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 751,
+          "impression_count": 1212535,
+          "like_count": 3489,
+          "quote_count": 361,
+          "reply_count": 16407,
+          "retweet_count": 439
+        },
+        "reply_settings": "everyone",
+        "text": "Henüz kimse bu sayıyı bulamadı 👀 \n\nZORLUK SEVİYESİ - ÇOK ZOR Henüz kimse sayıyı bulamadı \n\nDoğru cevabı bulan 10.000$ kazanır 💸\n24 saat sonra sona eriyor! ⌛️ https://t.co/eKlp8GQvFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2064012227951423791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8663,
+          "following_count": 1120,
+          "like_count": 16050,
+          "listed_count": 17,
+          "media_count": 330,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-10T20:20:18.000Z",
+        "description": "Reklam ve iş birliği için dm 💌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ozgeppn",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ozgeppn",
+                "start": 0,
+                "url": "https://t.co/LuAJd2ExUy"
+              }
+            ]
+          }
+        },
+        "id": "1005907526876106752",
+        "location": "İstanbul, Türkiye",
+        "name": "ÖZGE",
+        "pinned_tweet_id": "1869772862481117360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950514676023820288/EZGYTSXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109556,
+          "following_count": 74643,
+          "like_count": 134196,
+          "listed_count": 80,
+          "media_count": 3184,
+          "tweet_count": 25809
+        },
+        "url": "https://t.co/LuAJd2ExUy",
+        "username": "ozgeppn",
+        "verified": true
+      }
+    ]
+  }
+}

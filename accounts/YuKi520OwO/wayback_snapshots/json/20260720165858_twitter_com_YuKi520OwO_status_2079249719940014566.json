@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065363151705837568",
+    "created_at": "2026-07-20T16:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079249719940014566"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079249719940014566",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065363151705837568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新增项目：三角洲代打"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2065363144126730240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmk1jnbkAA6M11.jpg",
+        "width": 1037
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065363144411938816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmk1krbgAAnL4s.jpg",
+        "width": 515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065363151705837568",
+        "created_at": "2026-07-20T16:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079249719940014566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079249719940014566",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065363151705837568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新增项目：三角洲代打"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065363144126730240",
+            "3_2065363144411938816"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065363151705837568",
+        "created_at": "2026-06-12T09:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065363151705837568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qeiAoFJMLq",
+              "end": 180,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2065363151705837568/photo/1",
+              "media_key": "3_2065363144126730240",
+              "start": 157,
+              "url": "https://t.co/qeiAoFJMLq"
+            },
+            {
+              "display_url": "pic.x.com/qeiAoFJMLq",
+              "end": 180,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2065363151705837568/photo/1",
+              "media_key": "3_2065363144411938816",
+              "start": 157,
+              "url": "https://t.co/qeiAoFJMLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065363151705837568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3429,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是千雪 叫我千雪/雪/雪宝/小雪都行\n年龄23/身高176cm/体重60kg\n伪音苦手/中性装日常/不够pass\n无定居地/全国可飞\n爱好音游/日漫/旅行/游戏\n目前精神状况稳定 正在持续服药控制精神疾病 （精神分裂症）\n🚪28单次只约/58附带陪聊多次可约/108附带置顶陪聊加回头客折扣\n口令红包也可以哦~ https://t.co/qeiAoFJMLq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8681,
+          "following_count": 1159,
+          "like_count": 16295,
+          "listed_count": 18,
+          "media_count": 345,
+          "tweet_count": 2461
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

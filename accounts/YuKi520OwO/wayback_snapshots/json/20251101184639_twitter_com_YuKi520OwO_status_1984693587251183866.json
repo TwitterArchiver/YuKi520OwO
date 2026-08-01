@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1949119783670071628",
+    "created_at": "2025-11-01T18:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T19:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984693587251183866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582777747449217024",
+          "start": 0,
+          "username": "qianxue1314"
+        },
+        {
+          "end": 25,
+          "id": "1587653801305153538",
+          "start": 13,
+          "username": "XiaoHuiHuiH"
+        },
+        {
+          "end": 33,
+          "id": "1949590084761567232",
+          "start": 26,
+          "username": "Wan7qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984693587251183866",
+    "in_reply_to_user_id": "1582777747449217024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949119783670071628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxue1314 @XiaoHuiHuiH @Wan7qi 并非老公（又认识一个千雪捏）"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Wan7qi].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Wan7qi",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Wan7qi"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_1949119777777319936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwyqHGsbAAAG5KE.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1949119783670071628",
+        "created_at": "2025-11-01T18:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T19:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984693587251183866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582777747449217024",
+              "start": 0,
+              "username": "qianxue1314"
+            },
+            {
+              "end": 25,
+              "id": "1587653801305153538",
+              "start": 13,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 33,
+              "id": "1949590084761567232",
+              "start": 26,
+              "username": "Wan7qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984693587251183866",
+        "in_reply_to_user_id": "1582777747449217024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949119783670071628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxue1314 @XiaoHuiHuiH @Wan7qi 并非老公（又认识一个千雪捏）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949119777777319936"
+          ]
+        },
+        "author_id": "1582777747449217024",
+        "conversation_id": "1949119783670071628",
+        "created_at": "2025-07-26T14:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T15:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949119783670071628"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "男娘母狗"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "伪娘露出"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "线下足交"
+            },
+            {
+              "end": 90,
+              "start": 83,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 63,
+              "id": "1949590084761567232",
+              "start": 56,
+              "username": "Wan7qi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2kLZWlLz8l",
+              "end": 114,
+              "expanded_url": "https://x.com/qianxue1314/status/1949119783670071628/photo/1",
+              "media_key": "3_1949119777777319936",
+              "start": 91,
+              "url": "https://t.co/2kLZWlLz8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949119783670071628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 814,
+          "impression_count": 448184,
+          "like_count": 3801,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 293
+        },
+        "reply_settings": "everyone",
+        "text": "做爱后，和老公的双人共浴！\nAfter sex, the bath time with my husband.\n@Wan7qi \n#男娘母狗 #伪娘露出 #线下足交 #可爱的男孩子 https://t.co/2kLZWlLz8l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "#女的，别再来找我发约炮广告了，sb吧？\n                呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女的"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8556,
+          "following_count": 1112,
+          "like_count": 15683,
+          "listed_count": 15,
+          "media_count": 286,
+          "tweet_count": 2063
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T16:56:36.000Z",
+        "description": "电报推广只是恰饭，真假自辨！这里是千雪！私信赞助cos服和红包，可定制喜欢的内容😘   好友位🚪168  ，带口令私信（过门有福利，可线下可陪玩）老公是 @wan770428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "wan770428"
+              }
+            ]
+          }
+        },
+        "id": "1582777747449217024",
+        "location": "（不过🚪勿扰，发不明意义的直接拉黑）",
+        "name": "千雪",
+        "pinned_tweet_id": "1984487604952179189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946892782267719680/DM3hEPFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88279,
+          "following_count": 181,
+          "like_count": 1104,
+          "listed_count": 383,
+          "media_count": 46,
+          "tweet_count": 213
+        },
+        "username": "qianxue1314",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/不堪风流往事🩷💜/21岁/上岸啦，不再约炮和援交/❤️\n@Mirro_zinuo\n/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mirro_zinuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1973169992570118470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11784,
+          "following_count": 1365,
+          "like_count": 148900,
+          "listed_count": 23,
+          "media_count": 4774,
+          "tweet_count": 64500
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

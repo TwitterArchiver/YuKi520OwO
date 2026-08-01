@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2042228449260327241",
+    "created_at": "2026-04-09T13:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042228449260327241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1638959586140098560",
+          "start": 3,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042228449260327241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042110322639827245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiuyouforwhite: 🎉 1000fo抽奖第一弹！X内抽奖\n\n一等奖(1人)：愈美片一箱(折现80r)\n二等奖(2人)：红pr三盒(折现45r)\n三等奖(3人)：咖啡一杯(折现10r)\n\n【参与条件】关注+点赞+评论+转发（四项必做）\n\n【抽奖方式】按大家投票…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2042228449260327241",
+        "created_at": "2026-04-09T13:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042228449260327241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1638959586140098560",
+              "start": 3,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042228449260327241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042110322639827245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiuyouforwhite: 🎉 1000fo抽奖第一弹！X内抽奖\n\n一等奖(1人)：愈美片一箱(折现80r)\n二等奖(2人)：红pr三盒(折现45r)\n三等奖(3人)：咖啡一杯(折现10r)\n\n【参与条件】关注+点赞+评论+转发（四项必做）\n\n【抽奖方式】按大家投票…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2042110322639827245",
+        "created_at": "2026-04-09T05:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042110322639827245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042110322639827245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4568,
+          "like_count": 195,
+          "quote_count": 3,
+          "reply_count": 164,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "🎉 1000fo抽奖第一弹！X内抽奖\n\n一等奖(1人)：愈美片一箱(折现80r)\n二等奖(2人)：红pr三盒(折现45r)\n三等奖(3人)：咖啡一杯(折现10r)\n\n【参与条件】关注+点赞+评论+转发（四项必做）\n\n【抽奖方式】按大家投票(55%)用Grok公开抽\n\n【开奖时间】4月17日\n\n令一个抽奖在下个帖子，可同时参与。\n\n祝好运～🍀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2025837106732613865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8326,
+          "following_count": 1105,
+          "like_count": 15998,
+          "listed_count": 16,
+          "media_count": 312,
+          "tweet_count": 2211
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "17班の致幻晚自习",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2042110322639827245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 998,
+          "like_count": 2583,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 1419
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

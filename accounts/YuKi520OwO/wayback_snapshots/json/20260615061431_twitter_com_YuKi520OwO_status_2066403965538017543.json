@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065363151705837568",
+    "created_at": "2026-06-15T06:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066403965538017543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1257369080421445634",
+          "start": 0,
+          "username": "o7y1Umo4OzkVWqF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066403965538017543",
+    "in_reply_to_user_id": "1257369080421445634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066292130344259649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o7y1Umo4OzkVWqF 主要是看守所把我头发剪了 不然就不是这个颜值了，而且既然要全套服务我肯定假发加化妆的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065363151705837568",
+        "created_at": "2026-06-15T06:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066403965538017543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1257369080421445634",
+              "start": 0,
+              "username": "o7y1Umo4OzkVWqF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066403965538017543",
+        "in_reply_to_user_id": "1257369080421445634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066292130344259649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o7y1Umo4OzkVWqF 主要是看守所把我头发剪了 不然就不是这个颜值了，而且既然要全套服务我肯定假发加化妆的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257369080421445634",
+        "conversation_id": "2065363151705837568",
+        "created_at": "2026-06-14T22:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066292130344259649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066292130344259649",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065363151705837568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 很抱歉，颜值有点低！所以性价比不高。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8678,
+          "following_count": 1135,
+          "like_count": 16176,
+          "listed_count": 18,
+          "media_count": 333,
+          "tweet_count": 2380
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-04T17:58:53.000Z",
+        "description": "在长沙工作，想包养一个真娘，萝莉，药娘...其实漂亮就行，如果有兴趣的请私聊。",
+        "id": "1257369080421445634",
+        "location": "长沙",
+        "name": "孙大圣110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1425102520481980416/babVarjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 130,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 95
+        },
+        "username": "o7y1Umo4OzkVWqF",
+        "verified": false
+      }
+    ]
+  }
+}

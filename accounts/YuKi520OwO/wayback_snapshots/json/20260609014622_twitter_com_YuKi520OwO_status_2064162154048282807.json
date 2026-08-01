@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064162017695645696"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "2064162154048282807",
+    "created_at": "2026-06-09T01:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064162154048282807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ymN32l8GI",
+          "end": 167,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2064162154048282807/photo/1",
+          "media_key": "3_2064162017695645696",
+          "start": 144,
+          "url": "https://t.co/7ymN32l8GI"
+        },
+        {
+          "display_url": "x.com/Viki211027/sta…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/Viki211027/status/2063982037959372829",
+          "start": 168,
+          "url": "https://t.co/4QX8xnGXTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064162154048282807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063982037959372829",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物 https://t.co/7ymN32l8GI https://t.co/4QX8xnGXTW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064162154048282807].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064162154048282807",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064162154048282807"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064162017695645696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVgay-aQAApCC_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063982034968813569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKS8ubEaoAEbgKV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063982034968813569"
+          ]
+        },
+        "author_id": "2013100592202194945",
+        "conversation_id": "2063982037959372829",
+        "created_at": "2026-06-08T13:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063982037959372829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DwxSrqorhk",
+              "end": 167,
+              "expanded_url": "https://x.com/Viki211027/status/2063982037959372829/photo/1",
+              "media_key": "3_2063982034968813569",
+              "start": 144,
+              "url": "https://t.co/DwxSrqorhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063982037959372829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物\n药物过量危及生命，坚决抵制滥用药物 https://t.co/DwxSrqorhk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2064012227951423791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8660,
+          "following_count": 1115,
+          "like_count": 16016,
+          "listed_count": 17,
+          "media_count": 328,
+          "tweet_count": 2290
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T04:06:07.000Z",
+        "description": "mtf/ENTP/10年1月/想雌爆/想和对象永远在一起/长相拟人/想srs/想进女厕所/想扎日雌/家长党/双向情感障碍/小证2026.1.16/老婆@xieerfan\n天上给我掉下个妹妹多好啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xieerfan"
+              }
+            ]
+          }
+        },
+        "id": "2013100592202194945",
+        "name": "🍥Dr土豆尼🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057078110718513152/tmrJAH72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 21,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 220
+        },
+        "username": "Viki211027",
+        "verified": false
+      }
+    ]
+  }
+}

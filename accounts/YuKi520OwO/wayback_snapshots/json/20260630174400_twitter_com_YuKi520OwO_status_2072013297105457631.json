@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2071984679004291498",
+    "created_at": "2026-06-30T17:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072013297105457631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801490762888318976",
+          "start": 0,
+          "username": "raotianshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072013297105457631",
+    "in_reply_to_user_id": "1801490762888318976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071984679004291498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raotianshou 怎么不喊上我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2071984672435818496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMErFOyXUAAQqEP.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2071984679004291498",
+        "created_at": "2026-06-30T17:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072013297105457631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801490762888318976",
+              "start": 0,
+              "username": "raotianshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072013297105457631",
+        "in_reply_to_user_id": "1801490762888318976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071984679004291498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raotianshou 怎么不喊上我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071984672435818496"
+          ]
+        },
+        "author_id": "1801490762888318976",
+        "conversation_id": "2071984679004291498",
+        "created_at": "2026-06-30T15:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071984679004291498"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "xyn"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "mtf"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "广州"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "男娘"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "伪娘"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhKG5kqLCf",
+              "end": 73,
+              "expanded_url": "https://x.com/raotianshou/status/2071984679004291498/photo/1",
+              "media_key": "3_2071984672435818496",
+              "start": 50,
+              "url": "https://t.co/DhKG5kqLCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071984679004291498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抓到知名的广州摄影圈的xyn七七，真的好快乐耶\n＃xyn ＃mtf ＃广州 ＃男娘 ＃伪娘 ＃药娘 https://t.co/DhKG5kqLCf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8691,
+          "following_count": 1153,
+          "like_count": 16276,
+          "listed_count": 18,
+          "media_count": 340,
+          "tweet_count": 2438
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T05:44:21.000Z",
+        "description": "05註冊地球online🍥一读书就不开心🍥大一萌新医学生🍥真心爱着每一个人❤️同類私信互fo🍥OKX交易学习中🍥需要🍬的宝宝墙内私信（Q2906007139）",
+        "id": "1801490762888318976",
+        "name": "神楽坂 幻蝶纯梦🍥(互fo版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935366192602001408/7pYL-OmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 202,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "raotianshou",
+        "verified": false
+      }
+    ]
+  }
+}

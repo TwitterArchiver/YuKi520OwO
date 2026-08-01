@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2007332951986741597",
+    "created_at": "2026-01-26T04:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T05:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015647020745412905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1426793440046632963",
+          "start": 0,
+          "username": "reedreedandsoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015647020745412905",
+    "in_reply_to_user_id": "1426793440046632963",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007332951986741597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reedreedandsoon 我看到了以前的自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2007332951986741597",
+        "created_at": "2026-01-26T04:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015647020745412905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1426793440046632963",
+              "start": 0,
+              "username": "reedreedandsoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015647020745412905",
+        "in_reply_to_user_id": "1426793440046632963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007332951986741597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reedreedandsoon 我看到了以前的自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426793440046632963",
+        "conversation_id": "2007332951986741597",
+        "created_at": "2026-01-03T06:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007332951986741597"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "01864a8a64df9dc4"
+        },
+        "id": "2007332951986741597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么又梦到你了，明明都下定决心忘记你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2014246601913712929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8464,
+          "following_count": 1114,
+          "like_count": 15789,
+          "listed_count": 15,
+          "media_count": 300,
+          "tweet_count": 2125
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T06:30:49.000Z",
+        "description": "想变成闪闪发亮的小老虎",
+        "id": "1426793440046632963",
+        "location": "神圣泰拉 审判庭马上到你家门口",
+        "name": "白芷（冲击2030世锦赛冠军ing）",
+        "pinned_tweet_id": "1977640025602023924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865748407220056064/gJd5UpI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4577,
+          "following_count": 3520,
+          "like_count": 14494,
+          "listed_count": 10,
+          "media_count": 1293,
+          "tweet_count": 11912
+        },
+        "username": "reedreedandsoon",
+        "verified": true
+      }
+    ]
+  }
+}

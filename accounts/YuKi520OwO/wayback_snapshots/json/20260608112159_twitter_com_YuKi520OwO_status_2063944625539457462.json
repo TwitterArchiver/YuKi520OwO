@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2063944625539457462",
+    "created_at": "2026-06-08T11:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063944625539457462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449281677045760",
+          "start": 0,
+          "username": "Sorcerer1311"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2063871144835330394",
+          "start": 14,
+          "url": "https://t.co/GZE6vIuzEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063944625539457462",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063871144835330394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorcerer1311 https://t.co/GZE6vIuzEF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5500,
+        "height": 720,
+        "media_key": "13_2063725724175888384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063725724175888384/img/tC6s8XNlrsTa7rvf.jpg",
+        "public_metrics": {
+          "view_count": 27423
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063725724175888384/vid/avc1/480x270/lANNnR0iav9tWD3n.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063725724175888384/vid/avc1/640x360/wY3PiN9e9sDCs22p.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063725724175888384/vid/avc1/1280x720/BExvb6o57U1fUC8Y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063725724175888384/pl/kV1NIynKjdr5jFqV.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 14303,
+        "height": 1074,
+        "media_key": "13_2063726022843891712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063726022843891712/img/uWubqcNu1ex6MEr9.jpg",
+        "public_metrics": {
+          "view_count": 8049
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063726022843891712/vid/avc1/320x596/tn51bD85QZQuw1iQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063726022843891712/vid/avc1/480x894/6KUrTgAMgOpZ2mMW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063726022843891712/vid/avc1/576x1074/xviwUIxB6ghE_ciQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063726022843891712/pl/MnKTJ_XiGsYoxOu7.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 10704,
+        "height": 1280,
+        "media_key": "13_2063726036706099200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063726036706099200/img/dswR_EKTBsCCOLft.jpg",
+        "public_metrics": {
+          "view_count": 4183
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063726036706099200/vid/avc1/320x568/2cOUQ1tw4NseA4B5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063726036706099200/vid/avc1/480x852/o9g3CtZ3pl1T4ZAn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063726036706099200/vid/avc1/720x1280/JP3W0l09q6F0EUOC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063726036706099200/pl/fDdTWK1eNzWvUaNN.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2063726119501611008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPT-LqWwAAaetl.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2063944625539457462",
+        "created_at": "2026-06-08T11:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063944625539457462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2063871144835330394",
+              "start": 14,
+              "url": "https://t.co/GZE6vIuzEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063944625539457462",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063871144835330394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 https://t.co/GZE6vIuzEF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063725724175888384",
+            "13_2063726022843891712",
+            "13_2063726036706099200",
+            "3_2063726119501611008"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063871144835330394",
+        "created_at": "2026-06-08T06:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063871144835330394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vtDKlj45eH",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063871144835330394/video/1",
+              "media_key": "13_2063725724175888384",
+              "start": 101,
+              "url": "https://t.co/vtDKlj45eH"
+            },
+            {
+              "display_url": "pic.x.com/vtDKlj45eH",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063871144835330394/video/1",
+              "media_key": "13_2063726022843891712",
+              "start": 101,
+              "url": "https://t.co/vtDKlj45eH"
+            },
+            {
+              "display_url": "pic.x.com/vtDKlj45eH",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063871144835330394/video/1",
+              "media_key": "13_2063726036706099200",
+              "start": 101,
+              "url": "https://t.co/vtDKlj45eH"
+            },
+            {
+              "display_url": "pic.x.com/vtDKlj45eH",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063871144835330394/video/1",
+              "media_key": "3_2063726119501611008",
+              "start": 101,
+              "url": "https://t.co/vtDKlj45eH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063871144835330394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 60434,
+          "like_count": 409,
+          "quote_count": 8,
+          "reply_count": 106,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：6月6日，广州动漫星城。我的英雄学院coser被霸凌。\ncoser首先被路人追着拍照、围堵，随后还被人抢走假发。\n画面中，霸凌者拿着假发嚣张地甩动，引发围观者起哄\n最后，警察过来赶走了受害者 https://t.co/vtDKlj45eH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2044443894151364641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8658,
+          "following_count": 1114,
+          "like_count": 15995,
+          "listed_count": 17,
+          "media_count": 325,
+          "tweet_count": 2280
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 781,
+          "like_count": 1158,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2282
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235833,
+          "following_count": 1070,
+          "like_count": 9641,
+          "listed_count": 8798,
+          "media_count": 48151,
+          "tweet_count": 55304
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2013904164443562399",
+    "created_at": "2026-01-23T05:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T06:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014564193467564069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        },
+        {
+          "end": 25,
+          "id": "1284427583057268736",
+          "start": 11,
+          "username": "bundeswehr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014564193467564069",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013904164443562399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz @bundeswehr233 评价一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2013904164443562399",
+        "created_at": "2026-01-23T05:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014564193467564069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            },
+            {
+              "end": 25,
+              "id": "1284427583057268736",
+              "start": 11,
+              "username": "bundeswehr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014564193467564069",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013904164443562399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz @bundeswehr233 评价一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28940967",
+        "conversation_id": "2013904164443562399",
+        "created_at": "2026-01-21T09:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T10:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013904164443562399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013904164443562399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 470702,
+          "like_count": 1256,
+          "quote_count": 11,
+          "reply_count": 193,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "2026全球十大宜居城市\n\n1 维也纳 ( 奥地利 )\n2 哥本哈根 ( 丹麦 )\n3 苏黎世 ( 瑞士 )\n4 卡尔加里 ( 加拿大 )\n5 温哥华 ( 加拿大 )\n6 日内瓦 ( 瑞士 )\n7 沈阳市大东区中街富龙自助盒饭周边一小圈 ( 中国 )\n8 多伦多 ( 加拿大 )\n9 阿姆斯特丹 ( 荷兰 )\n10 大阪 ( 日本 )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2014246601913712929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8465,
+          "following_count": 1106,
+          "like_count": 15728,
+          "listed_count": 15,
+          "media_count": 294,
+          "tweet_count": 2107
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599910,
+          "following_count": 2703,
+          "like_count": 27828,
+          "listed_count": 3745,
+          "media_count": 9137,
+          "tweet_count": 43569
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-18T09:59:48.000Z",
+        "description": "普通人 有可爱的老婆 会转推有意思的帖 杜卡迪ducati车主🛵 大阪に住む  夜眼鏡が好きな人🟢🟢🟢🟢",
+        "id": "1284427583057268736",
+        "location": "サバゲー場",
+        "name": "Bun",
+        "pinned_tweet_id": "1868187567612645850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471810516309798915/2HUE78U4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 884,
+          "like_count": 18926,
+          "listed_count": 1,
+          "media_count": 550,
+          "tweet_count": 4162
+        },
+        "username": "bundeswehr233",
+        "verified": false
+      }
+    ]
+  }
+}

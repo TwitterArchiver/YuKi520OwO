@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1936705218349236717",
+    "created_at": "2025-06-23T10:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T11:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937090992131494222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911977013675806720",
+          "start": 0,
+          "username": "sakurafoca521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937090992131494222",
+    "in_reply_to_user_id": "1911977013675806720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936705218349236717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakurafoca521 乡毋宁"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9096,
+        "height": 720,
+        "media_key": "7_1936705183276548096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1936705183276548096/pu/img/p9inINw2acgUQn_e.jpg",
+        "public_metrics": {
+          "view_count": 3857
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936705183276548096/pu/vid/avc1/480x270/LkrkTtD1FvfNrUvI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936705183276548096/pu/vid/avc1/640x360/qgwOINk6YoUGqn6e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936705183276548096/pu/vid/avc1/1280x720/thQFfqSj1gIT9zuO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1936705183276548096/pu/pl/NwfgDrmG8zHBQV6M.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1936705218349236717",
+        "created_at": "2025-06-23T10:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T11:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937090992131494222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911977013675806720",
+              "start": 0,
+              "username": "sakurafoca521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937090992131494222",
+        "in_reply_to_user_id": "1911977013675806720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936705218349236717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakurafoca521 乡毋宁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1936705183276548096"
+          ]
+        },
+        "author_id": "1911977013675806720",
+        "conversation_id": "1936705218349236717",
+        "created_at": "2025-06-22T08:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T09:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936705218349236717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Ahyu0iUfd",
+              "end": 66,
+              "expanded_url": "https://x.com/sakurafoca521/status/1936705218349236717/video/1",
+              "media_key": "7_1936705183276548096",
+              "start": 43,
+              "url": "https://t.co/0Ahyu0iUfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936705218349236717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10918,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "有人问芙卡你在上海把瑟瑟的视频发出去不怕上海的朋友发现吗，不怕，因为我在他们面前更骚 https://t.co/0Ahyu0iUfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8754,
+          "following_count": 1027,
+          "like_count": 15020,
+          "listed_count": 16,
+          "media_count": 241,
+          "tweet_count": 1797
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T02:57:07.000Z",
+        "description": "身高158/❤️男娘🍥/娼年❤️/正太，萝莉属性❤️/🚪52/接线下全国飞✈️，常驻上海北京❄️/如果你喜欢我的话，就花点钱和我上床吧❤️我会爱你的❤️/梦想之地🇮🇸",
+        "id": "1911977013675806720",
+        "location": "🚪52",
+        "name": "千ノ葉芙卡🌸",
+        "pinned_tweet_id": "1916356722022879401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911978277876502528/E6ttDtuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 174,
+          "like_count": 63,
+          "listed_count": 15,
+          "media_count": 65,
+          "tweet_count": 291
+        },
+        "username": "sakurafoca521",
+        "verified": false
+      }
+    ]
+  }
+}

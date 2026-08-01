@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065819350481989887",
+    "created_at": "2026-06-14T07:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066061750177591755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1012078861784354816",
+          "start": 0,
+          "username": "2d4SEUFUBFzltqB"
+        },
+        {
+          "end": 24,
+          "id": "2055095022425722880",
+          "start": 17,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066061750177591755",
+    "in_reply_to_user_id": "1012078861784354816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065819350481989887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2d4SEUFUBFzltqB @UnkMtX 我也要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065819350481989887",
+        "created_at": "2026-06-14T07:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066061750177591755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1012078861784354816",
+              "start": 0,
+              "username": "2d4SEUFUBFzltqB"
+            },
+            {
+              "end": 24,
+              "id": "2055095022425722880",
+              "start": 17,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066061750177591755",
+        "in_reply_to_user_id": "1012078861784354816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065819350481989887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2d4SEUFUBFzltqB @UnkMtX 我也要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1012078861784354816",
+        "conversation_id": "2065819350481989887",
+        "created_at": "2026-06-13T15:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:29:02.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065818735114649926",
+          "2065819150719807998",
+          "2065819350481989887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065819350481989887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 685,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我也要做慈善\n一等奖：苯乙胺盐酸盐4g或者pr原料45g\n二等奖：苯乙胺盐酸盐3g或者pr原料35g\n三等奖：苯乙胺盐酸盐2g或者pr原料25g\n30人开抽，不包邮噢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8676,
+          "following_count": 1135,
+          "like_count": 16175,
+          "listed_count": 18,
+          "media_count": 333,
+          "tweet_count": 2379
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-27T21:02:58.000Z",
+        "description": "爱你们",
+        "id": "1012078861784354816",
+        "name": "爱你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065730063547695104/2s-iVBmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 15,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "username": "2d4SEUFUBFzltqB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中😭不发帖就是没手机了😭|永远怀念@UnkXyn|MtX|Hrt🍥01.28.2026，断糖06.06.2026|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊，普瑞巴林我会想你的😭|对象@Lvmaosamaovo|159cm53kg|INFP-T，重度社恐|休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "3.𝙐𝙣𝙠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 985,
+          "like_count": 1932,
+          "listed_count": 15,
+          "media_count": 49,
+          "tweet_count": 408
+        },
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

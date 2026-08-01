@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1967856107575246854",
+    "created_at": "2025-09-16T07:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T08:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967856107575246854"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "日本",
+          "probability": 0.8745,
+          "start": 0,
+          "type": "Place"
+        },
+        {
+          "end": 9,
+          "normalized_text": "東京",
+          "probability": 0.9767,
+          "start": 8,
+          "type": "Place"
+        },
+        {
+          "end": 17,
+          "normalized_text": "大阪",
+          "probability": 0.9887,
+          "start": 16,
+          "type": "Place"
+        },
+        {
+          "end": 25,
+          "normalized_text": "日本",
+          "probability": 0.8527,
+          "start": 24,
+          "type": "Place"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967856107575246854",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日本に行きたい、東京に行きたい、大阪に行きたい、日本の友達と遊びに行きたい..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1967856107575246854",
+        "created_at": "2025-09-16T07:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967856107575246854"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "日本",
+              "probability": 0.8745,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 9,
+              "normalized_text": "東京",
+              "probability": 0.9767,
+              "start": 8,
+              "type": "Place"
+            },
+            {
+              "end": 17,
+              "normalized_text": "大阪",
+              "probability": 0.9887,
+              "start": 16,
+              "type": "Place"
+            },
+            {
+              "end": 25,
+              "normalized_text": "日本",
+              "probability": 0.8527,
+              "start": 24,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967856107575246854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本に行きたい、東京に行きたい、大阪に行きたい、日本の友達と遊びに行きたい..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8683,
+          "following_count": 1077,
+          "like_count": 15276,
+          "listed_count": 15,
+          "media_count": 264,
+          "tweet_count": 1917
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

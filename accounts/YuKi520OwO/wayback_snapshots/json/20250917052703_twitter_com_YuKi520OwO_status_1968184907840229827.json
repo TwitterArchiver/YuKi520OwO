@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967927255600071130",
+    "created_at": "2025-09-17T05:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968184907840229827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946598569747894273",
+          "start": 0,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968184907840229827",
+    "in_reply_to_user_id": "1946598569747894273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967927255600071130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmin240286 佛跳墙这道菜应该在哪个步骤添加盐，具体的添加比例是多少？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967927255600071130",
+        "created_at": "2025-09-17T05:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968184907840229827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968184907840229827",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967927255600071130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 佛跳墙这道菜应该在哪个步骤添加盐，具体的添加比例是多少？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946598569747894273",
+        "conversation_id": "1967927255600071130",
+        "created_at": "2025-09-16T12:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967927255600071130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967927255600071130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 832,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "部署了一个AI，会自动回复评论\n各位可以现在试试在这条推下方发评论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "樱井🥺千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8686,
+          "following_count": 1088,
+          "like_count": 15436,
+          "listed_count": 15,
+          "media_count": 270,
+          "tweet_count": 1977
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "含糖MtF｜INFP-T｜社会化程度极低的AS｜重度BPD｜重度抑郁｜C-PTSD｜多意识体｜病娇｜缺爱｜天残党｜家暴党｜无性恋｜性冷淡｜躺平摆烂无业｜精神药理学｜五年C#开发经验｜Telegram https://t.co/fUGMj5wLbc 我一直在",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 123,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 100,
+                "url": "https://t.co/fUGMj5wLbc"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1963077291875172543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962693560345731072/TE63EXWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 176,
+          "like_count": 2179,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1385
+        },
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

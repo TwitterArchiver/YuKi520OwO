@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044596617362464769"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "2044596947252912419",
+    "created_at": "2026-04-16T02:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044596947252912419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TwkTese5Xw",
+          "end": 50,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2044596947252912419/photo/1",
+          "media_key": "3_2044596617362464769",
+          "start": 27,
+          "url": "https://t.co/TwkTese5Xw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044596947252912419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发福利来啦\n这是一只小千雪在这里躺尸，可以来把她捡走 https://t.co/TwkTese5Xw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2044596617362464769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_dym7a4AEfjF6.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044596617362464769"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2044596947252912419",
+        "created_at": "2026-04-16T02:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044596947252912419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TwkTese5Xw",
+              "end": 50,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2044596947252912419/photo/1",
+              "media_key": "3_2044596617362464769",
+              "start": 27,
+              "url": "https://t.co/TwkTese5Xw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044596947252912419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发福利来啦\n这是一只小千雪在这里躺尸，可以来把她捡走 https://t.co/TwkTese5Xw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8247,
+          "following_count": 1106,
+          "like_count": 16019,
+          "listed_count": 15,
+          "media_count": 314,
+          "tweet_count": 2218
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

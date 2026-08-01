@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1941760071886606527",
+    "created_at": "2025-07-06T07:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T08:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941761472977080724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641036608815374337",
+          "start": 0,
+          "username": "yemeng224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941761472977080724",
+    "in_reply_to_user_id": "1641036608815374337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941761250884751846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yemeng224 酷——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1941760071886606527",
+        "created_at": "2025-07-06T07:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T08:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941761472977080724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641036608815374337",
+              "start": 0,
+              "username": "yemeng224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941761472977080724",
+        "in_reply_to_user_id": "1641036608815374337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941761250884751846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yemeng224 酷——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641036608815374337",
+        "conversation_id": "1941760071886606527",
+        "created_at": "2025-07-06T07:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T08:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941761250884751846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941761250884751846",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941760071886606527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 酷——？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8784,
+          "following_count": 1057,
+          "like_count": 15156,
+          "listed_count": 16,
+          "media_count": 246,
+          "tweet_count": 1834
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T11:16:38.000Z",
+        "description": "唔？嗯…… 不知道说什么，你们好呀！\n( ╹▽╹ ) 咱是一个新人，请多关照！\n嗯哼，是…可爱的女孩子？\n欸…www，考虑了一下还是换上鱼板啦…www…嗯，就是这样…\n爱好：coc跑团，摸鱼，是骰主但骰子比较容易寄… 111111，是kp也是pl。",
+        "id": "1641036608815374337",
+        "name": "叶梦🍥",
+        "pinned_tweet_id": "1773172190743089414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732787833432055808/KFyV7moT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 360,
+          "like_count": 5602,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 7236
+        },
+        "username": "yemeng224",
+        "verified": false
+      }
+    ]
+  }
+}

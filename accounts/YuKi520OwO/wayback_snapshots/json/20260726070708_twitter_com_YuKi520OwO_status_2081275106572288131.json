@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081275091292495873"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "2081275106572288131",
+    "created_at": "2026-07-26T07:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081275106572288131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lREKxHzv6H",
+          "end": 23,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2081275106572288131/photo/1",
+          "media_key": "3_2081275091292495873",
+          "start": 0,
+          "url": "https://t.co/lREKxHzv6H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081275106572288131",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/lREKxHzv6H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2081275091292495873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIsqyBboAE4AvH.jpg",
+        "width": 657
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081275091292495873"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2081275106572288131",
+        "created_at": "2026-07-26T07:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081275106572288131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lREKxHzv6H",
+              "end": 23,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2081275106572288131/photo/1",
+              "media_key": "3_2081275091292495873",
+              "start": 0,
+              "url": "https://t.co/lREKxHzv6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081275106572288131",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lREKxHzv6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8673,
+          "following_count": 1153,
+          "like_count": 16320,
+          "listed_count": 18,
+          "media_count": 349,
+          "tweet_count": 2478
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

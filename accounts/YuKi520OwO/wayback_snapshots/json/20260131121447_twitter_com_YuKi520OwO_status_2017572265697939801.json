@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2017444072265539599",
+    "created_at": "2026-01-31T12:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T13:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017572265697939801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "488823839",
+          "start": 0,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017572265697939801",
+    "in_reply_to_user_id": "488823839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017444072265539599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile000 你说的怕不是爱爱酱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2017444072265539599",
+        "created_at": "2026-01-31T12:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017572265697939801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "488823839",
+              "start": 0,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017572265697939801",
+        "in_reply_to_user_id": "488823839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017444072265539599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile000 你说的怕不是爱爱酱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "488823839",
+        "conversation_id": "2017444072265539599",
+        "created_at": "2026-01-31T03:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017444072265539599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017444072265539599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1183,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说中推会不会存在一种人，键政、炒币、卖淫、药娘等中推特色全占的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2014246601913712929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8453,
+          "following_count": 1111,
+          "like_count": 15834,
+          "listed_count": 16,
+          "media_count": 301,
+          "tweet_count": 2141
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "上海市禁毒委托上海司法鉴定中心已对本人多批次产品检验合规。本人不向买家销售不符合当地法律法规的化学品，也没有税务问题，请DEA/FDA/IRS不要在本人身上浪费\n官网：https://t.co/yJOEtw5Bi3\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 140,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 107,
+                "expanded_url": "https://taikong.mom/",
+                "start": 84,
+                "url": "https://t.co/yJOEtw5Bi3"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 135,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 112,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom/",
+                "start": 0,
+                "url": "https://t.co/yJOEtw5Bi3"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2017190056562422104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 190,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/yJOEtw5Bi3",
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

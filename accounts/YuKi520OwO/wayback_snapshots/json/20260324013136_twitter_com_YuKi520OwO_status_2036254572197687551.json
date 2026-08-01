@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036254404828086272"
+      ],
+      "media_source_tweet_id": [
+        "2036254406921036126"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "2036254572197687551",
+    "created_at": "2026-03-24T01:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T02:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036254572197687551"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "药娘"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "mtf"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1876650733317378048",
+          "start": 3,
+          "username": "ChiAki1000kzm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CYO3y5xHpG",
+          "end": 67,
+          "expanded_url": "https://x.com/ChiAki1000kzm/status/2036254406921036126/photo/1",
+          "media_key": "3_2036254404828086272",
+          "start": 44,
+          "url": "https://t.co/CYO3y5xHpG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036254572197687551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036254406921036126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChiAki1000kzm: 这里是药娘千晓，欢迎来找我哦~\n#药娘 #mtf https://t.co/CYO3y5xHpG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2036254404828086272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEI6l7gaQAAhEGm.jpg",
+        "width": 753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036254404828086272"
+          ],
+          "media_source_tweet_id": [
+            "2036254406921036126"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2036254572197687551",
+        "created_at": "2026-03-24T01:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036254572197687551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "药娘"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "mtf"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1876650733317378048",
+              "start": 3,
+              "username": "ChiAki1000kzm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYO3y5xHpG",
+              "end": 67,
+              "expanded_url": "https://x.com/ChiAki1000kzm/status/2036254406921036126/photo/1",
+              "media_key": "3_2036254404828086272",
+              "start": 44,
+              "url": "https://t.co/CYO3y5xHpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036254572197687551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036254406921036126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChiAki1000kzm: 这里是药娘千晓，欢迎来找我哦~\n#药娘 #mtf https://t.co/CYO3y5xHpG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036254404828086272"
+          ]
+        },
+        "author_id": "1876650733317378048",
+        "conversation_id": "2036254406921036126",
+        "created_at": "2026-03-24T01:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036254406921036126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "药娘"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYO3y5xHpG",
+              "end": 48,
+              "expanded_url": "https://x.com/ChiAki1000kzm/status/2036254406921036126/photo/1",
+              "media_key": "3_2036254404828086272",
+              "start": 25,
+              "url": "https://t.co/CYO3y5xHpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036254406921036126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这里是药娘千晓，欢迎来找我哦~\n#药娘 #mtf https://t.co/CYO3y5xHpG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2025837106732613865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8427,
+          "following_count": 1100,
+          "like_count": 15919,
+          "listed_count": 16,
+          "media_count": 310,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T15:23:08.000Z",
+        "description": "药娘/MTF/ 174cm 54kg /含糖3个月/🚪28/58/108三档（私聊提供门费详情）\nTG：https://t.co/L9meNjueQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kzm_chiaki/",
+                "end": 75,
+                "expanded_url": "http://t.me/kzm_chiaki/",
+                "start": 52,
+                "url": "https://t.co/L9meNjueQu"
+              }
+            ]
+          }
+        },
+        "id": "1876650733317378048",
+        "location": "中国 广州",
+        "name": "千_Dawns🍥",
+        "pinned_tweet_id": "2036061763242967389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008183334774644736/NjVXkFaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 66,
+          "like_count": 881,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 61
+        },
+        "username": "ChiAki1000kzm",
+        "verified": false
+      }
+    ]
+  }
+}

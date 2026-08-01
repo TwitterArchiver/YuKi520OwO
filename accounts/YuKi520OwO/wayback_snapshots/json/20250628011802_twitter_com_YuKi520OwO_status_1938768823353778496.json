@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1938527004762231100",
+    "created_at": "2025-06-28T01:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T02:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938768823353778496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1595663749574463489",
+          "start": 0,
+          "username": "yifusuyi"
+        },
+        {
+          "end": 21,
+          "id": "1568630739662696448",
+          "start": 10,
+          "username": "trg_maimai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938768823353778496",
+    "in_reply_to_user_id": "1595663749574463489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938527004762231100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifusuyi @trg_maimai 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1938526996298125312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucICEna0AALDKg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1938527004762231100",
+        "created_at": "2025-06-28T01:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T02:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938768823353778496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1595663749574463489",
+              "start": 0,
+              "username": "yifusuyi"
+            },
+            {
+              "end": 21,
+              "id": "1568630739662696448",
+              "start": 10,
+              "username": "trg_maimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938768823353778496",
+        "in_reply_to_user_id": "1595663749574463489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938527004762231100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifusuyi @trg_maimai 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938526996298125312"
+          ]
+        },
+        "author_id": "1595663749574463489",
+        "conversation_id": "1938527004762231100",
+        "created_at": "2025-06-27T09:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938527004762231100"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "bangkok",
+              "probability": 0.5442,
+              "start": 22,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1568630739662696448",
+              "start": 7,
+              "username": "trg_maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxhVnV09pZ",
+              "end": 69,
+              "expanded_url": "https://x.com/yifusuyi/status/1938527004762231100/photo/1",
+              "media_key": "3_1938526996298125312",
+              "start": 46,
+              "url": "https://t.co/YxhVnV09pZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938527004762231100",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5198,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "I meet @trg_maimai in bangkok coincidentally( https://t.co/YxhVnV09pZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8770,
+          "following_count": 1028,
+          "like_count": 15050,
+          "listed_count": 16,
+          "media_count": 242,
+          "tweet_count": 1810
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T06:21:06.000Z",
+        "description": "喵 | mtf | 精神病 | SDU CS 本科在读 | 算法竞赛选手 | 舞萌玩家 | hrt 2023.07.24 | srs 2024.08.09 | 常驻济南/青岛/杭州 | BFF @BeiyanNa3AlF6 |  https://t.co/PB2M5WfvQE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 97,
+                "username": "BeiyanNa3AlF6"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yifusuyi",
+                "end": 138,
+                "expanded_url": "http://t.me/yifusuyi",
+                "start": 115,
+                "url": "https://t.co/PB2M5WfvQE"
+              }
+            ]
+          }
+        },
+        "id": "1595663749574463489",
+        "location": "青岛市",
+        "name": "Fusu🍥",
+        "pinned_tweet_id": "1807026708186554816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682422608221061120/HL6JxP0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4503,
+          "following_count": 293,
+          "like_count": 5211,
+          "listed_count": 15,
+          "media_count": 402,
+          "tweet_count": 1560
+        },
+        "username": "yifusuyi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T16:01:37.000Z",
+        "description": "maimai player from Thailand 🇹🇭, KoP6rd finalist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@trg_maimai",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@trg_maimai",
+                "start": 0,
+                "url": "https://t.co/LnN1vle8Rb"
+              }
+            ]
+          }
+        },
+        "id": "1568630739662696448",
+        "name": "TRG maimai",
+        "pinned_tweet_id": "1932683462420672702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673207136757878785/Ll1Gic7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8041,
+          "following_count": 371,
+          "like_count": 2817,
+          "listed_count": 4,
+          "media_count": 393,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/LnN1vle8Rb",
+        "username": "trg_maimai",
+        "verified": true
+      }
+    ]
+  }
+}

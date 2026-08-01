@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2067975068605718876",
+    "created_at": "2026-06-20T08:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068253831318950236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068253831318950236",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067975068605718876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 哦不 你怎么变成这样了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067975057729871872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLsW8BbYAA2JyG.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2067975068605718876",
+        "created_at": "2026-06-20T08:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068253831318950236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068253831318950236",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067975068605718876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 哦不 你怎么变成这样了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067975057729871872"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2067975068605718876",
+        "created_at": "2026-06-19T14:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067975068605718876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnB0kVKrLB",
+              "end": 34,
+              "expanded_url": "https://x.com/Goldwater8964/status/2067975068605718876/photo/1",
+              "media_key": "3_2067975057729871872",
+              "start": 11,
+              "url": "https://t.co/CnB0kVKrLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067975068605718876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 987,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两天在成都换的发型 https://t.co/CnB0kVKrLB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8683,
+          "following_count": 1145,
+          "like_count": 16254,
+          "listed_count": 18,
+          "media_count": 335,
+          "tweet_count": 2411
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 UNSW学生🇦🇺 新西兰ACT正式成员🇳🇿 哈耶克最锋利的剑 满人正黄旗完颜氏",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2062041029390610678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 1016,
+          "like_count": 7626,
+          "listed_count": 5,
+          "media_count": 320,
+          "tweet_count": 1418
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967662376238657606",
+    "created_at": "2025-09-16T21:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T22:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968067159864775104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943704460813041665",
+          "start": 0,
+          "username": "kasaikoxyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968067159864775104",
+    "in_reply_to_user_id": "1943704460813041665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968039532428968028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasaikoxyg 一直这么觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967662376238657606",
+        "created_at": "2025-09-16T21:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T22:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968067159864775104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943704460813041665",
+              "start": 0,
+              "username": "kasaikoxyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968067159864775104",
+        "in_reply_to_user_id": "1943704460813041665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968039532428968028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasaikoxyg 一直这么觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943704460813041665",
+        "conversation_id": "1967662376238657606",
+        "created_at": "2025-09-16T19:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T20:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968039532428968028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968039532428968028",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967958808703144408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 你什么时候觉得我长得好看了？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8688,
+          "following_count": 1083,
+          "like_count": 15382,
+          "listed_count": 15,
+          "media_count": 268,
+          "tweet_count": 1962
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎耐杀王，成功又活一天",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 573,
+          "like_count": 10936,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 3392
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      }
+    ]
+  }
+}

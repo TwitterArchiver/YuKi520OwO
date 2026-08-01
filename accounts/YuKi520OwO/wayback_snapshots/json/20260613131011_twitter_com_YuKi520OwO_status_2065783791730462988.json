@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065398588851864039",
+    "created_at": "2026-06-13T13:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065783791730462988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1417457938025779200",
+          "start": 0,
+          "username": "43_ojou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065783791730462988",
+    "in_reply_to_user_id": "1417457938025779200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065765600404840656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@43_ojou ありがとうございます!あなたも可愛いよ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065398588851864039",
+        "created_at": "2026-06-13T13:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065783791730462988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1417457938025779200",
+              "start": 0,
+              "username": "43_ojou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065783791730462988",
+        "in_reply_to_user_id": "1417457938025779200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065765600404840656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@43_ojou ありがとうございます!あなたも可愛いよ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417457938025779200",
+        "conversation_id": "2065398588851864039",
+        "created_at": "2026-06-13T11:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065765600404840656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065765600404840656",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065677707023917162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO お写真見ました！すごく素敵です！かわいいです！🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8666,
+          "following_count": 1127,
+          "like_count": 16137,
+          "listed_count": 18,
+          "media_count": 335,
+          "tweet_count": 2369
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T12:14:51.000Z",
+        "description": "英語や中国語、アラビア語を学んだり女装をしたりしています",
+        "id": "1417457938025779200",
+        "name": "恵",
+        "pinned_tweet_id": "2058095616241369415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055559369077739520/JH7BJMqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 1937,
+          "like_count": 344587,
+          "listed_count": 12,
+          "media_count": 8600,
+          "tweet_count": 53328
+        },
+        "username": "43_ojou",
+        "verified": false
+      }
+    ]
+  }
+}

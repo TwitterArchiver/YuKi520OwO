@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2081827446610137285",
+    "created_at": "2026-07-29T09:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082398139823411305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955218488185982980",
+          "start": 0,
+          "username": "bbbkamen"
+        },
+        {
+          "end": 21,
+          "id": "1568630739662696448",
+          "start": 10,
+          "username": "trg_maimai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082398139823411305",
+    "in_reply_to_user_id": "1955218488185982980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082005403018362924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbkamen @trg_maimai 绷不住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2081827446610137285",
+        "created_at": "2026-07-29T09:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082398139823411305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955218488185982980",
+              "start": 0,
+              "username": "bbbkamen"
+            },
+            {
+              "end": 21,
+              "id": "1568630739662696448",
+              "start": 10,
+              "username": "trg_maimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082398139823411305",
+        "in_reply_to_user_id": "1955218488185982980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082005403018362924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbkamen @trg_maimai 绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955218488185982980",
+        "conversation_id": "2081827446610137285",
+        "created_at": "2026-07-28T07:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082005403018362924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 23,
+              "id": "1568630739662696448",
+              "start": 12,
+              "username": "trg_maimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082005403018362924",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081975841836380240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO @trg_maimai 哇，原来是wm，我还以为是O大了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8673,
+          "following_count": 1150,
+          "like_count": 16329,
+          "listed_count": 18,
+          "media_count": 349,
+          "tweet_count": 2481
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T10:43:18.000Z",
+        "description": "传奇耐电王/MTX/出厂日09.7.11/164cm/50kg/高二物化生/不政/🍥💊/正在尝试炒作/周末党/家长严管党/前世@aaakamen来生@ccckamen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "aaakamen"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "ccckamen"
+              }
+            ]
+          }
+        },
+        "id": "1955218488185982980",
+        "location": "内蒙+++真的有这地方同类吗",
+        "name": "☬脊髓☬世一没素",
+        "pinned_tweet_id": "2073474277446434873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040938841524301824/DBpinweT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 319,
+          "like_count": 3306,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 734
+        },
+        "url": "",
+        "username": "bbbkamen",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T16:01:37.000Z",
+        "description": "maimai player from Thailand 🇹🇭, KoP6th 1st runner up 🥈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@trg_maimai",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@trg_maimai",
+                "start": 0,
+                "url": "https://t.co/LnN1vle8Rb"
+              }
+            ]
+          }
+        },
+        "id": "1568630739662696448",
+        "name": "TRG",
+        "pinned_tweet_id": "2060949575809286263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673207136757878785/Ll1Gic7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15050,
+          "following_count": 488,
+          "like_count": 7800,
+          "listed_count": 12,
+          "media_count": 768,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/LnN1vle8Rb",
+        "username": "trg_maimai",
+        "verified": true
+      }
+    ]
+  }
+}

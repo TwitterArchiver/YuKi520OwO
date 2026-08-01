@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988670977992187904"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1988670992634495415",
+    "created_at": "2025-11-12T18:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T19:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988670992634495415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infintytweet.me/interaction-ci…",
+          "end": 40,
+          "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+          "start": 17,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/BeE9NO4YtE"
+        },
+        {
+          "display_url": "pic.x.com/4aPPER59AL",
+          "end": 64,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1988670992634495415/photo/1",
+          "media_key": "3_1988670977992187904",
+          "start": 41,
+          "url": "https://t.co/4aPPER59AL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988670992634495415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Twitter互动圈\n\n➡️ https://t.co/BeE9NO4YtE https://t.co/4aPPER59AL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1988670977992187904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ktt9JaYAAkIRE.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988670977992187904"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1988670992634495415",
+        "created_at": "2025-11-12T18:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T19:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988670992634495415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/BeE9NO4YtE"
+            },
+            {
+              "display_url": "pic.x.com/4aPPER59AL",
+              "end": 64,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1988670992634495415/photo/1",
+              "media_key": "3_1988670977992187904",
+              "start": 41,
+              "url": "https://t.co/4aPPER59AL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988670992634495415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/BeE9NO4YtE https://t.co/4aPPER59AL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8598,
+          "following_count": 1127,
+          "like_count": 15755,
+          "listed_count": 15,
+          "media_count": 288,
+          "tweet_count": 2079
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

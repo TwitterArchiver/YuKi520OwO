@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968043890340167680"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1967961303299047622",
+    "created_at": "2025-09-16T20:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T21:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968043903690645908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "805087233640275968",
+          "start": 0,
+          "username": "TKNS_kanatsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3eQqmq5oyV",
+          "end": 90,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1968043903690645908/photo/1",
+          "media_key": "3_1968043890340167680",
+          "start": 67,
+          "url": "https://t.co/3eQqmq5oyV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968043903690645908",
+    "in_reply_to_user_id": "805087233640275968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967961303299047622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKNS_kanatsu 你怎么知道我一发十连两张限定？（谁问我了？）（但是我真的很想显摆一下我这个运气）虽然但是，晓山瑞希万岁！ https://t.co/3eQqmq5oyV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1968043890340167680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_lfboagAAv5QP.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1967961293882904576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-aXr2b0AAZnry.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1508,
+        "media_key": "3_1967961300966993920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-aYGPacAAnR4V.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968043890340167680"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967961303299047622",
+        "created_at": "2025-09-16T20:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T21:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968043903690645908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "805087233640275968",
+              "start": 0,
+              "username": "TKNS_kanatsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3eQqmq5oyV",
+              "end": 90,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1968043903690645908/photo/1",
+              "media_key": "3_1968043890340167680",
+              "start": 67,
+              "url": "https://t.co/3eQqmq5oyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968043903690645908",
+        "in_reply_to_user_id": "805087233640275968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967961303299047622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKNS_kanatsu 你怎么知道我一发十连两张限定？（谁问我了？）（但是我真的很想显摆一下我这个运气）虽然但是，晓山瑞希万岁！ https://t.co/3eQqmq5oyV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967961293882904576",
+            "3_1967961300966993920"
+          ]
+        },
+        "author_id": "805087233640275968",
+        "conversation_id": "1967961303299047622",
+        "created_at": "2025-09-16T14:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967961303299047622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAq18RCJhL",
+              "end": 42,
+              "expanded_url": "https://x.com/TKNS_kanatsu/status/1967961303299047622/photo/1",
+              "media_key": "3_1967961293882904576",
+              "start": 19,
+              "url": "https://t.co/AAq18RCJhL"
+            },
+            {
+              "display_url": "pic.x.com/AAq18RCJhL",
+              "end": 42,
+              "expanded_url": "https://x.com/TKNS_kanatsu/status/1967961303299047622/photo/1",
+              "media_key": "3_1967961300966993920",
+              "start": 19,
+              "url": "https://t.co/AAq18RCJhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967961303299047622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近在做什么？\n在通过pjsk减肥x https://t.co/AAq18RCJhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8687,
+          "following_count": 1082,
+          "like_count": 15375,
+          "listed_count": 15,
+          "media_count": 268,
+          "tweet_count": 1961
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-03T16:32:09.000Z",
+        "description": "这里是假夏夏～HRT & RLE中‖\n日本語、ENG、粵語、汉语‖\n可以委托‖\n幼女老婆菜菜：@cai233QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "cai233QAQ"
+              }
+            ]
+          }
+        },
+        "id": "805087233640275968",
+        "name": "假夏夏_",
+        "pinned_tweet_id": "1887520864603939016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704192465010663424/Dyhczi_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23362,
+          "following_count": 262,
+          "like_count": 8623,
+          "listed_count": 83,
+          "media_count": 253,
+          "tweet_count": 2437
+        },
+        "username": "TKNS_kanatsu",
+        "verified": false
+      }
+    ]
+  }
+}

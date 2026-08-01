@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1774546715129061376"
+      ],
+      "media_source_tweet_id": [
+        "1774546723505160239"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "2080517230727680139",
+    "created_at": "2026-07-24T04:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080517230727680139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1479730386431545346",
+          "start": 3,
+          "username": "YuKi520OwO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q4RBN3zeC5",
+          "end": 54,
+          "expanded_url": "https://x.com/QianxueYuKi/status/1774546723505160239/photo/1",
+          "media_key": "3_1774546715129061376",
+          "start": 31,
+          "url": "https://t.co/q4RBN3zeC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080517230727680139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1774546723505160239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuKi520OwO: 大家好啊 今天来点大家想看的 https://t.co/q4RBN3zeC5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1774546715129061376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GKB01eCaoAAk2NO.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1774546715129061376"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1774546723505160239",
+        "created_at": "2024-03-31T21:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-31T22:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1774546723505160239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4RBN3zeC5",
+              "end": 38,
+              "expanded_url": "https://x.com/QianxueYuKi/status/1774546723505160239/photo/1",
+              "media_key": "3_1774546715129061376",
+              "start": 15,
+              "url": "https://t.co/q4RBN3zeC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1774546723505160239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10302,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好啊 今天来点大家想看的 https://t.co/q4RBN3zeC5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1774546715129061376"
+          ],
+          "media_source_tweet_id": [
+            "1774546723505160239"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2080517230727680139",
+        "created_at": "2026-07-24T04:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080517230727680139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479730386431545346",
+              "start": 3,
+              "username": "YuKi520OwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4RBN3zeC5",
+              "end": 54,
+              "expanded_url": "https://x.com/QianxueYuKi/status/1774546723505160239/photo/1",
+              "media_key": "3_1774546715129061376",
+              "start": 31,
+              "url": "https://t.co/q4RBN3zeC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080517230727680139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1774546723505160239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuKi520OwO: 大家好啊 今天来点大家想看的 https://t.co/q4RBN3zeC5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8675,
+          "following_count": 1154,
+          "like_count": 16309,
+          "listed_count": 18,
+          "media_count": 345,
+          "tweet_count": 2472
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

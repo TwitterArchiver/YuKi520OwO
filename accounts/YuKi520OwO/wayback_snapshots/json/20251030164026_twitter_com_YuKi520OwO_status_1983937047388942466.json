@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1983870989143580932",
+    "created_at": "2025-10-30T16:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T17:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983937047388942466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2840236608",
+          "start": 0,
+          "username": "MilkStarNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983937047388942466",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983870989143580932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkStarNeko 因为不是同一家公司"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1983870972794171393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ggI4Wa8AEnN4_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1983870972492132352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ggI3OaMAA9VeS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1983870989143580932",
+        "created_at": "2025-10-30T16:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T17:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983937047388942466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkStarNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983937047388942466",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983870989143580932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkStarNeko 因为不是同一家公司"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983870972794171393",
+            "3_1983870972492132352"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1983870989143580932",
+        "created_at": "2025-10-30T12:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983870989143580932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AQauHBe7M",
+              "end": 52,
+              "expanded_url": "https://x.com/MilkStarNeko/status/1983870989143580932/photo/1",
+              "media_key": "3_1983870972794171393",
+              "start": 29,
+              "url": "https://t.co/2AQauHBe7M"
+            },
+            {
+              "display_url": "pic.x.com/2AQauHBe7M",
+              "end": 52,
+              "expanded_url": "https://x.com/MilkStarNeko/status/1983870989143580932/photo/1",
+              "media_key": "3_1983870972492132352",
+              "start": 29,
+              "url": "https://t.co/2AQauHBe7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983870989143580932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 783,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "馕 预制菜也能不一样\n左边是广东萨莉亚。右边是杭州萨莉亚 https://t.co/2AQauHBe7M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "#女的，别再来找我发约炮广告了，sb吧？\n                呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女的"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8560,
+          "following_count": 1104,
+          "like_count": 15470,
+          "listed_count": 15,
+          "media_count": 282,
+          "tweet_count": 2036
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "牛奶貓🐈系統&水母🪼系統。バグバウンティハンター（見習い）Rust🦀。Co-Founder of @0xSomeLab。貓抓板 @StarNekOvO。杭州・シンガポール・東京・深圳・重慶あたりに出没するかも。 INFJ｜双極性II型・重度うつ・不安・BPD・ADHD・地雷注意｜已失去夢想",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "0xSomeLab"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "StarNekOvO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/nVL53sBbua"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "牛奶猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979924394630619136/ScimS47h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4211,
+          "following_count": 1953,
+          "like_count": 29940,
+          "listed_count": 16,
+          "media_count": 1239,
+          "tweet_count": 10407
+        },
+        "url": "https://t.co/nVL53sBbua",
+        "username": "MilkStarNeko",
+        "verified": true
+      }
+    ]
+  }
+}

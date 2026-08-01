@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1952619607262712080",
+    "created_at": "2025-08-05T16:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T17:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952769292446974442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580893568675106817",
+          "start": 0,
+          "username": "reveriennn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952769292446974442",
+    "in_reply_to_user_id": "1580893568675106817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952667925598347384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reveriennn 你喜欢我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1952619607262712080",
+        "created_at": "2025-08-05T16:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T17:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952769292446974442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580893568675106817",
+              "start": 0,
+              "username": "reveriennn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952769292446974442",
+        "in_reply_to_user_id": "1580893568675106817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952667925598347384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reveriennn 你喜欢我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580893568675106817",
+        "conversation_id": "1952619607262712080",
+        "created_at": "2025-08-05T09:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T10:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952667925598347384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952667925598347384",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952619607262712080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです/最爱的人@yaiikawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8753,
+          "following_count": 1070,
+          "like_count": 15277,
+          "listed_count": 14,
+          "media_count": 251,
+          "tweet_count": 1870
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T12:09:43.000Z",
+        "description": "这里什么也没有哦...",
+        "id": "1580893568675106817",
+        "name": "梦梦#心宿二",
+        "pinned_tweet_id": "1916116852817989637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581873239374319616/8uAOm084_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 1651,
+          "like_count": 22003,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 4514
+        },
+        "username": "reveriennn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2013637070590484672",
+    "created_at": "2026-01-21T13:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013964208669679840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        },
+        {
+          "end": 16,
+          "id": "1731243248205852672",
+          "start": 9,
+          "username": "1srain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013964208669679840",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013637070590484672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 @1srain 这是你吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 650,
+        "media_key": "3_2013637061383688192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HgPRZWEAAI4bV.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2013637070590484672",
+        "created_at": "2026-01-21T13:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013964208669679840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            },
+            {
+              "end": 16,
+              "id": "1731243248205852672",
+              "start": 9,
+              "username": "1srain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013964208669679840",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013637070590484672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 @1srain 这是你吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013637061383688192"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2013637070590484672",
+        "created_at": "2026-01-20T15:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013637070590484672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CTjaShbKsF",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2013637070590484672/photo/1",
+              "media_key": "3_2013637061383688192",
+              "start": 0,
+              "url": "https://t.co/CTjaShbKsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013637070590484672",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 313335,
+          "like_count": 2225,
+          "quote_count": 4,
+          "reply_count": 53,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CTjaShbKsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8467,
+          "following_count": 1104,
+          "like_count": 15722,
+          "listed_count": 15,
+          "media_count": 291,
+          "tweet_count": 2093
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115865,
+          "following_count": 1043,
+          "like_count": 50860,
+          "listed_count": 265,
+          "media_count": 18638,
+          "tweet_count": 28244
+        },
+        "username": "hsn8086",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-03T09:25:39.000Z",
+        "description": "我是浅羽見崎、门槛188/288/488。我很可爱请给我打钱",
+        "id": "1731243248205852672",
+        "location": "★狐狐",
+        "name": "浅羽叁崎",
+        "pinned_tweet_id": "2010822495708852502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008945834000592898/UQRHJ-xp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7317,
+          "following_count": 177,
+          "like_count": 9405,
+          "listed_count": 14,
+          "media_count": 608,
+          "tweet_count": 3301
+        },
+        "username": "1srain",
+        "verified": false
+      }
+    ]
+  }
+}

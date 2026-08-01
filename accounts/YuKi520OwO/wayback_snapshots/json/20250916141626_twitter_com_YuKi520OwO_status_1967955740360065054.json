@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967955726833422336"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1965704282575151193",
+    "created_at": "2025-09-16T14:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T15:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967955740360065054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1265898163807772677",
+          "start": 0,
+          "username": "Rize_Ilustrator"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0FSf8fmKVQ",
+          "end": 87,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1967955740360065054/photo/1",
+          "media_key": "3_1967955726833422336",
+          "start": 64,
+          "url": "https://t.co/0FSf8fmKVQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967955740360065054",
+    "in_reply_to_user_id": "1265898163807772677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965704282575151193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rize_Ilustrator お疲れ様です！\n今回のイベントに一番かわいい写真を取り出しましたので、よろしくお願いします！ https://t.co/0FSf8fmKVQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967955726833422336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-VTo-aEAAt4_o.jpg",
+        "width": 920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1965704275545489408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0eVn7VbAAA_UW1.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967955726833422336"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1965704282575151193",
+        "created_at": "2025-09-16T14:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967955740360065054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1265898163807772677",
+              "start": 0,
+              "username": "Rize_Ilustrator"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FSf8fmKVQ",
+              "end": 87,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1967955740360065054/photo/1",
+              "media_key": "3_1967955726833422336",
+              "start": 64,
+              "url": "https://t.co/0FSf8fmKVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967955740360065054",
+        "in_reply_to_user_id": "1265898163807772677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965704282575151193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rize_Ilustrator お疲れ様です！\n今回のイベントに一番かわいい写真を取り出しましたので、よろしくお願いします！ https://t.co/0FSf8fmKVQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965704275545489408"
+          ]
+        },
+        "author_id": "1265898163807772677",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "1965704282575151193",
+        "created_at": "2025-09-10T09:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T10:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965704282575151193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yy2kQGrU5r",
+              "end": 130,
+              "expanded_url": "https://x.com/Rize_Ilustrator/status/1965704282575151193/photo/1",
+              "media_key": "3_1965704275545489408",
+              "start": 107,
+              "url": "https://t.co/yy2kQGrU5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965704282575151193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "o｡┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈｡o+ﾟ\n伝説の企画が帰ってきます\n\nなんと、\n♦︎第九回女装選手権♦︎\n\n🎉🎉開催決定🎉🎉\n2025/9/13日(土)21:00〜\n\no｡┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈｡o+ﾟ\n\n応募方法：女装している写真をDMかリプ欄に送ってください。配信にて紹介させて頂きます。（締め切り9／13日18:00厳守）\n※おひとり様一枚でお願いします\n\n皆様のご参加を心よりお待ちしております！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 102191,
+          "like_count": 876,
+          "quote_count": 16,
+          "reply_count": 85,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "o｡┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈｡o+ﾟ\n伝説の企画が帰ってきます\n\nなんと、\n♦︎第九回女装選手権♦︎\n\n🎉🎉開催決定🎉🎉\n2025/9/13日(土)21:00〜\n\no｡┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈｡o+ﾟ https://t.co/yy2kQGrU5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8685,
+          "following_count": 1081,
+          "like_count": 15318,
+          "listed_count": 15,
+          "media_count": 266,
+          "tweet_count": 1936
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-28T06:50:23.000Z",
+        "description": "女装しながら絵描いて男の娘Vtuberしてる #ゆらくんあーと お仕事のご連絡はDMへ✉️欲しリスはゆらくんのお家から送れます🍠 Fanbox🎁https://t.co/GGtyvsHIH2 fantia🎀https://t.co/FYCT0rc2HS",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 23,
+                "tag": "ゆらくんあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yurakun.fanbox.cc",
+                "end": 95,
+                "expanded_url": "https://yurakun.fanbox.cc",
+                "start": 72,
+                "url": "https://t.co/GGtyvsHIH2"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/529350",
+                "end": 126,
+                "expanded_url": "https://fantia.jp/fanclubs/529350",
+                "start": 103,
+                "url": "https://t.co/FYCT0rc2HS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzzpE…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCzzpEWw865qIzn9uAqDaayA",
+                "start": 0,
+                "url": "https://t.co/NiK0Wz3wda"
+              }
+            ]
+          }
+        },
+        "id": "1265898163807772677",
+        "location": "ゆらくんの配信場所→",
+        "name": "りぜ🌟9月27日生誕祭イベント",
+        "pinned_tweet_id": "1963914166865154293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773811112980721664/ruk1A6vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159547,
+          "following_count": 780,
+          "like_count": 5045,
+          "listed_count": 789,
+          "media_count": 530,
+          "tweet_count": 5722
+        },
+        "url": "https://t.co/NiK0Wz3wda",
+        "username": "Rize_Ilustrator",
+        "verified": true
+      }
+    ]
+  }
+}

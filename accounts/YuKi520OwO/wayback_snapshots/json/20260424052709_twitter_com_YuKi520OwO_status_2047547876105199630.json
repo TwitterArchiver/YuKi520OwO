@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2047250991658217957",
+    "created_at": "2026-04-24T05:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047547876105199630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1429422342560632833",
+          "start": 0,
+          "username": "x7oj9o2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047547876105199630",
+    "in_reply_to_user_id": "1429422342560632833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047252750723920186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x7oj9o2 发点自拍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2047250991658217957",
+        "created_at": "2026-04-24T05:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047547876105199630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1429422342560632833",
+              "start": 0,
+              "username": "x7oj9o2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047547876105199630",
+        "in_reply_to_user_id": "1429422342560632833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047252750723920186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x7oj9o2 发点自拍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429422342560632833",
+        "conversation_id": "2047250991658217957",
+        "created_at": "2026-04-23T09:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047252750723920186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047252750723920186",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047250991658217957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 这是在干嘛呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2044443894151364641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8576,
+          "following_count": 1108,
+          "like_count": 16093,
+          "listed_count": 17,
+          "media_count": 323,
+          "tweet_count": 2271
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T12:37:16.000Z",
+        "description": "喜欢伪娘CD女装  人妻加QQ3336748342细聊",
+        "id": "1429422342560632833",
+        "location": "0375",
+        "name": "欢喜佛2022",
+        "pinned_tweet_id": "2044963993685536819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1435099339806941190/Q4Cn0-OE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 2289,
+          "like_count": 2941,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1112
+        },
+        "username": "x7oj9o2",
+        "verified": false
+      }
+    ]
+  }
+}

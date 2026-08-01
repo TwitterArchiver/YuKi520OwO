@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072655168802570240",
+        "3_2072655166445412352"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "2072655187077128469",
+    "created_at": "2026-07-02T12:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072655187077128469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/us9qzSUgmi",
+          "end": 29,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2072655187077128469/photo/1",
+          "media_key": "3_2072655168802570240",
+          "start": 6,
+          "url": "https://t.co/us9qzSUgmi"
+        },
+        {
+          "display_url": "pic.x.com/us9qzSUgmi",
+          "end": 29,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2072655187077128469/photo/1",
+          "media_key": "3_2072655166445412352",
+          "start": 6,
+          "url": "https://t.co/us9qzSUgmi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072655187077128469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老唐啊老唐 https://t.co/us9qzSUgmi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072655168802570240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOM5QZawAAZGQ1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072655166445412352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOM5HnbYAAC8Vi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072655168802570240",
+            "3_2072655166445412352"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2072655187077128469",
+        "created_at": "2026-07-02T12:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072655187077128469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/us9qzSUgmi",
+              "end": 29,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2072655187077128469/photo/1",
+              "media_key": "3_2072655168802570240",
+              "start": 6,
+              "url": "https://t.co/us9qzSUgmi"
+            },
+            {
+              "display_url": "pic.x.com/us9qzSUgmi",
+              "end": 29,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2072655187077128469/photo/1",
+              "media_key": "3_2072655166445412352",
+              "start": 6,
+              "url": "https://t.co/us9qzSUgmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072655187077128469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老唐啊老唐 https://t.co/us9qzSUgmi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8687,
+          "following_count": 1160,
+          "like_count": 16281,
+          "listed_count": 18,
+          "media_count": 343,
+          "tweet_count": 2445
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

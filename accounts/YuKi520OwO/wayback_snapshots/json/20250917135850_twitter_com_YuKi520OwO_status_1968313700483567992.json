@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968313693684502529"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1968313700483567992",
+    "created_at": "2025-09-17T13:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968313700483567992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K1mYPkwVOj",
+          "end": 169,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1968313700483567992/photo/1",
+          "media_key": "3_1968313693684502529",
+          "start": 146,
+          "url": "https://t.co/K1mYPkwVOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968313700483567992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那么现在开始预约制度:\n9.19千雪会抵达上海，由于是旅游性质，所以会在白天接待租借服务，夜晚接待援交服务。🚪依旧，但通过108🚪可获得85折优惠（仅限上海期间）。过门留下你的预约时间及地点我会视情况安排一切的，直到我在上海接完单才会离开！我会用最好的态度拿出最好的服务来好好服侍各位单主的 https://t.co/K1mYPkwVOj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968313693684502529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Da4DaaEAENXBD.jpg",
+        "width": 390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968313693684502529"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1968313700483567992",
+        "created_at": "2025-09-17T13:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968313700483567992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1mYPkwVOj",
+              "end": 169,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1968313700483567992/photo/1",
+              "media_key": "3_1968313693684502529",
+              "start": 146,
+              "url": "https://t.co/K1mYPkwVOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968313700483567992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那么现在开始预约制度:\n9.19千雪会抵达上海，由于是旅游性质，所以会在白天接待租借服务，夜晚接待援交服务。🚪依旧，但通过108🚪可获得85折优惠（仅限上海期间）。过门留下你的预约时间及地点我会视情况安排一切的，直到我在上海接完单才会离开！我会用最好的态度拿出最好的服务来好好服侍各位单主的 https://t.co/K1mYPkwVOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "樱井🥺千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8684,
+          "following_count": 1088,
+          "like_count": 15439,
+          "listed_count": 15,
+          "media_count": 271,
+          "tweet_count": 1978
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

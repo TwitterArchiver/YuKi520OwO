@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065460490671956153",
+    "created_at": "2026-06-13T15:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065812984379891854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064870849493237760",
+          "start": 0,
+          "username": "HsiaoChiLaowang"
+        },
+        {
+          "end": 31,
+          "id": "1598557374046179328",
+          "start": 17,
+          "username": "huihui_mikumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065812984379891854",
+    "in_reply_to_user_id": "2064870849493237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065809083542929546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HsiaoChiLaowang @huihui_mikumi 你也来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065460490671956153",
+        "created_at": "2026-06-13T15:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065812984379891854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064870849493237760",
+              "start": 0,
+              "username": "HsiaoChiLaowang"
+            },
+            {
+              "end": 31,
+              "id": "1598557374046179328",
+              "start": 17,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065812984379891854",
+        "in_reply_to_user_id": "2064870849493237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065809083542929546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HsiaoChiLaowang @huihui_mikumi 你也来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064870849493237760",
+        "conversation_id": "2065460490671956153",
+        "created_at": "2026-06-13T14:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065809083542929546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 26,
+              "id": "1598557374046179328",
+              "start": 12,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065809083542929546",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065677351804125493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO @huihui_mikumi 嗚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8670,
+          "following_count": 1133,
+          "like_count": 16146,
+          "listed_count": 18,
+          "media_count": 333,
+          "tweet_count": 2365
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T00:55:21.000Z",
+        "description": "喵嗚？關注老王喵關注老王謝謝喵⋯嗚⋯老王的日常？hrt1k+days的老必登mtf，一切捲土重來吧qwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/SHLxd7n-wz",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/SHLxd7n-wz",
+                "start": 0,
+                "url": "https://t.co/qGzMwCRMdQ"
+              }
+            ]
+          }
+        },
+        "id": "2064870849493237760",
+        "location": "Taiwan",
+        "name": "⁺✞ʚ老王重度依賴ɞ✟₊🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2065005195013329252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065001390418935809/f1NmzUZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 65,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/qGzMwCRMdQ",
+        "username": "HsiaoChiLaowang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 802,
+          "like_count": 814,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1976
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

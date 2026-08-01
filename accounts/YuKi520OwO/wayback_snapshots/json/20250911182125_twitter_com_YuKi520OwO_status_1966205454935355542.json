@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966205441270226945"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1966205454935355542",
+    "created_at": "2025-09-11T18:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T19:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966205454935355542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w2lrKvkrYb",
+          "end": 43,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1966205454935355542/photo/1",
+          "media_key": "3_1966205441270226945",
+          "start": 20,
+          "url": "https://t.co/w2lrKvkrYb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966205454935355542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我会成为大家的几把套子\n请尽情的使用我 https://t.co/w2lrKvkrYb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966205441270226945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ldbnJaIAEztnG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966205441270226945"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1966205454935355542",
+        "created_at": "2025-09-11T18:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T19:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966205454935355542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w2lrKvkrYb",
+              "end": 43,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1966205454935355542/photo/1",
+              "media_key": "3_1966205441270226945",
+              "start": 20,
+              "url": "https://t.co/w2lrKvkrYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966205454935355542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会成为大家的几把套子\n请尽情的使用我 https://t.co/w2lrKvkrYb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8696,
+          "following_count": 1069,
+          "like_count": 15244,
+          "listed_count": 15,
+          "media_count": 262,
+          "tweet_count": 1899
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

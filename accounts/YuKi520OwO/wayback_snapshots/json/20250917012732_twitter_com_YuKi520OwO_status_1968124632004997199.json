@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1968111857648157006",
+    "created_at": "2025-09-17T01:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T02:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968124632004997199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1598873184438083586",
+          "start": 0,
+          "username": "MuSHrO0ooM"
+        },
+        {
+          "end": 27,
+          "id": "1705934998673686528",
+          "start": 12,
+          "username": "KatoRosa220201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968124632004997199",
+    "in_reply_to_user_id": "1598873184438083586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968119664439070898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuSHrO0ooM @KatoRosa220201 何时（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1968111857648157006",
+        "created_at": "2025-09-17T01:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T02:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968124632004997199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1598873184438083586",
+              "start": 0,
+              "username": "MuSHrO0ooM"
+            },
+            {
+              "end": 27,
+              "id": "1705934998673686528",
+              "start": 12,
+              "username": "KatoRosa220201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968124632004997199",
+        "in_reply_to_user_id": "1598873184438083586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968119664439070898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuSHrO0ooM @KatoRosa220201 何时（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598873184438083586",
+        "conversation_id": "1968111857648157006",
+        "created_at": "2025-09-17T01:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T02:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968119664439070898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 27,
+              "id": "1705934998673686528",
+              "start": 12,
+              "username": "KatoRosa220201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968119664439070898",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968118001263317155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO @KatoRosa220201 也许已经见过呢🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "東京 新宿区",
+        "name": "樱井🥺千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8685,
+          "following_count": 1084,
+          "like_count": 15415,
+          "listed_count": 15,
+          "media_count": 269,
+          "tweet_count": 1971
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T02:54:22.000Z",
+        "description": "🚪88&同类免费/172cm/51kg/偏m/男娘/双性恋/infj，喜欢游戏，诗歌，月亮，听别人讲故事，如果你愿意，我可以成为很好的听众，蘑菇不会评论你，蘑菇只会静静听你说😶",
+        "id": "1598873184438083586",
+        "location": "北京",
+        "name": "玛诗如木",
+        "pinned_tweet_id": "1962777023711211889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932453550522515456/j1UCYhEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 168,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 726
+        },
+        "username": "MuSHrO0ooM",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T13:19:51.000Z",
+        "description": "北京/INFJ/处女座/被缚/养成系缚手/浮光屋招常驻绳师/欢迎私信\nLike the wind of the wilderness.",
+        "id": "1705934998673686528",
+        "name": "KatoRosa",
+        "pinned_tweet_id": "1959089048209039646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961294909786525696/aVy7whjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 295,
+          "like_count": 1569,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 513
+        },
+        "username": "KatoRosa220201",
+        "verified": false
+      }
+    ]
+  }
+}

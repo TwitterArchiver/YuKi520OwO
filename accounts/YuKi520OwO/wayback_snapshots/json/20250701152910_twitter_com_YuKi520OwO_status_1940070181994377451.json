@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1939173873758675122",
+    "created_at": "2025-07-01T15:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T16:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940070181994377451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1924965014831824896",
+          "start": 0,
+          "username": "Yuwen_Tang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940070181994377451",
+    "in_reply_to_user_id": "1924965014831824896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939173873758675122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuwen_Tang1019 姓唐的，给我评级"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939173871581794304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GulUXK1aEAAz7DW.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1939173873758675122",
+        "created_at": "2025-07-01T15:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T16:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940070181994377451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1924965014831824896",
+              "start": 0,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940070181994377451",
+        "in_reply_to_user_id": "1924965014831824896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939173873758675122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuwen_Tang1019 姓唐的，给我评级"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939173871581794304"
+          ]
+        },
+        "author_id": "1924965014831824896",
+        "conversation_id": "1939173873758675122",
+        "created_at": "2025-06-29T04:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T05:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939173873758675122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChLCrDBpC9",
+              "end": 29,
+              "expanded_url": "https://x.com/Yuwen_Tang1019/status/1939173873758675122/photo/1",
+              "media_key": "3_1939173871581794304",
+              "start": 6,
+              "url": "https://t.co/ChLCrDBpC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939173873758675122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4337,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别孙吧 https://t.co/ChLCrDBpC9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8795,
+          "following_count": 1033,
+          "like_count": 15076,
+          "listed_count": 16,
+          "media_count": 244,
+          "tweet_count": 1824
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "MTF（hrt2025.6.30）\n被迫绿奴\n出轨的老公:@zhishi_cook\n墨尔本\n道德价值观如钢板\n反跨\nq群975641126\nhttps://t.co/HRulu0zTpS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "zhishi_cook"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+DhBw7EtOmx01Z…",
+                "end": 93,
+                "expanded_url": "https://t.me/+DhBw7EtOmx01ZDY1",
+                "start": 70,
+                "url": "https://t.co/HRulu0zTpS"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "妈妈的怀里",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1939173873758675122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 256,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1629
+        },
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      }
+    ],
+    "conversation_id": "2019974615926489199",
+    "created_at": "2026-02-08T02:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T03:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020330294411464739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2008181604360003584",
+          "start": 0,
+          "username": "taikongjile003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020330294411464739",
+    "in_reply_to_user_id": "2008181604360003584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019974615926489199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile003 答案一：第五 人格启动\n答案二：第五 上述四种我不o 但我选择od"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2019974615926489199",
+        "created_at": "2026-02-08T02:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T03:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020330294411464739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2008181604360003584",
+              "start": 0,
+              "username": "taikongjile003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020330294411464739",
+        "in_reply_to_user_id": "2008181604360003584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019974615926489199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile003 答案一：第五 人格启动\n答案二：第五 上述四种我不o 但我选择od"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008181604360003584",
+        "conversation_id": "2019974615926489199",
+        "created_at": "2026-02-07T03:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019974615926489199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019974615926489199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 19119,
+          "like_count": 210,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "药物我有五不o\n第1不o普瑞巴林，因为他令人长胖。不适合减脂\n第2不o右美沙芬，因为他味苦，这使我的胃旋转\n第3不o lsd，因为他违法，作为中华人民不允许用我的身体做这种事\n第4不o白兔，因为他价格昂贵，没有人为我购买\n第五"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2014246601913712929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8453,
+          "following_count": 1115,
+          "like_count": 15850,
+          "listed_count": 16,
+          "media_count": 302,
+          "tweet_count": 2144
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:19:49.000Z",
+        "description": "官网：https://t.co/AAUURL4h0r\n交流群：https://t.co/BojRmuPJrJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 26,
+                "expanded_url": "https://taikong.mom",
+                "start": 3,
+                "url": "https://t.co/AAUURL4h0r"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 54,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 31,
+                "url": "https://t.co/BojRmuPJrJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom",
+                "start": 0,
+                "url": "https://t.co/AAUURL4h0r"
+              }
+            ]
+          }
+        },
+        "id": "2008181604360003584",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2019732708784775304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019730982350516224/BtvjrHz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 66,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/AAUURL4h0r",
+        "username": "taikongjile003",
+        "verified": false
+      }
+    ]
+  }
+}

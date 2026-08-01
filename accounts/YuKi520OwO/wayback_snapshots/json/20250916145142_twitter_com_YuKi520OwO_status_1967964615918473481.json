@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967908329763881332",
+    "created_at": "2025-09-16T14:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T15:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967964615918473481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1314432513771667456",
+          "start": 0,
+          "username": "SGCZJ1"
+        },
+        {
+          "end": 20,
+          "id": "1587653801305153538",
+          "start": 8,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967964615918473481",
+    "in_reply_to_user_id": "1314432513771667456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967908329763881332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SGCZJ1 @XiaoHuiHuiH 我也想玩这个🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57933,
+        "height": 720,
+        "media_key": "13_1967908190881976325",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967908190881976325/img/3PjsxV9tp2E8hxZo.jpg",
+        "public_metrics": {
+          "view_count": 13145
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967908190881976325/vid/avc1/480x270/2-AhrofquFOx2FFx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967908190881976325/vid/avc1/640x360/r1d37JMjph_pe7tz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967908190881976325/vid/avc1/1280x720/eXMdUIaEiCWxOSo0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967908190881976325/pl/uoBTW-aKweDO5aBa.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967908329763881332",
+        "created_at": "2025-09-16T14:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967964615918473481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1314432513771667456",
+              "start": 0,
+              "username": "SGCZJ1"
+            },
+            {
+              "end": 20,
+              "id": "1587653801305153538",
+              "start": 8,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967964615918473481",
+        "in_reply_to_user_id": "1314432513771667456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967908329763881332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGCZJ1 @XiaoHuiHuiH 我也想玩这个🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967908190881976325"
+          ]
+        },
+        "author_id": "1314432513771667456",
+        "conversation_id": "1967908329763881332",
+        "created_at": "2025-09-16T11:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967908329763881332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZvz8u41yH",
+              "end": 30,
+              "expanded_url": "https://x.com/SGCZJ1/status/1967908329763881332/video/1",
+              "media_key": "13_1967908190881976325",
+              "start": 7,
+              "url": "https://t.co/UZvz8u41yH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967908329763881332",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 23206,
+          "like_count": 1411,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa💦 https://t.co/UZvz8u41yH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8686,
+          "following_count": 1081,
+          "like_count": 15349,
+          "listed_count": 15,
+          "media_count": 266,
+          "tweet_count": 1947
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T05:08:46.000Z",
+        "description": "带把少女/P图狂魔/tg电报群和V门槛🚪98 学生兜里拮据的话可以减半（群内含完整视频及图片和其他内容|||永久更新）https://t.co/rm2SFHKHpj ||足控||猎奇||扩张||出售原味（↓↓↓广告位招租）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fansly.com/sgczj?r=",
+                "end": 82,
+                "expanded_url": "https://fansly.com/sgczj?r=",
+                "start": 59,
+                "url": "https://t.co/rm2SFHKHpj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansly.com/sgczj?r=",
+                "end": 23,
+                "expanded_url": "https://fansly.com/sgczj?r=",
+                "start": 0,
+                "url": "https://t.co/rm2SFHKHpj"
+              }
+            ]
+          }
+        },
+        "id": "1314432513771667456",
+        "location": "此处可放链接→",
+        "name": "三个橙子酱",
+        "pinned_tweet_id": "1967450741674770572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335526471423590403/JbXYSyhl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284537,
+          "following_count": 642,
+          "like_count": 767,
+          "listed_count": 1564,
+          "media_count": 329,
+          "tweet_count": 1416
+        },
+        "url": "https://t.co/rm2SFHKHpj",
+        "username": "SGCZJ1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点”里哦😈\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🩷💜/含糖🍥2023.12.7/泛性恋🏳️‍🌈/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/淫趴头子+滥交药攻/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1913873631475622109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11586,
+          "following_count": 1288,
+          "like_count": 139450,
+          "listed_count": 22,
+          "media_count": 4507,
+          "tweet_count": 61856
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984261400307593216"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1984206577843482687",
+    "created_at": "2025-10-31T14:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T15:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984261403092627854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nQ5KBydyPm",
+          "end": 37,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1984261403092627854/photo/1",
+          "media_key": "3_1984261400307593216",
+          "start": 14,
+          "url": "https://t.co/nQ5KBydyPm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984261403092627854",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984206577843482687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD https://t.co/nQ5KBydyPm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 381,
+        "media_key": "3_1984261400307593216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mDOwLacAA1_Lh.jpg",
+        "width": 381
+      },
+      {
+        "duration_ms": 17233,
+        "height": 720,
+        "media_key": "13_1984206542741397504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984206542741397504/img/ZEAZ_rqdOntwoE-L.jpg",
+        "public_metrics": {
+          "view_count": 1728
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984206542741397504/vid/avc1/480x270/2ndEBEyC1vnJeDh5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984206542741397504/vid/avc1/640x360/UptKuPsLr8fS4d7x.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984206542741397504/vid/avc1/1280x720/1ALYmj6EowFZS49W.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984206542741397504/pl/w9CK0W_sUrNZh4Vk.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984261400307593216"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1984206577843482687",
+        "created_at": "2025-10-31T14:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984261403092627854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQ5KBydyPm",
+              "end": 37,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1984261403092627854/photo/1",
+              "media_key": "3_1984261400307593216",
+              "start": 14,
+              "url": "https://t.co/nQ5KBydyPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984261403092627854",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984206577843482687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD https://t.co/nQ5KBydyPm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984206542741397504"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "conversation_id": "1984206577843482687",
+        "created_at": "2025-10-31T10:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984206577843482687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/URN8pNkGrN",
+              "end": 36,
+              "expanded_url": "https://x.com/Overdose_DBD/status/1984206577843482687/video/1",
+              "media_key": "13_1984206542741397504",
+              "start": 13,
+              "url": "https://t.co/URN8pNkGrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984206577843482687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6115,
+          "like_count": 84,
+          "quote_count": 6,
+          "reply_count": 105,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "春风：后人会怎么记住我？ https://t.co/URN8pNkGrN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "#女的，别再来找我发约炮广告了，sb吧？\n                呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女的"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984225791648145409/7VIyzL2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8562,
+          "following_count": 1112,
+          "like_count": 15568,
+          "listed_count": 15,
+          "media_count": 285,
+          "tweet_count": 2053
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64KQD6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64KQD6"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤#欧根亲王号",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983849668858802181/eRKzQOdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3992,
+          "following_count": 57,
+          "like_count": 23,
+          "listed_count": 10,
+          "media_count": 479,
+          "tweet_count": 6015
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

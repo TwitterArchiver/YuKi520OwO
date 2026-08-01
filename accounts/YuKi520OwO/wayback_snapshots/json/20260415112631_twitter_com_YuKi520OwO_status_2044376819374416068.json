@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2044249746257179076",
+    "created_at": "2026-04-15T11:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044376819374416068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1694638553098264576",
+          "start": 0,
+          "username": "kawaiangel233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044376819374416068",
+    "in_reply_to_user_id": "1694638553098264576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044249746257179076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaiangel233 可以变成n55"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044249732260999168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6iTPOasAAAMr9.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2044249746257179076",
+        "created_at": "2026-04-15T11:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044376819374416068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1694638553098264576",
+              "start": 0,
+              "username": "kawaiangel233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044376819374416068",
+        "in_reply_to_user_id": "1694638553098264576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044249746257179076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaiangel233 可以变成n55"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044249732260999168"
+          ]
+        },
+        "author_id": "1694638553098264576",
+        "conversation_id": "2044249746257179076",
+        "created_at": "2026-04-15T03:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044249746257179076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdTeHRGgmS",
+              "end": 50,
+              "expanded_url": "https://x.com/kawaiangel233/status/2044249746257179076/photo/1",
+              "media_key": "3_2044249732260999168",
+              "start": 27,
+              "url": "https://t.co/FdTeHRGgmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044249746257179076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2903,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就问，一次性摄入24000mg普瑞巴林会怎么呀🥹 https://t.co/FdTeHRGgmS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2025837106732613865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8248,
+          "following_count": 1105,
+          "like_count": 16014,
+          "listed_count": 15,
+          "media_count": 312,
+          "tweet_count": 2215
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T09:11:41.000Z",
+        "description": "生产日期2006 11 3🎂/大一/mtf🏳️‍⚧️/hrt2025 12 01/已炸柜/精神状态不太稳定（中度抑郁，妄想）/目前是清水/想要多多同类互fo谢谢啦🥺\n\n✟小天使請安✟",
+        "id": "1694638553098264576",
+        "location": "北京丰台",
+        "name": "鍵山雛🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2028663347193753645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694644007295754240/uJVny2Bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 665,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 29
+        },
+        "username": "kawaiangel233",
+        "verified": false
+      }
+    ]
+  }
+}

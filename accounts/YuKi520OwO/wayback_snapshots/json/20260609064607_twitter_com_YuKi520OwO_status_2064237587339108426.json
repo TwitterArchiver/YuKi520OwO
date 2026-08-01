@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2063946928854126780",
+    "created_at": "2026-06-09T06:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064237587339108426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1706698122049765376",
+          "start": 0,
+          "username": "V_C_Wither"
+        },
+        {
+          "end": 28,
+          "id": "1893984432270475264",
+          "start": 12,
+          "username": "bailixing114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064237587339108426",
+    "in_reply_to_user_id": "1706698122049765376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064183409594028084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@V_C_Wither @bailixing114514 是这样 但愈美怎么开"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064183401918451712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVz3habUAAgAqe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064182510704381952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVzDpYb0AAX72t.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064182510825943040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVzDp1asAAvUin.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2063946928854126780",
+        "created_at": "2026-06-09T06:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064237587339108426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706698122049765376",
+              "start": 0,
+              "username": "V_C_Wither"
+            },
+            {
+              "end": 28,
+              "id": "1893984432270475264",
+              "start": 12,
+              "username": "bailixing114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064237587339108426",
+        "in_reply_to_user_id": "1706698122049765376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064183409594028084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V_C_Wither @bailixing114514 是这样 但愈美怎么开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064183401918451712",
+            "3_2064182510704381952",
+            "3_2064182510825943040"
+          ]
+        },
+        "author_id": "1706698122049765376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063946928854126780",
+        "created_at": "2026-06-09T03:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064183409594028084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 28,
+              "id": "1893984432270475264",
+              "start": 12,
+              "username": "bailixing114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GvmU0ugv97",
+              "end": 74,
+              "expanded_url": "https://x.com/V_C_Wither/status/2064183409594028084/photo/1",
+              "media_key": "3_2064183401918451712",
+              "start": 51,
+              "url": "https://t.co/GvmU0ugv97"
+            },
+            {
+              "display_url": "pic.x.com/GvmU0ugv97",
+              "end": 74,
+              "expanded_url": "https://x.com/V_C_Wither/status/2064183409594028084/photo/1",
+              "media_key": "3_2064182510704381952",
+              "start": 51,
+              "url": "https://t.co/GvmU0ugv97"
+            },
+            {
+              "display_url": "pic.x.com/GvmU0ugv97",
+              "end": 74,
+              "expanded_url": "https://x.com/V_C_Wither/status/2064183409594028084/photo/1",
+              "media_key": "3_2064182510825943040",
+              "start": 51,
+              "url": "https://t.co/GvmU0ugv97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064183409594028084",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064036192279208103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO @bailixing114514 感觉还是可以去医院随便开，但是没之前想吃了 https://t.co/GvmU0ugv97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2064012227951423791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8658,
+          "following_count": 1115,
+          "like_count": 16022,
+          "listed_count": 17,
+          "media_count": 328,
+          "tweet_count": 2292
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T15:52:10.000Z",
+        "description": "100%回fo/100%back fallow｜✈已飞0国｜中中混血📍｜中国留学生｜华籍华人｜PDD/Tmall资深买手🏅｜luckin coffee评鉴师☕｜24年国奖♜｜🆔国家级身份证持有者｜雅思托福没考｜诺贝尔奖觊觎者｜🏄Internet冲浪达人\n✝️升天✝️成為神吧",
+        "id": "1706698122049765376",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "⚛️✡️Papaya_Milk_awa✡️⚛️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061365581924950016/XbYBvub2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 351,
+          "like_count": 788,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 370
+        },
+        "username": "V_C_Wither",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-24T11:20:59.000Z",
+        "description": "鬼知道大号 @baizhouzi520 怎么封了😅|小证含糖家长党🍥|hrt日期2024.12.11|双相边缘纯正精神病|自残嗑药正宗地雷女|did成员有白洲，黎星，诗遥，haku……|术力口重度依赖|同类欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "baizhouzi520"
+              }
+            ]
+          }
+        },
+        "id": "1893984432270475264",
+        "location": "浦島トンネル",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊（二代目）",
+        "pinned_tweet_id": "2017032358017532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428712932913152/44JwCgoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 113,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 109
+        },
+        "username": "bailixing114514",
+        "verified": false
+      }
+    ]
+  }
+}

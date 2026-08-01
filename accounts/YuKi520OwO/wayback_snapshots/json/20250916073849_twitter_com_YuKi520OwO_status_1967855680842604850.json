@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1966645238241362256",
+    "created_at": "2025-09-16T07:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T08:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967855680842604850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796748076528345088",
+          "start": 0,
+          "username": "DOUFUNAO_ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967855680842604850",
+    "in_reply_to_user_id": "1796748076528345088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966763946054218231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOUFUNAO_ever 证据确凿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1966645238241362256",
+        "created_at": "2025-09-16T07:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967855680842604850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796748076528345088",
+              "start": 0,
+              "username": "DOUFUNAO_ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967855680842604850",
+        "in_reply_to_user_id": "1796748076528345088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966763946054218231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOUFUNAO_ever 证据确凿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796748076528345088",
+        "conversation_id": "1966645238241362256",
+        "created_at": "2025-09-13T07:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T08:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966763946054218231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966763946054218231",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966645238241362256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 真的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8683,
+          "following_count": 1077,
+          "like_count": 15276,
+          "listed_count": 15,
+          "media_count": 264,
+          "tweet_count": 1916
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T03:38:51.000Z",
+        "description": "我不想在人际关系里被粗暴对待，我想在做爱的时候被粗暴对待",
+        "id": "1796748076528345088",
+        "location": "永远在你心里",
+        "name": "速食味增汤",
+        "pinned_tweet_id": "1965055085827985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890036200221925376/kc-_uNmT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 884,
+          "like_count": 42705,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 3070
+        },
+        "username": "DOUFUNAO_ever",
+        "verified": false
+      }
+    ]
+  }
+}

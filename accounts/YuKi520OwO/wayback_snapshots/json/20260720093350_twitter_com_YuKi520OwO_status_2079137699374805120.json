@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079135346252726272"
+      ],
+      "media_source_tweet_id": [
+        "2079135355870257650"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "2079137699374805120",
+    "created_at": "2026-07-20T09:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079137699374805120"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "男娘"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "mtf"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "药娘"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "人妖"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "广州"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2063159365075623937",
+          "start": 3,
+          "username": "chiaki1000520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aue8IZgFUR",
+          "end": 73,
+          "expanded_url": "https://x.com/chiaki1000520/status/2079135355870257650/photo/1",
+          "media_key": "3_2079135346252726272",
+          "start": 50,
+          "url": "https://t.co/aue8IZgFUR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079137699374805120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079135355870257650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chiaki1000520: 可接线下援交，私聊\n#男娘 #mtf #药娘 #人妖 #广州 https://t.co/aue8IZgFUR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1482,
+        "media_key": "3_2079135346252726272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqSlOlaQAA4SwP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079135346252726272"
+          ]
+        },
+        "author_id": "2063159365075623937",
+        "conversation_id": "2079135355870257650",
+        "created_at": "2026-07-20T09:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079135355870257650"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "男娘"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "mtf"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "药娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "人妖"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "广州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aue8IZgFUR",
+              "end": 54,
+              "expanded_url": "https://x.com/chiaki1000520/status/2079135355870257650/photo/1",
+              "media_key": "3_2079135346252726272",
+              "start": 31,
+              "url": "https://t.co/aue8IZgFUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079135355870257650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可接线下援交，私聊\n#男娘 #mtf #药娘 #人妖 #广州 https://t.co/aue8IZgFUR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079135346252726272"
+          ],
+          "media_source_tweet_id": [
+            "2079135355870257650"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2079137699374805120",
+        "created_at": "2026-07-20T09:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079137699374805120"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男娘"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "mtf"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "药娘"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "人妖"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "广州"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2063159365075623937",
+              "start": 3,
+              "username": "chiaki1000520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aue8IZgFUR",
+              "end": 73,
+              "expanded_url": "https://x.com/chiaki1000520/status/2079135355870257650/photo/1",
+              "media_key": "3_2079135346252726272",
+              "start": 50,
+              "url": "https://t.co/aue8IZgFUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079137699374805120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079135355870257650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chiaki1000520: 可接线下援交，私聊\n#男娘 #mtf #药娘 #人妖 #广州 https://t.co/aue8IZgFUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8680,
+          "following_count": 1159,
+          "like_count": 16291,
+          "listed_count": 18,
+          "media_count": 344,
+          "tweet_count": 2459
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T07:23:23.000Z",
+        "description": "小药娘/MTF/精分、抑郁/无证含糖2026.1.4",
+        "id": "2063159365075623937",
+        "location": "珠海",
+        "name": "千晓Dawns2.0🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2079135355870257650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063161974733811713/g7zCOiUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 30,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "chiaki1000520",
+        "verified": false
+      }
+    ]
+  }
+}

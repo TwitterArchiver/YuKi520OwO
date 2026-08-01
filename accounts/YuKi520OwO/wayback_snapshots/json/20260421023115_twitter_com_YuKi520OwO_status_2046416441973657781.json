@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2045738060785357253",
+    "created_at": "2026-04-21T02:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T03:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046416441973657781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735445821418881024",
+          "start": 0,
+          "username": "chen_xian31446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046416441973657781",
+    "in_reply_to_user_id": "1735445821418881024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045892705809514947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen_xian31446 我去绿色sns"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045892701921366016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGR4kqKWUAAnwbo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2045738060785357253",
+        "created_at": "2026-04-21T02:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046416441973657781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735445821418881024",
+              "start": 0,
+              "username": "chen_xian31446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046416441973657781",
+        "in_reply_to_user_id": "1735445821418881024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045892705809514947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen_xian31446 我去绿色sns"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045892701921366016"
+          ]
+        },
+        "author_id": "1735445821418881024",
+        "conversation_id": "2045738060785357253",
+        "created_at": "2026-04-19T15:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045892705809514947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yuDEJveU6w",
+              "end": 41,
+              "expanded_url": "https://x.com/chen_xian31446/status/2045892705809514947/photo/1",
+              "media_key": "3_2045892701921366016",
+              "start": 18,
+              "url": "https://t.co/yuDEJveU6w"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2045892705809514947",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045738060785357253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 这个好吃😋 https://t.co/yuDEJveU6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2044443894151364641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8545,
+          "following_count": 1107,
+          "like_count": 16068,
+          "listed_count": 17,
+          "media_count": 320,
+          "tweet_count": 2246
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T23:45:11.000Z",
+        "description": "10后男初，179   90   本人不直0.5偏1，广州\n\n重郁重虑 在广州的可以来找主播面基\n\n🚪10元，加v🉑出🧦",
+        "id": "1735445821418881024",
+        "name": "吡啶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796087961190350848/QxaMQizn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 249,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "username": "chen_xian31446",
+        "verified": false
+      }
+    ]
+  }
+}

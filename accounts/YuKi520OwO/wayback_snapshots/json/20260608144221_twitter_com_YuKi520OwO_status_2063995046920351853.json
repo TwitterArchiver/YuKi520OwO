@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063995043967598593"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063806179634274735",
+    "created_at": "2026-06-08T14:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063995046920351853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1599377355503726592",
+          "start": 0,
+          "username": "meiiiTvT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vR7lIrvv1L",
+          "end": 38,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2063995046920351853/photo/1",
+          "media_key": "3_2063995043967598593",
+          "start": 15,
+          "url": "https://t.co/vR7lIrvv1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063995046920351853",
+    "in_reply_to_user_id": "1599377355503726592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063806179634274735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiiiTvT 可以这个 https://t.co/vR7lIrvv1L"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063995046920351853].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063995046920351853",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063995046920351853"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2063995043967598593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTIjpXbAAE7FoH.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599377355503726592",
+        "conversation_id": "2063806179634274735",
+        "created_at": "2026-06-08T02:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063806179634274735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063806179634274735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2573,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在还有什么能o的💊吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2044443894151364641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8658,
+          "following_count": 1114,
+          "like_count": 15997,
+          "listed_count": 17,
+          "media_count": 326,
+          "tweet_count": 2283
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "我是小莓｜07重抑中焦神经性贪食｜o割餐券｜互fo欢迎 @Denyoffshshsh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Denyoffshshsh"
+              }
+            ]
+          }
+        },
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060007971237904384/XKElbklj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 447,
+          "like_count": 1732,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 2432
+        },
+        "username": "meiiiTvT",
+        "verified": false
+      }
+    ]
+  }
+}

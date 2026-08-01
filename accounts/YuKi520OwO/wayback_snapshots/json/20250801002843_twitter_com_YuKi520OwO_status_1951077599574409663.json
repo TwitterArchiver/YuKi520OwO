@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1950964337180336354",
+    "created_at": "2025-08-01T00:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T01:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951077599574409663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1487442013041881098",
+          "start": 0,
+          "username": "xiaobudianmomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951077599574409663",
+    "in_reply_to_user_id": "1487442013041881098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950969778333470725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobudianmomo 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1950964337180336354",
+        "created_at": "2025-08-01T00:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T01:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951077599574409663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1487442013041881098",
+              "start": 0,
+              "username": "xiaobudianmomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951077599574409663",
+        "in_reply_to_user_id": "1487442013041881098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950969778333470725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobudianmomo 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487442013041881098",
+        "conversation_id": "1950964337180336354",
+        "created_at": "2025-07-31T17:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T18:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950969778333470725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950969778333470725",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950964337180336354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 你是被玩的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8750,
+          "following_count": 1064,
+          "like_count": 15216,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1855
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T15:06:36.000Z",
+        "description": "up!(˘•ω•˘)ง愿最古老的古老者招来红月的女伯爵祝大家发大财 ♬︎*(๑ºั╰︎╯︎ºั๑)♡︎",
+        "id": "1487442013041881098",
+        "location": "博丽神社",
+        "name": "你的筱筱(❁´◡`❁)*✲ﾟ*",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867056422414061571/d-yNF8HC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 139,
+          "like_count": 7828,
+          "listed_count": 15,
+          "media_count": 2112,
+          "tweet_count": 8987
+        },
+        "username": "xiaobudianmomo",
+        "verified": false
+      }
+    ]
+  }
+}

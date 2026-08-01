@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1968114566925299868",
+    "created_at": "2025-09-28T01:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T02:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972113031611273329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360124680326111232",
+          "start": 0,
+          "username": "quedelao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972113031611273329",
+    "in_reply_to_user_id": "1360124680326111232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971991152107966838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quedelao 泉奈也在那"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1968114566925299868",
+        "created_at": "2025-09-28T01:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T02:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972113031611273329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360124680326111232",
+              "start": 0,
+              "username": "quedelao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972113031611273329",
+        "in_reply_to_user_id": "1360124680326111232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971991152107966838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quedelao 泉奈也在那"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360124680326111232",
+        "conversation_id": "1968114566925299868",
+        "created_at": "2025-09-27T17:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T18:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971991152107966838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971991152107966838",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970183201051312535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 感觉没有（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8602,
+          "following_count": 1099,
+          "like_count": 15538,
+          "listed_count": 15,
+          "media_count": 277,
+          "tweet_count": 2011
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T07:12:56.000Z",
+        "description": "22岁现役吐槽役，是男的，坐标苏州",
+        "id": "1360124680326111232",
+        "location": "山东",
+        "name": "吴宁阙",
+        "pinned_tweet_id": "1893997667480383768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885325761370087432/q6Hhj7qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 227,
+          "like_count": 12945,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 7056
+        },
+        "username": "quedelao",
+        "verified": false
+      }
+    ]
+  }
+}

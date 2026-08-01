@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2046867201005916288",
+    "created_at": "2026-04-22T15:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046967722106642815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1502290571833995266",
+          "start": 0,
+          "username": "3a4kura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046967722106642815",
+    "in_reply_to_user_id": "1502290571833995266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046938797615857693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3a4kura 复活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2046867201005916288",
+        "created_at": "2026-04-22T15:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046967722106642815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1502290571833995266",
+              "start": 0,
+              "username": "3a4kura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046967722106642815",
+        "in_reply_to_user_id": "1502290571833995266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046938797615857693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3a4kura 复活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502290571833995266",
+        "conversation_id": "2046867201005916288",
+        "created_at": "2026-04-22T13:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046938797615857693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046938797615857693",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 524,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046867201005916288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 恭喜复活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2044443894151364641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8563,
+          "following_count": 1107,
+          "like_count": 16080,
+          "listed_count": 17,
+          "media_count": 321,
+          "tweet_count": 2252
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T14:29:28.000Z",
+        "description": "宝宝……嘿嘿嘿……宝宝……\n @shana_yowaino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "shana_yowaino"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SaskuraMiku",
+                "end": 23,
+                "expanded_url": "http://t.me/SaskuraMiku",
+                "start": 0,
+                "url": "https://t.co/ZuTqpGwx8H"
+              }
+            ]
+          }
+        },
+        "id": "1502290571833995266",
+        "location": "我家宝宝的怀里",
+        "name": "3a4kura",
+        "pinned_tweet_id": "1899841111612690630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046881278033850368/Qrs1K5JZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 247,
+          "like_count": 20419,
+          "listed_count": 1,
+          "media_count": 2775,
+          "tweet_count": 9092
+        },
+        "url": "https://t.co/ZuTqpGwx8H",
+        "username": "3a4kura",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968043321932255233"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1968043329939181814",
+    "created_at": "2025-09-16T20:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T21:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968043329939181814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pjj4KOwutm",
+          "end": 73,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1968043329939181814/photo/1",
+          "media_key": "3_1968043321932255233",
+          "start": 50,
+          "url": "https://t.co/Pjj4KOwutm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968043329939181814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求求各位打赏一点吧，孩子现在又渴又饿，还在露宿街头....第一次来乞讨，因为我真的没办法了.... https://t.co/Pjj4KOwutm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1968043321932255233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_k-WJaEAEmaur.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968043321932255233"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1968043329939181814",
+        "created_at": "2025-09-16T20:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T21:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968043329939181814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pjj4KOwutm",
+              "end": 73,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1968043329939181814/photo/1",
+              "media_key": "3_1968043321932255233",
+              "start": 50,
+              "url": "https://t.co/Pjj4KOwutm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968043329939181814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求各位打赏一点吧，孩子现在又渴又饿，还在露宿街头....第一次来乞讨，因为我真的没办法了.... https://t.co/Pjj4KOwutm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8687,
+          "following_count": 1082,
+          "like_count": 15372,
+          "listed_count": 15,
+          "media_count": 267,
+          "tweet_count": 1960
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

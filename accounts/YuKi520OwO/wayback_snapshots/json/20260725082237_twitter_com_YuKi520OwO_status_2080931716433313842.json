@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2080786753116606670",
+    "created_at": "2026-07-25T08:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080931716433313842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080931716433313842",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080786753116606670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 哈！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2080786745025855488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBwhSabgAAnyaQ.jpg",
+        "width": 185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2080786753116606670",
+        "created_at": "2026-07-25T08:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080931716433313842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080931716433313842",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080786753116606670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 哈！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080786745025855488"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2080786753116606670",
+        "created_at": "2026-07-24T22:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080786753116606670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQ4yN4wF5q",
+              "end": 39,
+              "expanded_url": "https://x.com/Goldwater8964/status/2080786753116606670/photo/1",
+              "media_key": "3_2080786745025855488",
+              "start": 16,
+              "url": "https://t.co/UQ4yN4wF5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080786753116606670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是想让你的时间线上有一只耄耋 https://t.co/UQ4yN4wF5q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8673,
+          "following_count": 1153,
+          "like_count": 16318,
+          "listed_count": 18,
+          "media_count": 346,
+          "tweet_count": 2475
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "成和败努力尝试\n人若有志应该不怕迟\n谁人在我未为意\n成就靠真本事\n做个真的汉子\n承担起苦痛跟失意",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2072446798132883670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 1061,
+          "like_count": 8694,
+          "listed_count": 5,
+          "media_count": 394,
+          "tweet_count": 1596
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

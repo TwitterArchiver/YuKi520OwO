@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971721414739959808"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1971721417852137493",
+    "created_at": "2025-09-26T23:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T00:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971721417852137493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 38,
+          "id": "1858186854526562304",
+          "start": 27,
+          "username": "meiyujijie"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infintytweet.me/love-calculator",
+          "end": 73,
+          "expanded_url": "https://infintytweet.me/love-calculator",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1971044569572835333/7cbTowSY?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1971044569572835333/7cbTowSY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 50,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infintytweet.me/love-calculator",
+          "url": "https://t.co/7vmDJdpshp"
+        },
+        {
+          "display_url": "pic.x.com/JiwufG1lyG",
+          "end": 97,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1971721417852137493/photo/1",
+          "media_key": "3_1971721414739959808",
+          "start": 74,
+          "url": "https://t.co/JiwufG1lyG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971721417852137493",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "My love compatibility with @meiyujijie is 72%\n\n➡️ https://t.co/7vmDJdpshp https://t.co/JiwufG1lyG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_1971721414739959808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1z2LhmbIAA3dVu.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971721414739959808"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1971721417852137493",
+        "created_at": "2025-09-26T23:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T00:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971721417852137493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1858186854526562304",
+              "start": 27,
+              "username": "meiyujijie"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infintytweet.me/love-calculator",
+              "end": 73,
+              "expanded_url": "https://infintytweet.me/love-calculator",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1971044569572835333/7cbTowSY?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1971044569572835333/7cbTowSY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infintytweet.me/love-calculator",
+              "url": "https://t.co/7vmDJdpshp"
+            },
+            {
+              "display_url": "pic.x.com/JiwufG1lyG",
+              "end": 97,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1971721417852137493/photo/1",
+              "media_key": "3_1971721414739959808",
+              "start": 74,
+              "url": "https://t.co/JiwufG1lyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971721417852137493",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My love compatibility with @meiyujijie is 72%\n\n➡️ https://t.co/7vmDJdpshp https://t.co/JiwufG1lyG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8621,
+          "following_count": 1100,
+          "like_count": 15546,
+          "listed_count": 15,
+          "media_count": 276,
+          "tweet_count": 2012
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "是一颗仙人球",
+        "id": "1858186854526562304",
+        "name": "何六诚",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85816,
+          "following_count": 112,
+          "like_count": 1591,
+          "listed_count": 176,
+          "media_count": 176,
+          "tweet_count": 513
+        },
+        "username": "meiyujijie",
+        "verified": true
+      }
+    ]
+  }
+}

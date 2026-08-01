@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065196376095695053",
+    "created_at": "2026-06-12T10:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065384391728398832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916202732",
+          "start": 0,
+          "username": "YouBallSuper"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065384391728398832",
+    "in_reply_to_user_id": "1916202732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065196376095695053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouBallSuper 可爱小猫你好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36933,
+        "height": 1280,
+        "media_key": "13_2064879336130269184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064879336130269184/img/veW90NrU85Y0V44y.jpg",
+        "public_metrics": {
+          "view_count": 15664
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064879336130269184/vid/avc1/320x568/1GVC8RwZV4ZO_p1E.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064879336130269184/vid/avc1/480x852/v4NH1oFXCdRIKfQ3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064879336130269184/vid/avc1/720x1280/QBZWtflaVhJHm5Mc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064879336130269184/pl/AQ-8xUFmH4VrWUh2.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065196376095695053",
+        "created_at": "2026-06-12T10:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065384391728398832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916202732",
+              "start": 0,
+              "username": "YouBallSuper"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065384391728398832",
+        "in_reply_to_user_id": "1916202732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065196376095695053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouBallSuper 可爱小猫你好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064879336130269184"
+          ]
+        },
+        "author_id": "1916202732",
+        "conversation_id": "2065196376095695053",
+        "created_at": "2026-06-11T22:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065196376095695053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRv3C79koP",
+              "end": 77,
+              "expanded_url": "https://x.com/YouBallSuper/status/2065196376095695053/video/1",
+              "media_key": "13_2064879336130269184",
+              "start": 54,
+              "url": "https://t.co/PRv3C79koP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065196376095695053",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 52361,
+          "like_count": 7874,
+          "quote_count": 11,
+          "reply_count": 498,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "5 AÑOS DE MALA SUERTE PARA QUIENES NO SALUDEN A KIMBA https://t.co/PRv3C79koP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8664,
+          "following_count": 1126,
+          "like_count": 16110,
+          "listed_count": 17,
+          "media_count": 333,
+          "tweet_count": 2348
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-29T05:32:34.000Z",
+        "description": "¡Sigue a los mejores fanáticos de Dragon Ball en esta cuenta exclusiva! ¡Te sorprenderás!",
+        "id": "1916202732",
+        "name": "YouBall Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732595569175003136/QHN3ho-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126724,
+          "following_count": 44,
+          "like_count": 6356,
+          "listed_count": 460,
+          "media_count": 6020,
+          "tweet_count": 6522
+        },
+        "username": "YouBallSuper",
+        "verified": true
+      }
+    ]
+  }
+}

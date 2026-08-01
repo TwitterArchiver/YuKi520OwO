@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2012831256829215069",
+    "created_at": "2026-01-19T01:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T02:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013057141016301921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801490762888318976",
+          "start": 0,
+          "username": "raotianshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013057141016301921",
+    "in_reply_to_user_id": "1801490762888318976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012899947725598783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raotianshou 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2012831256829215069",
+        "created_at": "2026-01-19T01:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T02:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013057141016301921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801490762888318976",
+              "start": 0,
+              "username": "raotianshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013057141016301921",
+        "in_reply_to_user_id": "1801490762888318976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012899947725598783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raotianshou 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801490762888318976",
+        "conversation_id": "2012831256829215069",
+        "created_at": "2026-01-18T14:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012899947725598783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012899947725598783",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012831256829215069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 咪，我是纯梦幻蝶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8474,
+          "following_count": 1103,
+          "like_count": 15705,
+          "listed_count": 15,
+          "media_count": 291,
+          "tweet_count": 2091
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T05:44:21.000Z",
+        "description": "05註冊地球online🍥一读书就不开心🍥大一萌新医学生🍥嘴上功夫一流🍥同類私信互fo🍥努力圓角中 #线下 #圆角",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "线下"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "圆角"
+              }
+            ]
+          }
+        },
+        "id": "1801490762888318976",
+        "name": "神楽坂 幻蝶纯梦🍥(互fo版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935366192602001408/7pYL-OmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 147,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 203
+        },
+        "username": "raotianshou",
+        "verified": false
+      }
+    ]
+  }
+}

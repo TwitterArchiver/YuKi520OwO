@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1939145218164707801",
+    "created_at": "2025-06-29T09:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T10:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939260670236881150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1780837272126132224",
+          "start": 0,
+          "username": "qn52157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939260670236881150",
+    "in_reply_to_user_id": "1780837272126132224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 34,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939145218164707801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qn52157 你还不漂亮？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939145207448248324",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guk6SsnaoAQ59Mk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1939145218164707801",
+        "created_at": "2025-06-29T09:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T10:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939260670236881150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1780837272126132224",
+              "start": 0,
+              "username": "qn52157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939260670236881150",
+        "in_reply_to_user_id": "1780837272126132224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939145218164707801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qn52157 你还不漂亮？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939145207448248324"
+          ]
+        },
+        "author_id": "1780837272126132224",
+        "conversation_id": "1939145218164707801",
+        "created_at": "2025-06-29T02:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T03:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939145218164707801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6WczpgeaT",
+              "end": 79,
+              "expanded_url": "https://x.com/qn52157/status/1939145218164707801/photo/1",
+              "media_key": "3_1939145207448248324",
+              "start": 56,
+              "url": "https://t.co/f6WczpgeaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939145218164707801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1562,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们都那么漂亮，还那么凡尔赛，要是我有你们这些美少女一半可爱，我早就得性病死掉惹，我也好想要达柔棒🥺🥺🥺 https://t.co/f6WczpgeaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8787,
+          "following_count": 1030,
+          "like_count": 15066,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1820
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T05:54:33.000Z",
+        "description": "常驻苏州，🚪68，全国可飞，愿世上再也没有戒网瘾学校",
+        "id": "1780837272126132224",
+        "name": "泉奈🍥",
+        "pinned_tweet_id": "1913516973742604618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937391657026224129/icDvcANH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5164,
+          "following_count": 521,
+          "like_count": 1375,
+          "listed_count": 15,
+          "media_count": 113,
+          "tweet_count": 303
+        },
+        "username": "qn52157",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1952231170487533981",
+    "created_at": "2025-08-04T17:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T18:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952425819290390933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1775851282710122496",
+          "start": 0,
+          "username": "Vincy1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952425819290390933",
+    "in_reply_to_user_id": "1775851282710122496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952373158062837935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vincy1230 我怎么也"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1952231170487533981",
+        "created_at": "2025-08-04T17:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T18:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952425819290390933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1775851282710122496",
+              "start": 0,
+              "username": "Vincy1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952425819290390933",
+        "in_reply_to_user_id": "1775851282710122496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952373158062837935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vincy1230 我怎么也"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775851282710122496",
+        "conversation_id": "1952231170487533981",
+        "created_at": "2025-08-04T14:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952373158062837935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952373158062837935",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952231170487533981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 你怎么也"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです/最爱的人@yaiikawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8749,
+          "following_count": 1069,
+          "like_count": 15251,
+          "listed_count": 14,
+          "media_count": 251,
+          "tweet_count": 1863
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T11:42:12.000Z",
+        "description": "如果都回不来那么我该为了谁而存在 | 推友寻回中 | 只给熟人看的情绪垃圾场 @BeforeDawnBreak | 坏蛋主人 @HzShibari86",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "BeforeDawnBreak"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "HzShibari86"
+              }
+            ]
+          }
+        },
+        "id": "1775851282710122496",
+        "location": "Macau SAR / Beijing, P.R.China",
+        "name": "Vincy SHI 🍥",
+        "pinned_tweet_id": "1775864235471536147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902751291916611584/iUFDX75D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 201,
+          "like_count": 957,
+          "listed_count": 5,
+          "media_count": 405,
+          "tweet_count": 3355
+        },
+        "username": "Vincy1230",
+        "verified": true
+      }
+    ]
+  }
+}

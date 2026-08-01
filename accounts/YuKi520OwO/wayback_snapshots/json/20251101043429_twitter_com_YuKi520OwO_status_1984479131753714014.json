@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984479129123856384"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1984479131753714014",
+    "created_at": "2025-11-01T04:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T05:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984479131753714014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wLurtMVi8I",
+          "end": 56,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1984479131753714014/photo/1",
+          "media_key": "3_1984479129123856384",
+          "start": 33,
+          "url": "https://t.co/wLurtMVi8I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984479131753714014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正在登神长阶，已经开到了氨酚羟考酮，下一步进阶精麻红处方。开o！ https://t.co/wLurtMVi8I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1984479129123856384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4pJQPOaoAAFE3m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984479129123856384"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984479131753714014",
+        "created_at": "2025-11-01T04:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T05:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984479131753714014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLurtMVi8I",
+              "end": 56,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1984479131753714014/photo/1",
+              "media_key": "3_1984479129123856384",
+              "start": 33,
+              "url": "https://t.co/wLurtMVi8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984479131753714014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在登神长阶，已经开到了氨酚羟考酮，下一步进阶精麻红处方。开o！ https://t.co/wLurtMVi8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "#女的，别再来找我发约炮广告了，sb吧？\n                呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女的"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984225791648145409/7VIyzL2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8555,
+          "following_count": 1110,
+          "like_count": 15629,
+          "listed_count": 15,
+          "media_count": 286,
+          "tweet_count": 2055
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

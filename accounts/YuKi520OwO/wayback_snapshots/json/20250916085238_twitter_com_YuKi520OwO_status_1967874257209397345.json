@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967848370237739255",
+    "created_at": "2025-09-16T08:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T09:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967874257209397345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356583549",
+          "start": 0,
+          "username": "kagurazakayashi"
+        },
+        {
+          "end": 25,
+          "id": "961832160377282560",
+          "start": 17,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967874257209397345",
+    "in_reply_to_user_id": "1356583549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967873715678613860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakayashi @iMoeAya 哇好恐怖...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967848370237739255",
+        "created_at": "2025-09-16T08:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967874257209397345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356583549",
+              "start": 0,
+              "username": "kagurazakayashi"
+            },
+            {
+              "end": 25,
+              "id": "961832160377282560",
+              "start": 17,
+              "username": "iMoeAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967874257209397345",
+        "in_reply_to_user_id": "1356583549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967873715678613860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakayashi @iMoeAya 哇好恐怖...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356583549",
+        "conversation_id": "1967848370237739255",
+        "created_at": "2025-09-16T08:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967873715678613860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 20,
+              "id": "961832160377282560",
+              "start": 12,
+              "username": "iMoeAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967873715678613860",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967873387625406823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO @iMoeAya 非医用设备乱来的话，\n电抽搐可能是有了，抽完可能人没了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8684,
+          "following_count": 1079,
+          "like_count": 15308,
+          "listed_count": 15,
+          "media_count": 265,
+          "tweet_count": 1935
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "2023.7之前的所有内容已经清空，这里是3周目，希望认识更多友人。没有头像和推文的还有广告人乐子人还是别点关注哦，会被拉黑的。女装不发18x。之前脚本批量B过人可能误B，照片 #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶推🩵🩷",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 122,
+                "start": 106,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgrsWF"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩🏳️‍⚧️",
+        "pinned_tweet_id": "1700827655258690027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951643207277920256/bEnBTuS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14314,
+          "following_count": 5466,
+          "like_count": 17479,
+          "listed_count": 59,
+          "media_count": 475,
+          "tweet_count": 3754
+        },
+        "url": "https://t.co/s9yovgrsWF",
+        "username": "kagurazakayashi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951641714483183616/OGRyh4_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38201,
+          "following_count": 4118,
+          "like_count": 165021,
+          "listed_count": 134,
+          "media_count": 1091,
+          "tweet_count": 34538
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

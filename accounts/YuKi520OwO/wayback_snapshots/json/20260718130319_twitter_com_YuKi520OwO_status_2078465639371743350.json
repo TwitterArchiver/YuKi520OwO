@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2078304966339596618",
+    "created_at": "2026-07-18T13:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078465639371743350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449281677045760",
+          "start": 0,
+          "username": "Sorcerer1311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078465639371743350",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078304966339596618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorcerer1311 那我取保的时候没让我带决定书，为啥啊。我跟你一样但是未遂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2078304966339596618",
+        "created_at": "2026-07-18T13:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078465639371743350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078465639371743350",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078304966339596618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 那我取保的时候没让我带决定书，为啥啊。我跟你一样但是未遂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2078304966339596618",
+        "created_at": "2026-07-18T02:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078304966339596618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xccpma/status/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/xccpma/status/2078301101577863305",
+              "start": 23,
+              "url": "https://t.co/7EOrS6yDFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078304966339596618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 880,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078301101577863305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么敢的啊……我真搞不懂sns有什么好买卖的 https://t.co/7EOrS6yDFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8678,
+          "following_count": 1158,
+          "like_count": 16292,
+          "listed_count": 18,
+          "media_count": 344,
+          "tweet_count": 2458
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 914,
+          "like_count": 1736,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 2943
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

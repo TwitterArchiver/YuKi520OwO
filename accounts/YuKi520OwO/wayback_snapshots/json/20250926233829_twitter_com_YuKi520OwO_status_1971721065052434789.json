@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971721061508304901"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1971721065052434789",
+    "created_at": "2025-09-26T23:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T00:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971721065052434789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+          "display_url": "infintytweet.me/account-worth?…",
+          "end": 47,
+          "expanded_url": "https://infintytweet.me/account-worth?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1969475320890974208/s-UnhaHQ?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1969475320890974208/s-UnhaHQ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "Account Worth • Infinitweet",
+          "unwound_url": "https://infintytweet.me/account-worth?lang=zh",
+          "url": "https://t.co/acDmwqUFb8"
+        },
+        {
+          "display_url": "pic.x.com/dGFceP8zp5",
+          "end": 71,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1971721065052434789/photo/1",
+          "media_key": "3_1971721061508304901",
+          "start": 48,
+          "url": "https://t.co/dGFceP8zp5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971721065052434789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的推特价值是: ¥51,441.51\n\n➡️ https://t.co/acDmwqUFb8 https://t.co/dGFceP8zp5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_1971721061508304901",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1z129tb0AUF7sd.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971721061508304901"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1971721065052434789",
+        "created_at": "2025-09-26T23:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T00:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971721065052434789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+              "display_url": "infintytweet.me/account-worth?…",
+              "end": 47,
+              "expanded_url": "https://infintytweet.me/account-worth?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1969475320890974208/s-UnhaHQ?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1969475320890974208/s-UnhaHQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Account Worth • Infinitweet",
+              "unwound_url": "https://infintytweet.me/account-worth?lang=zh",
+              "url": "https://t.co/acDmwqUFb8"
+            },
+            {
+              "display_url": "pic.x.com/dGFceP8zp5",
+              "end": 71,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1971721065052434789/photo/1",
+              "media_key": "3_1971721061508304901",
+              "start": 48,
+              "url": "https://t.co/dGFceP8zp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971721065052434789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特价值是: ¥51,441.51\n\n➡️ https://t.co/acDmwqUFb8 https://t.co/dGFceP8zp5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8621,
+          "following_count": 1100,
+          "like_count": 15546,
+          "listed_count": 15,
+          "media_count": 275,
+          "tweet_count": 2011
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

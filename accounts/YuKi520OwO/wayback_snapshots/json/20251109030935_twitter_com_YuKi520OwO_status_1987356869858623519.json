@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1987183394388885924",
+    "created_at": "2025-11-09T03:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T04:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987356869858623519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1960697619497287680",
+          "start": 0,
+          "username": "T20250827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987356869858623519",
+    "in_reply_to_user_id": "1960697619497287680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987320059996610965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T20250827 最近打听出来的 我一直在打听这个事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1987183394388885924",
+        "created_at": "2025-11-09T03:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T04:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987356869858623519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1960697619497287680",
+              "start": 0,
+              "username": "T20250827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987356869858623519",
+        "in_reply_to_user_id": "1960697619497287680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987320059996610965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T20250827 最近打听出来的 我一直在打听这个事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960697619497287680",
+        "conversation_id": "1987183394388885924",
+        "created_at": "2025-11-09T00:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T01:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987320059996610965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987320059996610965",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9620,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987183394388885924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 你這一線消息滯後了啊 現在不穿短袖了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8562,
+          "following_count": 1119,
+          "like_count": 15719,
+          "listed_count": 15,
+          "media_count": 287,
+          "tweet_count": 2075
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T13:35:32.000Z",
+        "description": "是T",
+        "id": "1960697619497287680",
+        "name": "T",
+        "pinned_tweet_id": "1979941750698557538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960699058894348289/8u4mNckt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 87,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 2163
+        },
+        "username": "T20250827",
+        "verified": false
+      }
+    ]
+  }
+}

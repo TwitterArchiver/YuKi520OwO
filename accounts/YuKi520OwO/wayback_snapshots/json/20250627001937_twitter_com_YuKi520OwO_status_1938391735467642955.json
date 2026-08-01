@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1938079702624964778",
+    "created_at": "2025-06-27T00:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T01:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938391735467642955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810962908987396096",
+          "start": 0,
+          "username": "SakurazakiAiko"
+        },
+        {
+          "end": 24,
+          "id": "1512976991976402949",
+          "start": 16,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938391735467642955",
+    "in_reply_to_user_id": "1810962908987396096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938390027253531092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurazakiAiko @bghtnya 500水电"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1938079702624964778",
+        "created_at": "2025-06-27T00:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T01:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938391735467642955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810962908987396096",
+              "start": 0,
+              "username": "SakurazakiAiko"
+            },
+            {
+              "end": 24,
+              "id": "1512976991976402949",
+              "start": 16,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938391735467642955",
+        "in_reply_to_user_id": "1810962908987396096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938390027253531092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurazakiAiko @bghtnya 500水电"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810962908987396096",
+        "conversation_id": "1938079702624964778",
+        "created_at": "2025-06-27T00:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T01:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938390027253531092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 20,
+              "id": "1512976991976402949",
+              "start": 12,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938390027253531092",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938385711452840426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO @bghtnya 笑死我了不是1300吗？为什么会1800\n她还欠我房租1050 投案的车马费300呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8771,
+          "following_count": 1031,
+          "like_count": 15043,
+          "listed_count": 16,
+          "media_count": 242,
+          "tweet_count": 1807
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T09:03:21.000Z",
+        "description": "主人：@Poetry_Luna 妹妹： @HuliCaijia\n持證HRT🏳️‍⚧️重鬱中焦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Poetry_Luna"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "HuliCaijia"
+              }
+            ]
+          }
+        },
+        "id": "1810962908987396096",
+        "location": "Silverymoon",
+        "name": "SakurazakiAiko🌸詩月🍥",
+        "pinned_tweet_id": "1880247872270283012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884631668998430720/mMIX9fqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 81,
+          "like_count": 8264,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 2391
+        },
+        "username": "SakurazakiAiko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6958,
+          "following_count": 2016,
+          "like_count": 150341,
+          "listed_count": 16,
+          "media_count": 2821,
+          "tweet_count": 37438
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967847099619479698",
+    "created_at": "2025-09-16T08:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T09:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967871704094720047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "961832160377282560",
+          "start": 0,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967871704094720047",
+    "in_reply_to_user_id": "961832160377282560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967847099619479698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iMoeAya 8天就够了（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967847099619479698",
+        "created_at": "2025-09-16T08:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967871704094720047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "961832160377282560",
+              "start": 0,
+              "username": "iMoeAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967871704094720047",
+        "in_reply_to_user_id": "961832160377282560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967847099619479698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iMoeAya 8天就够了（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961832160377282560",
+        "conversation_id": "1967847099619479698",
+        "created_at": "2025-09-16T07:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967847099619479698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LingLuoForgetM…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/LingLuoForgetMe/status/1967544771762962885",
+              "start": 74,
+              "url": "https://t.co/pNEWvxtguI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967847099619479698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 862,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967544771762962885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我18个月，啊不，8个月就够了，我也可以用新型电刺激疗法让任何一个顺直人承认自己是性少数，如果治疗地点换到卢比扬卡大酒店，可能只需要18个小时。 https://t.co/pNEWvxtguI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8682,
+          "following_count": 1079,
+          "like_count": 15301,
+          "listed_count": 15,
+          "media_count": 265,
+          "tweet_count": 1930
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951641714483183616/OGRyh4_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38201,
+          "following_count": 4118,
+          "like_count": 165021,
+          "listed_count": 134,
+          "media_count": 1091,
+          "tweet_count": 34538
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

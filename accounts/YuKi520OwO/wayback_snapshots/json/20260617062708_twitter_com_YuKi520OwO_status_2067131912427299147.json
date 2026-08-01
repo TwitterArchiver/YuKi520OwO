@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2066872317792461108",
+    "created_at": "2026-06-17T06:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067131912427299147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025863708447301632",
+          "start": 0,
+          "username": "ai_benkyou__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067131912427299147",
+    "in_reply_to_user_id": "2025863708447301632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066872317792461108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai_benkyou__ 君の友達になりたい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2066872317792461108",
+        "created_at": "2026-06-17T06:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067131912427299147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025863708447301632",
+              "start": 0,
+              "username": "ai_benkyou__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067131912427299147",
+        "in_reply_to_user_id": "2025863708447301632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066872317792461108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai_benkyou__ 君の友達になりたい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025863708447301632",
+        "conversation_id": "2066872317792461108",
+        "created_at": "2026-06-16T13:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066872317792461108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066872317792461108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15012,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 136,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "中国人の友達ほしい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8680,
+          "following_count": 1141,
+          "like_count": 16221,
+          "listed_count": 18,
+          "media_count": 333,
+          "tweet_count": 2395
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T09:22:13.000Z",
+        "description": "社会人 男性NG 所持資格 調理師免許",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aiiiib",
+                "end": 23,
+                "expanded_url": "https://lit.link/aiiiib",
+                "start": 0,
+                "url": "https://t.co/QO7S1Bduqx"
+              }
+            ]
+          }
+        },
+        "id": "2025863708447301632",
+        "name": "あい",
+        "pinned_tweet_id": "2050888917730357682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025864263219482624/yDI_0_6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 320,
+          "like_count": 4723,
+          "listed_count": 5,
+          "media_count": 54,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/QO7S1Bduqx",
+        "username": "ai_benkyou__",
+        "verified": false
+      }
+    ]
+  }
+}

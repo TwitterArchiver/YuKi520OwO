@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1964011055891320952",
+    "created_at": "2025-09-16T08:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T09:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967862181833396713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1544202629441396738",
+          "start": 0,
+          "username": "Saratoga_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967862181833396713",
+    "in_reply_to_user_id": "1544202629441396738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967862021791289602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saratoga_3 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1964011055891320952",
+        "created_at": "2025-09-16T08:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967862181833396713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1544202629441396738",
+              "start": 0,
+              "username": "Saratoga_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967862181833396713",
+        "in_reply_to_user_id": "1544202629441396738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967862021791289602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saratoga_3 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544202629441396738",
+        "conversation_id": "1964011055891320952",
+        "created_at": "2025-09-16T08:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967862021791289602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967862021791289602",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967861401780895813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 一起去西瓜窝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8684,
+          "following_count": 1079,
+          "like_count": 15289,
+          "listed_count": 15,
+          "media_count": 265,
+          "tweet_count": 1926
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T06:13:05.000Z",
+        "description": "人类形态的猫猫 | 06 | 含糖3年 | mtx? | 讨厌孤独一个人 | 181/72kg的大只 长得不好看",
+        "id": "1544202629441396738",
+        "location": "猫猫&鱼鱼的厨房",
+        "name": "一只锉刀",
+        "pinned_tweet_id": "1569863001670389761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544611666088067072/ETyEmPTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 128,
+          "like_count": 2596,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 407
+        },
+        "username": "Saratoga_3",
+        "verified": false
+      }
+    ]
+  }
+}

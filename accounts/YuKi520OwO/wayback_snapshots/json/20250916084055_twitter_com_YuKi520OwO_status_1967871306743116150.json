@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967353536204960205",
+    "created_at": "2025-09-16T08:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T09:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967871306743116150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1895778392227921921",
+          "start": 0,
+          "username": "ypx0o0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967871306743116150",
+    "in_reply_to_user_id": "1895778392227921921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967353536204960205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ypx0o0 美女你谁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1634,
+        "media_key": "3_1967353517846532097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G01xmdrbkAErgIj.jpg",
+        "width": 1142
+      },
+      {
+        "height": 2046,
+        "media_key": "3_1967353518291144705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G01xmfVb0AEmw5X.jpg",
+        "width": 1194
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967353518697955328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G01xmg2bQAAfPVq.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967353536204960205",
+        "created_at": "2025-09-16T08:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967871306743116150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1895778392227921921",
+              "start": 0,
+              "username": "ypx0o0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967871306743116150",
+        "in_reply_to_user_id": "1895778392227921921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967353536204960205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ypx0o0 美女你谁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967353517846532097",
+            "3_1967353518291144705",
+            "3_1967353518697955328"
+          ]
+        },
+        "author_id": "1895778392227921921",
+        "conversation_id": "1967353536204960205",
+        "created_at": "2025-09-14T22:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T23:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967353536204960205"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "圆角日记"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "药娘"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "腿控"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "足控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yeu9YDMlzC",
+              "end": 59,
+              "expanded_url": "https://x.com/ypx0o0/status/1967353536204960205/photo/1",
+              "media_key": "3_1967353517846532097",
+              "start": 36,
+              "url": "https://t.co/yeu9YDMlzC"
+            },
+            {
+              "display_url": "pic.x.com/yeu9YDMlzC",
+              "end": 59,
+              "expanded_url": "https://x.com/ypx0o0/status/1967353536204960205/photo/1",
+              "media_key": "3_1967353518291144705",
+              "start": 36,
+              "url": "https://t.co/yeu9YDMlzC"
+            },
+            {
+              "display_url": "pic.x.com/yeu9YDMlzC",
+              "end": 59,
+              "expanded_url": "https://x.com/ypx0o0/status/1967353536204960205/photo/1",
+              "media_key": "3_1967353518697955328",
+              "start": 36,
+              "url": "https://t.co/yeu9YDMlzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967353536204960205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1838,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#圆角日记 #药娘 #腿控 #足控 \n终章节选(前章节随时间线往前翻) https://t.co/yeu9YDMlzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8682,
+          "following_count": 1079,
+          "like_count": 15300,
+          "listed_count": 15,
+          "media_count": 265,
+          "tweet_count": 1929
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T10:10:02.000Z",
+        "description": "xyn🍥药龄2年🍥170/58🍥记录生活🍥书写美好🍥自用蜂鸟VPN:https://t.co/NJyuDRGRTd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 57,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=oQDZ47Iy",
+                "start": 34,
+                "url": "https://t.co/NJyuDRGRTd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/1Dg5lLedTe",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/1Dg5lLedTe",
+                "start": 0,
+                "url": "https://t.co/R3yWWHFvQx"
+              }
+            ]
+          }
+        },
+        "id": "1895778392227921921",
+        "location": "佛山",
+        "name": "伊飘雪🍥",
+        "pinned_tweet_id": "1967353536204960205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966869746059800582/m23ovxF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 437,
+          "like_count": 5186,
+          "listed_count": 8,
+          "media_count": 77,
+          "tweet_count": 1478
+        },
+        "url": "https://t.co/R3yWWHFvQx",
+        "username": "ypx0o0",
+        "verified": false
+      }
+    ]
+  }
+}

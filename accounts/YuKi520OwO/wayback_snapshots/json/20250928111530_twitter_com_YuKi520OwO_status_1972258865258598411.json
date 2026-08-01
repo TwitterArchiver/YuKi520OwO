@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1972258865258598411",
+    "created_at": "2025-09-28T11:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T12:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972258865258598411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1900447579030388736",
+          "start": 3,
+          "username": "Snow_YuKi_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972258865258598411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971742884883059151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snow_YuKi_OvO: 😡\n过飞机安检的时候忘了后面还塞了个肛塞，于是安检员要当众脱衣检查，我说我塞了个情趣用品，他们说不行那也得看一眼。就这样我在大庭广众之下把肛塞掏出来给他们看。他们让我再拿去过一遍安检，然后我就又把肛塞放安检框里过了一遍。也是社死了 http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971742873122115584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G10JskTaEAAi6qJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1972258865258598411",
+        "created_at": "2025-09-28T11:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T12:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972258865258598411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1900447579030388736",
+              "start": 3,
+              "username": "Snow_YuKi_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972258865258598411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971742884883059151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Snow_YuKi_OvO: 😡\n过飞机安检的时候忘了后面还塞了个肛塞，于是安检员要当众脱衣检查，我说我塞了个情趣用品，他们说不行那也得看一眼。就这样我在大庭广众之下把肛塞掏出来给他们看。他们让我再拿去过一遍安检，然后我就又把肛塞放安检框里过了一遍。也是社死了 http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971742873122115584"
+          ]
+        },
+        "author_id": "1900447579030388736",
+        "conversation_id": "1971742884883059151",
+        "created_at": "2025-09-27T01:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T02:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971742884883059151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhBoLZpAvy",
+              "end": 139,
+              "expanded_url": "https://x.com/YuKi_OvO_520/status/1971742884883059151/photo/1",
+              "media_key": "3_1971742873122115584",
+              "start": 116,
+              "url": "https://t.co/hhBoLZpAvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971742884883059151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😡\n过飞机安检的时候忘了后面还塞了个肛塞，于是安检员要当众脱衣检查，我说我塞了个情趣用品，他们说不行那也得看一眼。就这样我在大庭广众之下把肛塞掏出来给他们看。他们让我再拿去过一遍安检，然后我就又把肛塞放安检框里过了一遍。也是社死了 https://t.co/hhBoLZpAvy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8598,
+          "following_count": 1100,
+          "like_count": 15543,
+          "listed_count": 15,
+          "media_count": 277,
+          "tweet_count": 2013
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T07:23:12.000Z",
+        "description": "药娘(MTF)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/死去的我@yuki520owo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "yuki520owo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/rnRVd1P4mu"
+              }
+            ]
+          }
+        },
+        "id": "1900447579030388736",
+        "location": "東京 新宿区",
+        "name": "雨露霜雪（千雪转生版）🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971739465036321095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971738586300272640/ee7bxqxi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 16,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/rnRVd1P4mu",
+        "username": "Snow_YuKi_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

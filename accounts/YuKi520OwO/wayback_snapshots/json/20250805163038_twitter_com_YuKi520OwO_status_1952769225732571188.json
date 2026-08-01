@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1952619607262712080",
+    "created_at": "2025-08-05T16:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T17:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952769225732571188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1515208665330237442",
+          "start": 0,
+          "username": "happyending8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952769225732571188",
+    "in_reply_to_user_id": "1515208665330237442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952744896097550440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@happyending8964 说不通，但就是想不开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1952619607262712080",
+        "created_at": "2025-08-05T16:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T17:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952769225732571188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1515208665330237442",
+              "start": 0,
+              "username": "happyending8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952769225732571188",
+        "in_reply_to_user_id": "1515208665330237442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952744896097550440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@happyending8964 说不通，但就是想不开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515208665330237442",
+        "conversation_id": "1952619607262712080",
+        "created_at": "2025-08-05T14:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T15:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952744896097550440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952744896097550440",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952619607262712080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 什么从自己身上找原因的话总有说得通的惩罚自己的理由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです/最爱的人@yaiikawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8753,
+          "following_count": 1070,
+          "like_count": 15275,
+          "listed_count": 14,
+          "media_count": 251,
+          "tweet_count": 1868
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T06:01:35.000Z",
+        "description": "叫我欣就行\n能queer人一脸的mtf\n最喜欢 @happyending8964\n妹妹 @happyending8964\n主人 @happyending8964\n对象 @happyending8964\n小猫 @happyending8964\n小狗 @happyending8964\n爱人 @happyending8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "happyending8964"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "happyending8964"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "happyending8964"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "happyending8964"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "happyending8964"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "happyending8964"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "happyending8964"
+              }
+            ]
+          }
+        },
+        "id": "1515208665330237442",
+        "location": "广州",
+        "name": "香欣料（欣🧂🏳️‍⚧️",
+        "pinned_tweet_id": "1947645667117306339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822621028943904768/P0IBoL5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 661,
+          "like_count": 4186,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3340
+        },
+        "username": "happyending8964",
+        "verified": false
+      }
+    ]
+  }
+}

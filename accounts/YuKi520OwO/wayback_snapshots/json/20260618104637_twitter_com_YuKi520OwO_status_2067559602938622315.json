@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065084036159287299",
+    "created_at": "2026-06-18T10:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067559602938622315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1570069037496819714",
+          "start": 0,
+          "username": "SilentNagiyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067559602938622315",
+    "in_reply_to_user_id": "1570069037496819714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065426460610097579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SilentNagiyou 你想干啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065084036159287299",
+        "created_at": "2026-06-18T10:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067559602938622315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1570069037496819714",
+              "start": 0,
+              "username": "SilentNagiyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067559602938622315",
+        "in_reply_to_user_id": "1570069037496819714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065426460610097579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SilentNagiyou 你想干啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570069037496819714",
+        "conversation_id": "2065084036159287299",
+        "created_at": "2026-06-12T13:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065426460610097579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065426460610097579",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065084036159287299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8681,
+          "following_count": 1145,
+          "like_count": 16246,
+          "listed_count": 18,
+          "media_count": 334,
+          "tweet_count": 2409
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T15:17:34.000Z",
+        "description": "3D眩晕、乳房发育不良、口唇单纯性疱疹、幽门螺旋杆菌感染丨精神edging享受者丨本质羡慕bot丨https://t.co/aI2cuJM2W8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 72,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 49,
+                "url": "https://t.co/aI2cuJM2W8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 23,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 0,
+                "url": "https://t.co/aI2cuJM2W8"
+              }
+            ]
+          }
+        },
+        "id": "1570069037496819714",
+        "location": "👨‍🏭网评员🧭妖怪之山迷途竹林永远亭",
+        "name": "🍼疏乞巧🍼",
+        "pinned_tweet_id": "1953483222341304775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946284002157211649/z5XSBjQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 493,
+          "like_count": 52819,
+          "listed_count": 6,
+          "media_count": 408,
+          "tweet_count": 7557
+        },
+        "url": "https://t.co/aI2cuJM2W8",
+        "username": "SilentNagiyou",
+        "verified": false
+      }
+    ]
+  }
+}

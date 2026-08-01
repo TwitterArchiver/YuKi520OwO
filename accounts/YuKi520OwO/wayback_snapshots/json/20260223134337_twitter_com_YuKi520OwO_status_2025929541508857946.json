@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2025929541508857946",
+    "created_at": "2026-02-23T13:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025929541508857946"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025929541508857946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "千雪只会在北京滞留最多一周了\n机不可失哦 下次回来时间还不确定哦\n千雪从北京离开后要去福州见见老朋友 然后抵达广州 广州的单主爸爸门可以提前过门预约了\n过门后请发送🚪支付截图或直接发送口令红包添加好友哦\n另：qq今后改为只可通过qq号添加好友 vx改为只可通过vx号添加"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2025929541508857946",
+        "created_at": "2026-02-23T13:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025929541508857946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025929541508857946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千雪只会在北京滞留最多一周了\n机不可失哦 下次回来时间还不确定哦\n千雪从北京离开后要去福州见见老朋友 然后抵达广州 广州的单主爸爸门可以提前过门预约了\n过门后请发送🚪支付截图或直接发送口令红包添加好友哦\n另：qq今后改为只可通过qq号添加好友 vx改为只可通过vx号添加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2025837106732613865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8522,
+          "following_count": 1116,
+          "like_count": 15863,
+          "listed_count": 17,
+          "media_count": 306,
+          "tweet_count": 2160
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

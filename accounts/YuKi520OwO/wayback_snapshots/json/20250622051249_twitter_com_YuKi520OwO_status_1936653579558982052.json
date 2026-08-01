@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936653566657146880"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1936653579558982052",
+    "created_at": "2025-06-22T05:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T06:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936653579558982052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sEITnelE7u",
+          "end": 81,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1936653579558982052/photo/1",
+          "media_key": "3_1936653566657146880",
+          "start": 58,
+          "url": "https://t.co/sEITnelE7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936653579558982052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在高铁上上卫生间忘记锁门，结果被一个男的一上来就扒我的黑丝给我扒坏掉了。哪有人上来就扒别人黑丝的啊，我是男娘啊喂！ https://t.co/sEITnelE7u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936653566657146880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuBgKHWXsAAzYjv.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936653566657146880"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1936653579558982052",
+        "created_at": "2025-06-22T05:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T06:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936653579558982052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEITnelE7u",
+              "end": 81,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1936653579558982052/photo/1",
+              "media_key": "3_1936653566657146880",
+              "start": 58,
+              "url": "https://t.co/sEITnelE7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936653579558982052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在高铁上上卫生间忘记锁门，结果被一个男的一上来就扒我的黑丝给我扒坏掉了。哪有人上来就扒别人黑丝的啊，我是男娘啊喂！ https://t.co/sEITnelE7u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8762,
+          "following_count": 1027,
+          "like_count": 15012,
+          "listed_count": 16,
+          "media_count": 240,
+          "tweet_count": 1790
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

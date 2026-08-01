@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2071916868491943984",
+    "created_at": "2026-06-30T11:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071916868491943984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1378320364376219655",
+          "start": 3,
+          "username": "WangNextDoor2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071916868491943984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071604601544122602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WangNextDoor2: 美国那边的装修工换块纱窗一小时就能挣一千多人民币，这种脏活累活没人干反而成了香饽饽，AI更是替代不了，比坐办公室强多了。视频里反复强调千万别读成死读书的书呆子，得练出独当一面、抗压强、会社交的真本事，敢闯敢拼比啥文凭都管用。看看那些没学历照…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 233034,
+        "height": 1920,
+        "media_key": "13_2071540103181377536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071540103181377536/img/ldRQzHdeX6E_BHTo.jpg",
+        "public_metrics": {
+          "view_count": 10996
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071540103181377536/vid/avc1/320x568/ucLdK0o5owYXQqH1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071540103181377536/vid/avc1/1080x1920/eUrFS4MC6uMi2xdq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071540103181377536/pl/ZtfW5ZwDPfgK_Rq8.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071540103181377536/vid/avc1/480x852/r4rJk60fVZUdX_11.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071540103181377536/vid/avc1/720x1280/eJoFt8D7r3G6T9BY.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2071916868491943984",
+        "created_at": "2026-06-30T11:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071916868491943984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1378320364376219655",
+              "start": 3,
+              "username": "WangNextDoor2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071916868491943984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071604601544122602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WangNextDoor2: 美国那边的装修工换块纱窗一小时就能挣一千多人民币，这种脏活累活没人干反而成了香饽饽，AI更是替代不了，比坐办公室强多了。视频里反复强调千万别读成死读书的书呆子，得练出独当一面、抗压强、会社交的真本事，敢闯敢拼比啥文凭都管用。看看那些没学历照…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071540103181377536"
+          ]
+        },
+        "author_id": "1378320364376219655",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071604601544122602",
+        "created_at": "2026-06-29T14:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071604601544122602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KArTmTD8jk",
+              "end": 165,
+              "expanded_url": "https://x.com/WangNextDoor2/status/2071604601544122602/video/1",
+              "media_key": "13_2071540103181377536",
+              "start": 142,
+              "url": "https://t.co/KArTmTD8jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071604601544122602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "美国那边的装修工换块纱窗一小时就能挣一千多人民币，这种脏活累活没人干反而成了香饽饽，AI更是替代不了，比坐办公室强多了。视频里反复强调千万别读成死读书的书呆子，得练出独当一面、抗压强、会社交的真本事，敢闯敢拼比啥文凭都管用。看看那些没学历照样合伙开公司买房的老板就知道了，行业经验和动手能力才是立足的根本。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 9648,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "美国那边的装修工换块纱窗一小时就能挣一千多人民币，这种脏活累活没人干反而成了香饽饽，AI更是替代不了，比坐办公室强多了。视频里反复强调千万别读成死读书的书呆子，得练出独当一面、抗压强、会社交的真本事，敢闯敢拼比啥文凭都管用。看看那些没学历照样合伙开公司买房的老板就知道了，行业经验和 https://t.co/KArTmTD8jk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8691,
+          "following_count": 1151,
+          "like_count": 16274,
+          "listed_count": 18,
+          "media_count": 340,
+          "tweet_count": 2436
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T12:16:06.000Z",
+        "description": "Engineer/entrepreneur in CA, Tesla/NVDA/AI & Robotics bull. Elon & All-In Podcast enthusiast. Believer in a universal high-income future.",
+        "id": "1378320364376219655",
+        "location": "Mountain View, Unites States",
+        "name": "WangNextDoor",
+        "pinned_tweet_id": "1883406294209679566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617123815510933505/7TIpoQM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86306,
+          "following_count": 15879,
+          "like_count": 47821,
+          "listed_count": 163,
+          "media_count": 10651,
+          "tweet_count": 61723
+        },
+        "url": "",
+        "username": "WangNextDoor2",
+        "verified": true
+      }
+    ]
+  }
+}

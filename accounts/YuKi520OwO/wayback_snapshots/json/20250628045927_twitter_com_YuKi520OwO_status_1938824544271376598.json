@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1938080839193239976",
+    "created_at": "2025-06-28T04:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T05:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938824544271376598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1321036918021189632",
+          "start": 0,
+          "username": "boomingrove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938824544271376598",
+    "in_reply_to_user_id": "1321036918021189632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938823652860182590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boomingrove 我超"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1938080839193239976",
+        "created_at": "2025-06-28T04:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938824544271376598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1321036918021189632",
+              "start": 0,
+              "username": "boomingrove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938824544271376598",
+        "in_reply_to_user_id": "1321036918021189632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938823652860182590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boomingrove 我超"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1321036918021189632",
+        "conversation_id": "1938080839193239976",
+        "created_at": "2025-06-28T04:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938823652860182590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938823652860182590",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938794859298501022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 你看看照片日期🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8775,
+          "following_count": 1029,
+          "like_count": 15056,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 1815
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-27T10:32:12.000Z",
+        "description": "99CN老龄跨➗🏳️‍⚧️infj/p ღ丑陋但喜欢一切可爱♪喜欢音乐且希望让能每个人都开心☠中度躁狂.重度抑郁.极度焦虑✘经济外貌身材都是问题♨但我神经性贪食就tm吃吃吃吃吃☯中国古典吟游诗人:皎月遥知参宿四，嘤嘤咽咽念飞升",
+        "id": "1321036918021189632",
+        "location": "参宿四",
+        "name": "Boomingrove🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778714887524696064/6Ewdr1nR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 193,
+          "like_count": 1880,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 1001
+        },
+        "username": "boomingrove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968124844408705030"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1968124852658958773",
+    "created_at": "2025-09-17T01:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T02:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968124852658958773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U0qPLAI3G5",
+          "end": 43,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1968124852658958773/photo/1",
+          "media_key": "3_1968124844408705030",
+          "start": 20,
+          "url": "https://t.co/U0qPLAI3G5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968124852658958773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人生中第一次被要了微信，还请我打了台球 https://t.co/U0qPLAI3G5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968124844408705030",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1AvHlCaEAYJLNK.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968124844408705030"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1968124852658958773",
+        "created_at": "2025-09-17T01:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T02:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968124852658958773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0qPLAI3G5",
+              "end": 43,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1968124852658958773/photo/1",
+              "media_key": "3_1968124844408705030",
+              "start": 20,
+              "url": "https://t.co/U0qPLAI3G5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968124852658958773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生中第一次被要了微信，还请我打了台球 https://t.co/U0qPLAI3G5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "樱井🥺千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8685,
+          "following_count": 1084,
+          "like_count": 15417,
+          "listed_count": 15,
+          "media_count": 270,
+          "tweet_count": 1972
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

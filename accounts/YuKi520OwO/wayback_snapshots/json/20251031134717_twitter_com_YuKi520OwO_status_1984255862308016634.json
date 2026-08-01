@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1984220437644276003",
+    "created_at": "2025-10-31T13:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T14:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984255862308016634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943704460813041665",
+          "start": 0,
+          "username": "kasaikoxyg"
+        },
+        {
+          "end": 28,
+          "id": "1917988927409143812",
+          "start": 12,
+          "username": "OverSpeed_Wiki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984255862308016634",
+    "in_reply_to_user_id": "1943704460813041665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984253330009567611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasaikoxyg @OverSpeed_Wiki2 不给死藤水就捣蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1984220437644276003",
+        "created_at": "2025-10-31T13:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984255862308016634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943704460813041665",
+              "start": 0,
+              "username": "kasaikoxyg"
+            },
+            {
+              "end": 28,
+              "id": "1917988927409143812",
+              "start": 12,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984255862308016634",
+        "in_reply_to_user_id": "1943704460813041665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984253330009567611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasaikoxyg @OverSpeed_Wiki2 不给死藤水就捣蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943704460813041665",
+        "conversation_id": "1984220437644276003",
+        "created_at": "2025-10-31T13:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984253330009567611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984253330009567611",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984220437644276003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 这俩天天被我骂傻逼是因为我觉得她们把日雌卖的太便宜了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "#女的，别再来找我发约炮广告了，sb吧？\n                呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女的"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984225791648145409/7VIyzL2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8562,
+          "following_count": 1112,
+          "like_count": 15557,
+          "listed_count": 15,
+          "media_count": 283,
+          "tweet_count": 2051
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎耐杀王，成功又活一天",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 717,
+          "like_count": 13233,
+          "listed_count": 4,
+          "media_count": 118,
+          "tweet_count": 3824
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 209,
+          "like_count": 12164,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2624
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1983804327337848998",
+    "created_at": "2025-10-30T17:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T18:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983943851460194402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1952030993692639232",
+          "start": 0,
+          "username": "KankoreShigure"
+        },
+        {
+          "end": 27,
+          "id": "1817821126640496640",
+          "start": 16,
+          "username": "MTNEKO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983943851460194402",
+    "in_reply_to_user_id": "1952030993692639232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983926367453388839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KankoreShigure @MTNEKO8964 ？诗人啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1983804327337848998",
+        "created_at": "2025-10-30T17:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T18:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983943851460194402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952030993692639232",
+              "start": 0,
+              "username": "KankoreShigure"
+            },
+            {
+              "end": 27,
+              "id": "1817821126640496640",
+              "start": 16,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983943851460194402",
+        "in_reply_to_user_id": "1952030993692639232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983926367453388839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KankoreShigure @MTNEKO8964 ？诗人啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952030993692639232",
+        "conversation_id": "1983804327337848998",
+        "created_at": "2025-10-30T15:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983926367453388839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817821126640496640",
+              "start": 0,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983926367453388839",
+        "in_reply_to_user_id": "1817821126640496640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983804327337848998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTNEKO8964 我以前也这样，但我现在觉得没有必要去恨某个民族，能这样肯定是有原因的，能看出来也是一个可怜的好孩子，摸摸（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "#女的，别再来找我发约炮广告了，sb吧？\n                呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女的"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8560,
+          "following_count": 1104,
+          "like_count": 15485,
+          "listed_count": 15,
+          "media_count": 282,
+          "tweet_count": 2041
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T15:38:28.000Z",
+        "description": "男の娘かもしれないですわ。\n吸血鬼の女の子になりたいですわ。\nアニメ、ゲーム、可愛い物がめっちゃ好きですわ。\n漢語、日本語、Englishできます。\nそれだけですわ。",
+        "id": "1952030993692639232",
+        "location": "鎮守府",
+        "name": "🌸雨宮宵月🍥",
+        "pinned_tweet_id": "1974097118425125106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981219500457377792/VPsOhVuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 342,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 339
+        },
+        "username": "KankoreShigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / hrt：25.2.11 / 55cm 169kg｜极度社恐 / 泛性恋 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫｜面条的tg频道https://t.co/6TaiTWH1P7｜妈妈@Tim_Pan_5｜对象🥺🍜❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Tim_Pan_5"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "sanmiguelnoodle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123456",
+                "end": 101,
+                "expanded_url": "http://t.me/MTNEKO123456",
+                "start": 78,
+                "url": "https://t.co/6TaiTWH1P7"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "🏳️‍⚧️面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1979465452196892949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972232480225951744/Lga0T62B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4215,
+          "following_count": 3562,
+          "like_count": 41699,
+          "listed_count": 7,
+          "media_count": 680,
+          "tweet_count": 6686
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

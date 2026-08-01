@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065946722904482242",
+    "created_at": "2026-06-14T03:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065999638482854042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1417457938025779200",
+          "start": 0,
+          "username": "43_ojou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065999638482854042",
+    "in_reply_to_user_id": "1417457938025779200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065946722904482242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@43_ojou それを維持する！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3047,
+        "media_key": "3_2065946649239924736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKu3iBjasAAaBox.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065946722904482242",
+        "created_at": "2026-06-14T03:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065999638482854042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1417457938025779200",
+              "start": 0,
+              "username": "43_ojou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065999638482854042",
+        "in_reply_to_user_id": "1417457938025779200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065946722904482242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@43_ojou それを維持する！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065946649239924736"
+          ]
+        },
+        "author_id": "1417457938025779200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Language Learning",
+              "id": "852226935044194304",
+              "name": "Language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364632995655610377",
+              "name": "Chinese language learning "
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          }
+        ],
+        "conversation_id": "2065946722904482242",
+        "created_at": "2026-06-13T23:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065946722904482242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/inCO96hshb",
+              "end": 52,
+              "expanded_url": "https://x.com/43_ojou/status/2065946722904482242/photo/1",
+              "media_key": "3_2065946649239924736",
+              "start": 29,
+              "url": "https://t.co/inCO96hshb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065946722904482242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "カフェで読書&amp;中国語学習&amp;競馬の作戦会議 https://t.co/inCO96hshb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8677,
+          "following_count": 1135,
+          "like_count": 16168,
+          "listed_count": 18,
+          "media_count": 333,
+          "tweet_count": 2374
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T12:14:51.000Z",
+        "description": "英語や中国語、アラビア語を学んだり女装をしたりしています",
+        "id": "1417457938025779200",
+        "name": "恵",
+        "pinned_tweet_id": "2058095616241369415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055559369077739520/JH7BJMqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2693,
+          "following_count": 1937,
+          "like_count": 344756,
+          "listed_count": 12,
+          "media_count": 8602,
+          "tweet_count": 53331
+        },
+        "username": "43_ojou",
+        "verified": false
+      }
+    ]
+  }
+}

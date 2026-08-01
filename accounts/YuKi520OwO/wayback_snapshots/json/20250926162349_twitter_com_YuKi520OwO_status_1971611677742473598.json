@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971611218155864065"
+      ],
+      "media_source_tweet_id": [
+        "1971611271742247132"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971611677742473598",
+    "created_at": "2025-09-26T16:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T17:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971611677742473598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1969754034677673984",
+          "start": 3,
+          "username": "Snow_YuKi_OvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/odCDXjQjCL",
+          "end": 108,
+          "expanded_url": "https://x.com/Snow_YuKi_OvO/status/1971611271742247132/photo/1",
+          "media_key": "3_1971611218155864065",
+          "start": 85,
+          "url": "https://t.co/odCDXjQjCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971611677742473598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971611271742247132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snow_YuKi_OvO: 晚饭时间跑到没人的公共卫生间对着镜子对自己自慰打手冲，结果被进来打扫卫生的保洁阿姨抓了个timing，阿姨很震惊然后破口大骂的跑了 https://t.co/odCDXjQjCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971611218155864065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1yR9PVbAAE81cR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971611218155864065"
+          ],
+          "media_source_tweet_id": [
+            "1971611271742247132"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971611677742473598",
+        "created_at": "2025-09-26T16:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T17:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971611677742473598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1969754034677673984",
+              "start": 3,
+              "username": "Snow_YuKi_OvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/odCDXjQjCL",
+              "end": 108,
+              "expanded_url": "https://x.com/Snow_YuKi_OvO/status/1971611271742247132/photo/1",
+              "media_key": "3_1971611218155864065",
+              "start": 85,
+              "url": "https://t.co/odCDXjQjCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971611677742473598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971611271742247132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Snow_YuKi_OvO: 晚饭时间跑到没人的公共卫生间对着镜子对自己自慰打手冲，结果被进来打扫卫生的保洁阿姨抓了个timing，阿姨很震惊然后破口大骂的跑了 https://t.co/odCDXjQjCL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971611218155864065"
+          ]
+        },
+        "author_id": "1969754034677673984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971611271742247132",
+        "created_at": "2025-09-26T16:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T17:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971611271742247132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/odCDXjQjCL",
+              "end": 89,
+              "expanded_url": "https://x.com/Snow_YuKi_OvO/status/1971611271742247132/photo/1",
+              "media_key": "3_1971611218155864065",
+              "start": 66,
+              "url": "https://t.co/odCDXjQjCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971611271742247132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晚饭时间跑到没人的公共卫生间对着镜子对自己自慰打手冲，结果被进来打扫卫生的保洁阿姨抓了个timing，阿姨很震惊然后破口大骂的跑了 https://t.co/odCDXjQjCL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8622,
+          "following_count": 1095,
+          "like_count": 15535,
+          "listed_count": 15,
+          "media_count": 272,
+          "tweet_count": 2003
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T13:22:41.000Z",
+        "description": "药娘(MTF)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/f1EzLInopI"
+              }
+            ]
+          }
+        },
+        "id": "1969754034677673984",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "雨露霜雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971600121973665820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971607310041817088/-b3gv_kj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 8,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/f1EzLInopI",
+        "username": "Snow_YuKi_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

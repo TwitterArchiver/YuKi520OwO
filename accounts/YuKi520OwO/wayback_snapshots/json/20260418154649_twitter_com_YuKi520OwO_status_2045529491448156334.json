@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045528065137319936"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "2045529491448156334",
+    "created_at": "2026-04-18T15:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045529491448156334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oVDNYmhqiB",
+          "end": 103,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2045529491448156334/photo/1",
+          "media_key": "3_2045528065137319936",
+          "start": 80,
+          "url": "https://t.co/oVDNYmhqiB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045529491448156334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上午十点前 最后一次休克\n以及记录补充：我重新学会了呼吸这项作为人类来说最基础的技能 我的瞳孔截止我最后一次发贴记录位置也几乎完全恢复，血氧重新恢复至98%。 https://t.co/oVDNYmhqiB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045528065137319936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMs8ASaIAAxIQ0.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045528065137319936"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2045529491448156334",
+        "created_at": "2026-04-18T15:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045529491448156334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVDNYmhqiB",
+              "end": 103,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2045529491448156334/photo/1",
+              "media_key": "3_2045528065137319936",
+              "start": 80,
+              "url": "https://t.co/oVDNYmhqiB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045529491448156334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上午十点前 最后一次休克\n以及记录补充：我重新学会了呼吸这项作为人类来说最基础的技能 我的瞳孔截止我最后一次发贴记录位置也几乎完全恢复，血氧重新恢复至98%。 https://t.co/oVDNYmhqiB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2044443894151364641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8411,
+          "following_count": 1107,
+          "like_count": 16048,
+          "listed_count": 16,
+          "media_count": 318,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

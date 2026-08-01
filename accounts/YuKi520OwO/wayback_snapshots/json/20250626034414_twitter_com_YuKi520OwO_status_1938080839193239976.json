@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938080829793808384"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1938080839193239976",
+    "created_at": "2025-06-26T03:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T04:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938080839193239976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CI3TDwojAI",
+          "end": 26,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1938080839193239976/photo/1",
+          "media_key": "3_1938080829793808384",
+          "start": 3,
+          "url": "https://t.co/CI3TDwojAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938080839193239976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "银帕 https://t.co/CI3TDwojAI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938080829793808384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuVyPw3asAAlfLb.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938080829793808384"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1938080839193239976",
+        "created_at": "2025-06-26T03:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T04:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938080839193239976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CI3TDwojAI",
+              "end": 26,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1938080839193239976/photo/1",
+              "media_key": "3_1938080829793808384",
+              "start": 3,
+              "url": "https://t.co/CI3TDwojAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938080839193239976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "银帕 https://t.co/CI3TDwojAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8772,
+          "following_count": 1032,
+          "like_count": 15027,
+          "listed_count": 16,
+          "media_count": 242,
+          "tweet_count": 1798
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

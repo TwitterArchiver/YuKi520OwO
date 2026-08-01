@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2013857995201892818",
+    "created_at": "2026-01-22T06:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T07:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014221202748068142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973585079852257280",
+          "start": 0,
+          "username": "Yanluo_W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014221202748068142",
+    "in_reply_to_user_id": "1973585079852257280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013857995201892818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanluo_W 那这精卫不能要了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2013857995201892818",
+        "created_at": "2026-01-22T06:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T07:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014221202748068142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973585079852257280",
+              "start": 0,
+              "username": "Yanluo_W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014221202748068142",
+        "in_reply_to_user_id": "1973585079852257280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013857995201892818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanluo_W 那这精卫不能要了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973585079852257280",
+        "conversation_id": "2013857995201892818",
+        "created_at": "2026-01-21T06:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013857995201892818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013857995201892818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6603,
+          "like_count": 50,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我要是和n55在一个精卫就好了 强强联合 包跑出去的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8469,
+          "following_count": 1104,
+          "like_count": 15715,
+          "listed_count": 15,
+          "media_count": 292,
+          "tweet_count": 2098
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "MTF｜已炸柜｜努力改正性格 ing｜友跨｜心情不好不互关｜ENFT- P｜次要病症是抑郁焦虑 主要是人傻逼｜自私个人主义外加强迫症和焦虑症的王炸组合｜拆🥚大师｜爱吃蛋｜狗子：@wowo_yz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxrYD"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "location": "路还长",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2013491830663397414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 83,
+          "like_count": 88,
+          "listed_count": 5,
+          "media_count": 279,
+          "tweet_count": 2636
+        },
+        "url": "https://t.co/vfGe2FxrYD",
+        "username": "Yanluo_W",
+        "verified": true
+      }
+    ]
+  }
+}

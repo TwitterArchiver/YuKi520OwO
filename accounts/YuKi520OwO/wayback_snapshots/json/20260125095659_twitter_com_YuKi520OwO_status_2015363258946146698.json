@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2015358870722670857",
+    "created_at": "2026-01-25T09:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T10:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015363258946146698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1570069037496819714",
+          "start": 0,
+          "username": "SilentNagiyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015363258946146698",
+    "in_reply_to_user_id": "1570069037496819714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015359305000841226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SilentNagiyou 不要啊-----"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2015358870722670857",
+        "created_at": "2026-01-25T09:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T10:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015363258946146698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1570069037496819714",
+              "start": 0,
+              "username": "SilentNagiyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015363258946146698",
+        "in_reply_to_user_id": "1570069037496819714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015359305000841226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SilentNagiyou 不要啊-----"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570069037496819714",
+        "conversation_id": "2015358870722670857",
+        "created_at": "2026-01-25T09:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T10:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015359305000841226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015359305000841226",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015358870722670857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 52037"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2014246601913712929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8467,
+          "following_count": 1109,
+          "like_count": 15761,
+          "listed_count": 15,
+          "media_count": 299,
+          "tweet_count": 2117
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T15:17:34.000Z",
+        "description": "玩过很多游戏，以及更多的盗版游戏丨3D眩晕、秽语不抽动、乳房发育不良、口唇单纯性疱疹丨精神edging享受者丨https://t.co/aI2cuJLv6A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 78,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 55,
+                "url": "https://t.co/aI2cuJLv6A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 23,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 0,
+                "url": "https://t.co/aI2cuJLv6A"
+              }
+            ]
+          }
+        },
+        "id": "1570069037496819714",
+        "location": "👨‍🏭网评员🧭妖怪之山迷途竹林永远亭",
+        "name": "🍥the 疏🍥",
+        "pinned_tweet_id": "1953483222341304775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946284002157211649/z5XSBjQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 514,
+          "like_count": 45456,
+          "listed_count": 6,
+          "media_count": 388,
+          "tweet_count": 6947
+        },
+        "url": "https://t.co/aI2cuJLv6A",
+        "username": "SilentNagiyou",
+        "verified": false
+      }
+    ]
+  }
+}

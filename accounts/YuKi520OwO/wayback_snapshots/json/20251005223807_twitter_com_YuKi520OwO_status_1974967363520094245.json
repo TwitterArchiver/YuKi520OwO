@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974967188001001472"
+      ],
+      "media_source_tweet_id": [
+        "1974967196523913587"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1974967363520094245",
+    "created_at": "2025-10-05T22:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T23:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974967363520094245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1900447579030388736",
+          "start": 3,
+          "username": "Snow_YuKi_OvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/laQcAnhHmA",
+          "end": 76,
+          "expanded_url": "https://x.com/Snow_YuKi_OvO/status/1974967196523913587/photo/1",
+          "media_key": "3_1974967188001001472",
+          "start": 53,
+          "url": "https://t.co/laQcAnhHmA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974967363520094245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974967196523913587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snow_YuKi_OvO: 今早上过安检性本来用钢赛提的包很轻笑结果到安检员那掉出来了尴尬死了 https://t.co/laQcAnhHmA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1974967363520094245].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1974967363520094245",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1974967363520094245"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1974967188001001472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2h-MZPaEAAk8_H.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974967188001001472"
+          ]
+        },
+        "author_id": "1900447579030388736",
+        "conversation_id": "1974967196523913587",
+        "created_at": "2025-10-05T22:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T23:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974967196523913587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/laQcAnhHmA",
+              "end": 57,
+              "expanded_url": "https://x.com/Snow_YuKi_OvO/status/1974967196523913587/photo/1",
+              "media_key": "3_1974967188001001472",
+              "start": 34,
+              "url": "https://t.co/laQcAnhHmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974967196523913587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今早上过安检性本来用钢赛提的包很轻笑结果到安检员那掉出来了尴尬死了 https://t.co/laQcAnhHmA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "xiaoyuzhiyao"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Snow_YuKi_OvO"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京/上海/广州",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971710946822574227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8557,
+          "following_count": 1106,
+          "like_count": 15589,
+          "listed_count": 15,
+          "media_count": 278,
+          "tweet_count": 2027
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T07:23:12.000Z",
+        "description": "药娘(MTF)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/死去的我@yuki520owo/♡@bushinamekeaid1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "yuki520owo"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "bushinamekeaid1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/rnRVd1P4mu"
+              }
+            ]
+          }
+        },
+        "id": "1900447579030388736",
+        "location": "東京 新宿区",
+        "name": "雨露霜雪（千雪转生版）🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971739465036321095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971738586300272640/ee7bxqxi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 16,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/rnRVd1P4mu",
+        "username": "Snow_YuKi_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1949405463558385955",
+    "created_at": "2025-07-29T08:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T09:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950118636737151259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950118636737151259",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949405463558385955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 我服了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1949405455039823872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw2t7tbbgAAZb_s.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1949405463558385955",
+        "created_at": "2025-07-29T08:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T09:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950118636737151259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950118636737151259",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949405463558385955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 我服了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949405455039823872"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1949405463558385955",
+        "created_at": "2025-07-27T09:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949405463558385955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q20CEbwnAF",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1949405463558385955/photo/1",
+              "media_key": "3_1949405455039823872",
+              "start": 0,
+              "url": "https://t.co/Q20CEbwnAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949405463558385955",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 299899,
+          "like_count": 3376,
+          "quote_count": 3,
+          "reply_count": 31,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q20CEbwnAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8746,
+          "following_count": 1067,
+          "like_count": 15299,
+          "listed_count": 15,
+          "media_count": 248,
+          "tweet_count": 1847
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1938548630870458380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87490,
+          "following_count": 979,
+          "like_count": 42925,
+          "listed_count": 202,
+          "media_count": 14165,
+          "tweet_count": 21103
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

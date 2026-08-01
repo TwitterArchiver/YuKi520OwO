@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2065301215609844135",
+    "created_at": "2026-06-12T10:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065383633331048474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1417457938025779200",
+          "start": 0,
+          "username": "43_ojou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065383633331048474",
+    "in_reply_to_user_id": "1417457938025779200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065380418892021809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@43_ojou 大丈夫、後で日本に行くから。つまり、私がすべきことは丁寧な日本語を学ぶことだけだ。そうすれば、周りの人は私がとても礼儀正しい人間だと思うかもしれない。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065301215609844135",
+        "created_at": "2026-06-12T10:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065383633331048474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1417457938025779200",
+              "start": 0,
+              "username": "43_ojou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065383633331048474",
+        "in_reply_to_user_id": "1417457938025779200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065380418892021809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@43_ojou 大丈夫、後で日本に行くから。つまり、私がすべきことは丁寧な日本語を学ぶことだけだ。そうすれば、周りの人は私がとても礼儀正しい人間だと思うかもしれない。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417457938025779200",
+        "conversation_id": "2065301215609844135",
+        "created_at": "2026-06-12T10:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065380418892021809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065380418892021809",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065334494559940988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO いえいえ！でもさっき書いた日本語はちょっと堅い表現かもしれません！次はもうちょっと一般的な表現にしますね！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8664,
+          "following_count": 1125,
+          "like_count": 16109,
+          "listed_count": 17,
+          "media_count": 333,
+          "tweet_count": 2347
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T12:14:51.000Z",
+        "description": "英語や中国語、アラビア語を学んだり女装をしたりしています",
+        "id": "1417457938025779200",
+        "name": "恵",
+        "pinned_tweet_id": "2058095616241369415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055559369077739520/JH7BJMqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2629,
+          "following_count": 1927,
+          "like_count": 344385,
+          "listed_count": 12,
+          "media_count": 8597,
+          "tweet_count": 53305
+        },
+        "username": "43_ojou",
+        "verified": false
+      }
+    ]
+  }
+}

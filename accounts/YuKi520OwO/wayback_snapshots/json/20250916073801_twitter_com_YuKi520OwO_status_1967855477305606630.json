@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1966645238241362256",
+    "created_at": "2025-09-16T07:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T08:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967855477305606630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1729570197567143936",
+          "start": 0,
+          "username": "iacovell53774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967855477305606630",
+    "in_reply_to_user_id": "1729570197567143936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967096417509658746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iacovell53774 没有吧，我私你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1966645238241362256",
+        "created_at": "2025-09-16T07:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967855477305606630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1729570197567143936",
+              "start": 0,
+              "username": "iacovell53774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967855477305606630",
+        "in_reply_to_user_id": "1729570197567143936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967096417509658746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iacovell53774 没有吧，我私你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729570197567143936",
+        "conversation_id": "1966645238241362256",
+        "created_at": "2025-09-14T05:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967096417509658746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967096417509658746",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966645238241362256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 你去哪了，为什么QQ联系不上你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8683,
+          "following_count": 1077,
+          "like_count": 15274,
+          "listed_count": 15,
+          "media_count": 264,
+          "tweet_count": 1913
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T18:37:30.000Z",
+        "description": "——————————\n谢谢关注傻fufu的067～\n––––––––––––––––––––\nmtf跨性别|xyn|小m|囚禁|呆|172/120|🚪66 联系方式（同类不用）|网上冲浪|瑟瑟|sm|小母狗",
+        "id": "1729570197567143936",
+        "location": "海王星",
+        "name": "是零陆柒酱呀~🍥🏳️‍⚧",
+        "pinned_tweet_id": "1908429781563318397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826590863138357249/sgyIMgw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 88,
+          "like_count": 593,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 476
+        },
+        "username": "iacovell53774",
+        "verified": false
+      }
+    ]
+  }
+}

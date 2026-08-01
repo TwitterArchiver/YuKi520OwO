@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067258278296576000"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067258330708644259",
+    "created_at": "2026-06-17T14:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067258330708644259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751240173650935808",
+          "start": 0,
+          "username": "Liver_MST"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6buKbgjIk7",
+          "end": 39,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2067258330708644259/photo/1",
+          "media_key": "3_2067258278296576000",
+          "start": 16,
+          "url": "https://t.co/6buKbgjIk7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067258330708644259",
+    "in_reply_to_user_id": "1751240173650935808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Liver_MST 一起溜🧊 https://t.co/6buKbgjIk7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067258330708644259].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067258330708644259",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067258330708644259"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2067258278296576000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBgc4jaYAAbiI_.jpg",
+        "width": 1920
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8683,
+          "following_count": 1145,
+          "like_count": 16234,
+          "listed_count": 18,
+          "media_count": 334,
+          "tweet_count": 2398
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:46:20.000Z",
+        "description": "欢迎私信扩列互fo/可以叫我帕克/🎂2006.07.01/音ゲー/maimai暁神確認/🇨🇳简体中文|🇹🇼繁體中文|🇬🇧🇺🇸English|🇯🇵日本語の投稿はすべて機械翻訳です。おかしな表現があったらごめんね！",
+        "id": "1751240173650935808",
+        "location": "Guangzhou, China",
+        "name": "Livermst",
+        "pinned_tweet_id": "2067249766929719483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924381317656576/Ov7oEjtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 995,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 1579
+        },
+        "username": "Liver_MST",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1938080839193239976",
+    "created_at": "2025-06-26T14:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T15:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938245277275582890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790936706650435584",
+          "start": 0,
+          "username": "shengu12135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938245277275582890",
+    "in_reply_to_user_id": "1790936706650435584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938118926854132061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengu12135 我操你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1938080839193239976",
+        "created_at": "2025-06-26T14:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938245277275582890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790936706650435584",
+              "start": 0,
+              "username": "shengu12135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938245277275582890",
+        "in_reply_to_user_id": "1790936706650435584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938118926854132061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengu12135 我操你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790936706650435584",
+        "conversation_id": "1938080839193239976",
+        "created_at": "2025-06-26T06:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T07:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938118926854132061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938118926854132061",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938080839193239976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 😂雪，去查一下，我好像有潜伏期"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8773,
+          "following_count": 1032,
+          "like_count": 15028,
+          "listed_count": 16,
+          "media_count": 242,
+          "tweet_count": 1801
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T02:46:07.000Z",
+        "description": "战雷玩家",
+        "id": "1790936706650435584",
+        "location": "广州",
+        "name": "神谷－发呆的人",
+        "pinned_tweet_id": "1920527479778787537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791531179512074248/PY9SXYn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 1963,
+          "like_count": 1927,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 225
+        },
+        "username": "shengu12135",
+        "verified": false
+      }
+    ]
+  }
+}

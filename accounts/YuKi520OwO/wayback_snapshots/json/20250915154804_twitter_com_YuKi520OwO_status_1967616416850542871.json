@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967192684893966577",
+    "created_at": "2025-09-15T15:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T16:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967616416850542871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1595394818040942593",
+          "start": 0,
+          "username": "watermxf"
+        },
+        {
+          "end": 18,
+          "id": "1445671844401483783",
+          "start": 10,
+          "username": "nzqu233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967616416850542871",
+    "in_reply_to_user_id": "1595394818040942593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967192684893966577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@watermxf @nzqu233 哇 砂糖！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967192637095780352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zfR-LboAAmji7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967192634302279680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zfRzxaMAAxP2j.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967192664505520128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zfTkSbEAA81hZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967192635132788737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zfR23awAE6z8e.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967192684893966577",
+        "created_at": "2025-09-15T15:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T16:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967616416850542871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1595394818040942593",
+              "start": 0,
+              "username": "watermxf"
+            },
+            {
+              "end": 18,
+              "id": "1445671844401483783",
+              "start": 10,
+              "username": "nzqu233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967616416850542871",
+        "in_reply_to_user_id": "1595394818040942593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967192684893966577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@watermxf @nzqu233 哇 砂糖！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967192637095780352",
+            "3_1967192634302279680",
+            "3_1967192664505520128",
+            "3_1967192635132788737"
+          ]
+        },
+        "author_id": "1595394818040942593",
+        "conversation_id": "1967192684893966577",
+        "created_at": "2025-09-14T11:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967192684893966577"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "kigurimi"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "kig"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "bdsm"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1445671844401483783",
+              "start": 37,
+              "username": "nzqu233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnLyG5UIIK",
+              "end": 92,
+              "expanded_url": "https://x.com/watermxf/status/1967192684893966577/photo/1",
+              "media_key": "3_1967192637095780352",
+              "start": 69,
+              "url": "https://t.co/rnLyG5UIIK"
+            },
+            {
+              "display_url": "pic.x.com/rnLyG5UIIK",
+              "end": 92,
+              "expanded_url": "https://x.com/watermxf/status/1967192684893966577/photo/1",
+              "media_key": "3_1967192634302279680",
+              "start": 69,
+              "url": "https://t.co/rnLyG5UIIK"
+            },
+            {
+              "display_url": "pic.x.com/rnLyG5UIIK",
+              "end": 92,
+              "expanded_url": "https://x.com/watermxf/status/1967192684893966577/photo/1",
+              "media_key": "3_1967192664505520128",
+              "start": 69,
+              "url": "https://t.co/rnLyG5UIIK"
+            },
+            {
+              "display_url": "pic.x.com/rnLyG5UIIK",
+              "end": 92,
+              "expanded_url": "https://x.com/watermxf/status/1967192684893966577/photo/1",
+              "media_key": "3_1967192635132788737",
+              "start": 69,
+              "url": "https://t.co/rnLyG5UIIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967192684893966577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 527,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "做IT技术做不下去了，点了个娃娃爽一下，顺便改行做涩推（划掉\n\n填充物： @nzqu233 \n\n#kigurimi #kig #bdsm https://t.co/rnLyG5UIIK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8684,
+          "following_count": 1077,
+          "like_count": 15266,
+          "listed_count": 15,
+          "media_count": 262,
+          "tweet_count": 1907
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T12:32:31.000Z",
+        "description": "自言自语/想要变得可爱/程序员/计算机爱好者/摄影Auto档玩家/美食（只会吃）/社恐/政治无感/游戏苦手/音游手残/尽量不emo/无业游民/业余摄影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.mtf.party/@watermxf",
+                "end": 23,
+                "expanded_url": "https://hub.mtf.party/@watermxf",
+                "start": 0,
+                "url": "https://t.co/4ulHuq5KHD"
+              }
+            ]
+          }
+        },
+        "id": "1595394818040942593",
+        "location": "Internet",
+        "name": "水月夏风🍥",
+        "pinned_tweet_id": "1785498180874052007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891857377525432320/Vp4Y4IxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 838,
+          "like_count": 9143,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/4ulHuq5KHD",
+        "username": "watermxf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-06T08:46:52.000Z",
+        "description": "|infp|喜欢可爱的东西|顺直|kigurumi爱好者|xp是██，██，██，██|现居██，常驻杭州|想变得██，要是██更好，享受██感|it炮灰|信息封锁中|政治相关勿扰",
+        "id": "1445671844401483783",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "nazumaQU",
+        "pinned_tweet_id": "1868259473992864028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824503230954606593/tPxbU1gI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 163,
+          "like_count": 77,
+          "listed_count": 7,
+          "media_count": 31,
+          "tweet_count": 140
+        },
+        "username": "nzqu233",
+        "verified": false
+      }
+    ]
+  }
+}

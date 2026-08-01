@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2056670511992864938",
+    "created_at": "2026-05-19T09:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056670511992864938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengguyi/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/mengguyi/status/2056652609373778005",
+          "start": 7,
+          "url": "https://t.co/8fbAJZgjCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056670511992864938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056652609373778005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "習近平都愛用 https://t.co/8fbAJZgjCk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2056670511992864938",
+        "created_at": "2026-05-19T09:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056670511992864938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengguyi/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/mengguyi/status/2056652609373778005",
+              "start": 7,
+              "url": "https://t.co/8fbAJZgjCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056670511992864938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056652609373778005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "習近平都愛用 https://t.co/8fbAJZgjCk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464881472964382732",
+        "conversation_id": "2056652609373778005",
+        "created_at": "2026-05-19T08:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056652609373778005"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 187,
+              "start": 181,
+              "tag": "AI中转站"
+            },
+            {
+              "end": 192,
+              "start": 188,
+              "tag": "Nya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bridge.pulseneko.com",
+              "end": 50,
+              "expanded_url": "http://bridge.pulseneko.com",
+              "start": 27,
+              "unwound_url": "https://bridge.pulseneko.com/",
+              "url": "https://t.co/k1UgMSupeK"
+            },
+            {
+              "display_url": "bridge.pulseneko.com",
+              "end": 179,
+              "expanded_url": "http://bridge.pulseneko.com",
+              "start": 156,
+              "unwound_url": "https://bridge.pulseneko.com/",
+              "url": "https://t.co/k1UgMSupeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056652609373778005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1137,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜终于开好啦～！！！  \n古一的新 AI 中转站 https://t.co/k1UgMSupeK 正式上线喵！\n\n各种AI模型桥接超方便，访问又稳又快～  \n再也不用担心突然抽风啦！  \n\n更有 Claude Opus 4.7 1M 版本只要 0.1x\n\n快来试试嘛～ 用着用着就离不开的说（小声）  \n→ https://t.co/k1UgMSupeK\n\n#AI中转站 #Nya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2044443894151364641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8680,
+          "following_count": 1109,
+          "like_count": 16001,
+          "listed_count": 17,
+          "media_count": 324,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T08:59:07.000Z",
+        "description": "GNU/Linux用户｜超业余级的 Rust 开发者｜21 y.o.｜个人TG: https://t.co/sId7D2qEtH｜GitHub: https://t.co/H0qW1rtPXv｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜实习圆角｜Nya! 若账号被限制请 @mengguyi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "mengguyi2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mengguyi",
+                "end": 64,
+                "expanded_url": "https://t.me/mengguyi",
+                "start": 41,
+                "url": "https://t.co/sId7D2qEtH"
+              },
+              {
+                "display_url": "github.com/mengguyi",
+                "end": 96,
+                "expanded_url": "https://github.com/mengguyi",
+                "start": 73,
+                "url": "https://t.co/H0qW1rtPXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengguyi.com",
+                "end": 23,
+                "expanded_url": "https://mengguyi.com",
+                "start": 0,
+                "url": "https://t.co/TS2nZD0GVY"
+              }
+            ]
+          }
+        },
+        "id": "1464881472964382732",
+        "location": "Macau",
+        "name": "孟古一🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984652872320237573/6k5K4wVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3195,
+          "following_count": 1202,
+          "like_count": 47884,
+          "listed_count": 10,
+          "media_count": 1030,
+          "tweet_count": 4379
+        },
+        "url": "https://t.co/TS2nZD0GVY",
+        "username": "mengguyi",
+        "verified": true
+      }
+    ]
+  }
+}

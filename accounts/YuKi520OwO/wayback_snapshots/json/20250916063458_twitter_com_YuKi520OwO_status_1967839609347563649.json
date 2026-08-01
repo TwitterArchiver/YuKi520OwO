@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967839585825853445"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1967839404862648409",
+    "created_at": "2025-09-16T06:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967839609347563649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kc26qOWSvY",
+          "end": 23,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1967839609347563649/photo/1",
+          "media_key": "3_1967839585825853445",
+          "start": 0,
+          "url": "https://t.co/kc26qOWSvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967839609347563649",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967839404862648409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/kc26qOWSvY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967839585825853445",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08rrWAaEAUaMor.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1967839387808604160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08rf0VaoAA-7F8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967839585825853445"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967839404862648409",
+        "created_at": "2025-09-16T06:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967839609347563649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kc26qOWSvY",
+              "end": 23,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1967839609347563649/photo/1",
+              "media_key": "3_1967839585825853445",
+              "start": 0,
+              "url": "https://t.co/kc26qOWSvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967839609347563649",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967839404862648409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/kc26qOWSvY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967839387808604160"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967839404862648409",
+        "created_at": "2025-09-16T06:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967839404862648409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zAbjumd4d",
+              "end": 31,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1967839404862648409/photo/1",
+              "media_key": "3_1967839387808604160",
+              "start": 8,
+              "url": "https://t.co/5zAbjumd4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967839404862648409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "lv1神get https://t.co/5zAbjumd4d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8682,
+          "following_count": 1077,
+          "like_count": 15269,
+          "listed_count": 15,
+          "media_count": 264,
+          "tweet_count": 1910
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

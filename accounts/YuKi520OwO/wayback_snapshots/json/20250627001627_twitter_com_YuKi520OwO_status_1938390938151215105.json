@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1938374839036957167",
+    "created_at": "2025-06-27T00:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T01:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938390938151215105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478303823802552322",
+          "start": 0,
+          "username": "DalingDalingDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938390938151215105",
+    "in_reply_to_user_id": "1478303823802552322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938374839036957167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DalingDalingDa 怎么这就润了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_1938374835408879616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuZ9pJIaQAAkaSB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1938374839036957167",
+        "created_at": "2025-06-27T00:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T01:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938390938151215105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478303823802552322",
+              "start": 0,
+              "username": "DalingDalingDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938390938151215105",
+        "in_reply_to_user_id": "1478303823802552322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938374839036957167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DalingDalingDa 怎么这就润了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938374835408879616"
+          ]
+        },
+        "author_id": "1478303823802552322",
+        "conversation_id": "1938374839036957167",
+        "created_at": "2025-06-26T23:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T00:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938374839036957167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndYZQm0opA",
+              "end": 40,
+              "expanded_url": "https://x.com/DalingDalingDa/status/1938374839036957167/photo/1",
+              "media_key": "3_1938374835408879616",
+              "start": 17,
+              "url": "https://t.co/ndYZQm0opA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938374839036957167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝daling第一次过安检女检 https://t.co/ndYZQm0opA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8771,
+          "following_count": 1031,
+          "like_count": 15043,
+          "listed_count": 16,
+          "media_count": 242,
+          "tweet_count": 1806
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T09:54:52.000Z",
+        "description": "咦？谢谢你点进来看我一眼~请叫我daling！",
+        "id": "1478303823802552322",
+        "name": "daling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930184865032613892/wi4_lT1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 469,
+          "like_count": 12048,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 662
+        },
+        "username": "DalingDalingDa",
+        "verified": false
+      }
+    ]
+  }
+}

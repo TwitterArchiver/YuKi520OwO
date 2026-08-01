@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2015369079809351824",
+    "created_at": "2026-01-25T10:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015372547622383743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015372547622383743",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015369079809351824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH 可爱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015369076516765696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gHf0kWwAAx7j3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015369076630020096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gHf0_W4AALh_n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015369077372358656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gHf3wWEAA6NNE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015369077359796224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gHf3tWYAARFBb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2015369079809351824",
+        "created_at": "2026-01-25T10:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015372547622383743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015372547622383743",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015369079809351824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH 可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015369076516765696",
+            "3_2015369076630020096",
+            "3_2015369077372358656",
+            "3_2015369077359796224"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "conversation_id": "2015369079809351824",
+        "created_at": "2026-01-25T10:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015369079809351824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6N6qc8qacE",
+              "end": 32,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/2015369079809351824/photo/1",
+              "media_key": "3_2015369076516765696",
+              "start": 9,
+              "url": "https://t.co/6N6qc8qacE"
+            },
+            {
+              "display_url": "pic.x.com/6N6qc8qacE",
+              "end": 32,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/2015369079809351824/photo/1",
+              "media_key": "3_2015369076630020096",
+              "start": 9,
+              "url": "https://t.co/6N6qc8qacE"
+            },
+            {
+              "display_url": "pic.x.com/6N6qc8qacE",
+              "end": 32,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/2015369079809351824/photo/1",
+              "media_key": "3_2015369077372358656",
+              "start": 9,
+              "url": "https://t.co/6N6qc8qacE"
+            },
+            {
+              "display_url": "pic.x.com/6N6qc8qacE",
+              "end": 32,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/2015369079809351824/photo/1",
+              "media_key": "3_2015369077359796224",
+              "start": 9,
+              "url": "https://t.co/6N6qc8qacE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015369079809351824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 46,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逐渐适应新发色） https://t.co/6N6qc8qacE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2014246601913712929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479599569616898/vGoaWz33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8467,
+          "following_count": 1114,
+          "like_count": 15774,
+          "listed_count": 15,
+          "media_count": 300,
+          "tweet_count": 2121
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/不堪风流往事🩷💜/？？岁/上岸啦，不再约炮和援交/❤️\n@Mirro_zinuo\n/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mirro_zinuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1973169992570118470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11933,
+          "following_count": 1415,
+          "like_count": 159873,
+          "listed_count": 24,
+          "media_count": 5029,
+          "tweet_count": 67415
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

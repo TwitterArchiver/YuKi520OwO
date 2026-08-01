@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950964325348417536"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1950964337180336354",
+    "created_at": "2025-07-31T16:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T17:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950964337180336354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nXT3Pv7pqK",
+          "end": 49,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1950964337180336354/photo/1",
+          "media_key": "3_1950964325348417536",
+          "start": 26,
+          "url": "https://t.co/nXT3Pv7pqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950964337180336354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "20号落地东京，大约待两周，有日本的推友出来玩嘛？ https://t.co/nXT3Pv7pqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950964325348417536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxM3t53aIAAl6dJ.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950964325348417536"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1950964337180336354",
+        "created_at": "2025-07-31T16:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T17:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950964337180336354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXT3Pv7pqK",
+              "end": 49,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1950964337180336354/photo/1",
+              "media_key": "3_1950964325348417536",
+              "start": 26,
+              "url": "https://t.co/nXT3Pv7pqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950964337180336354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20号落地东京，大约待两周，有日本的推友出来玩嘛？ https://t.co/nXT3Pv7pqK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8750,
+          "following_count": 1064,
+          "like_count": 15209,
+          "listed_count": 14,
+          "media_count": 249,
+          "tweet_count": 1852
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

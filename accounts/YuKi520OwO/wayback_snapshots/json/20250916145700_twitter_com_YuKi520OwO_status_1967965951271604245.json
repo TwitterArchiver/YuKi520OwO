@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1967934204391592273",
+    "created_at": "2025-09-16T14:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T15:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967965951271604245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "84625899",
+          "start": 0,
+          "username": "sasakure__UK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967965951271604245",
+    "in_reply_to_user_id": "84625899",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967934204391592273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sasakure__UK 十段合格おめでとうございます！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2024,
+        "media_key": "3_1967934197466791936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-Bud1aAAASLO2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1967934204391592273",
+        "created_at": "2025-09-16T14:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967965951271604245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "84625899",
+              "start": 0,
+              "username": "sasakure__UK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967965951271604245",
+        "in_reply_to_user_id": "84625899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967934204391592273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sasakure__UK 十段合格おめでとうございます！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967934197466791936"
+          ]
+        },
+        "author_id": "84625899",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967934204391592273",
+        "created_at": "2025-09-16T12:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967934204391592273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4CYiM3Aj2",
+              "end": 44,
+              "expanded_url": "https://x.com/sasakure__UK/status/1967934204391592273/photo/1",
+              "media_key": "3_1967934197466791936",
+              "start": 21,
+              "url": "https://t.co/N4CYiM3Aj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967934204391592273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 21959,
+          "like_count": 782,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "maimai十段合格できた！！！🥹嬉嬉嬉 https://t.co/N4CYiM3Aj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8686,
+          "following_count": 1081,
+          "like_count": 15353,
+          "listed_count": 15,
+          "media_count": 266,
+          "tweet_count": 1952
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-23T16:06:14.000Z",
+        "description": "Music Composer／有形ランペイジ\n@UKRampage_info\n▼Youtube https://t.co/qanjCAcQQF\n▼niconico https://t.co/iiVSZJaMoI \n◆contact https://t.co/KYtx88ht9v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "UKRampage_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakureUK02…",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/sasakureUK0211",
+                "start": 48,
+                "url": "https://t.co/qanjCAcQQF"
+              },
+              {
+                "display_url": "nicovideo.jp/mylist/6280579",
+                "end": 105,
+                "expanded_url": "http://nicovideo.jp/mylist/6280579",
+                "start": 82,
+                "url": "https://t.co/iiVSZJaMoI"
+              },
+              {
+                "display_url": "x.gd/hcZzV",
+                "end": 139,
+                "expanded_url": "https://x.gd/hcZzV",
+                "start": 116,
+                "url": "https://t.co/KYtx88ht9v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakuration.com",
+                "end": 23,
+                "expanded_url": "https://www.sasakuration.com/",
+                "start": 0,
+                "url": "https://t.co/sG4aEuLqzF"
+              }
+            ]
+          }
+        },
+        "id": "84625899",
+        "location": "???",
+        "name": "sasakure.UK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907670150192766976/-aCTpAtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283246,
+          "following_count": 1104,
+          "like_count": 8251,
+          "listed_count": 2714,
+          "media_count": 4438,
+          "tweet_count": 30608
+        },
+        "url": "https://t.co/sG4aEuLqzF",
+        "username": "sasakure__UK",
+        "verified": true
+      }
+    ]
+  }
+}

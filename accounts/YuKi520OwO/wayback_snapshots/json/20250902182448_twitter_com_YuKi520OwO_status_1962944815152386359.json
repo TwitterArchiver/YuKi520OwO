@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962944799641894913"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "1962944815152386359",
+    "created_at": "2025-09-02T18:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T19:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962944815152386359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0fPnP2px3t",
+          "end": 30,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1962944815152386359/photo/1",
+          "media_key": "3_1962944799641894913",
+          "start": 7,
+          "url": "https://t.co/0fPnP2px3t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962944815152386359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这配色不对吧 https://t.co/0fPnP2px3t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1962944799641894913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz3H5ShbAAEt_s9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962944799641894913"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1962944815152386359",
+        "created_at": "2025-09-02T18:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T19:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962944815152386359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fPnP2px3t",
+              "end": 30,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1962944815152386359/photo/1",
+              "media_key": "3_1962944799641894913",
+              "start": 7,
+              "url": "https://t.co/0fPnP2px3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962944815152386359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这配色不对吧 https://t.co/0fPnP2px3t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8706,
+          "following_count": 1072,
+          "like_count": 15232,
+          "listed_count": 15,
+          "media_count": 257,
+          "tweet_count": 1888
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

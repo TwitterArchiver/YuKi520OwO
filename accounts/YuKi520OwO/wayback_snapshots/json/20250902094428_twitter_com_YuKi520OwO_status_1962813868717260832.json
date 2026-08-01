@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1962661889990893871",
+    "created_at": "2025-09-02T09:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T10:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962813868717260832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926307161480568832",
+          "start": 0,
+          "username": "banzaixyg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/YuKi520OwO/sta…",
+          "end": 34,
+          "expanded_url": "https://x.com/YuKi520OwO/status/1878515894177128863?t=SKHFzY-0DPL19Vc-A8GMIg&s=19",
+          "start": 11,
+          "url": "https://t.co/TgY7Q5Gbze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962813868717260832",
+    "in_reply_to_user_id": "1926307161480568832",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878515894177128863",
+        "type": "quoted"
+      },
+      {
+        "id": "1962661889990893871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banzaixyg https://t.co/TgY7Q5Gbze"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1878515890301669376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhHUP9pbkAA36_W.jpg",
+        "width": 381
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1878515890423304192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhHUP-GbkAAi18x.jpg",
+        "width": 443
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1878515891224387584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhHUQBFbIAAMFWy.jpg",
+        "width": 922
+      },
+      {
+        "height": 960,
+        "media_key": "3_1878515891526385664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhHUQCNbQAAi5ZM.jpg",
+        "width": 432
+      },
+      {
+        "height": 2244,
+        "media_key": "3_1962661886060830722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzzGljTaoAICcxF.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1962661889990893871",
+        "created_at": "2025-09-02T09:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T10:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962813868717260832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926307161480568832",
+              "start": 0,
+              "username": "banzaixyg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/YuKi520OwO/sta…",
+              "end": 34,
+              "expanded_url": "https://x.com/YuKi520OwO/status/1878515894177128863?t=SKHFzY-0DPL19Vc-A8GMIg&s=19",
+              "start": 11,
+              "url": "https://t.co/TgY7Q5Gbze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962813868717260832",
+        "in_reply_to_user_id": "1926307161480568832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878515894177128863",
+            "type": "quoted"
+          },
+          {
+            "id": "1962661889990893871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzaixyg https://t.co/TgY7Q5Gbze"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878515890301669376",
+            "3_1878515890423304192",
+            "3_1878515891224387584",
+            "3_1878515891526385664"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1878515894177128863",
+        "created_at": "2025-01-12T18:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T19:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878515894177128863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbGF9V6h4b",
+              "end": 179,
+              "expanded_url": "https://x.com/YuKi52037/status/1878515894177128863/photo/1",
+              "media_key": "3_1878515890301669376",
+              "start": 156,
+              "url": "https://t.co/vbGF9V6h4b"
+            },
+            {
+              "display_url": "pic.x.com/vbGF9V6h4b",
+              "end": 179,
+              "expanded_url": "https://x.com/YuKi52037/status/1878515894177128863/photo/1",
+              "media_key": "3_1878515890423304192",
+              "start": 156,
+              "url": "https://t.co/vbGF9V6h4b"
+            },
+            {
+              "display_url": "pic.x.com/vbGF9V6h4b",
+              "end": 179,
+              "expanded_url": "https://x.com/YuKi52037/status/1878515894177128863/photo/1",
+              "media_key": "3_1878515891224387584",
+              "start": 156,
+              "url": "https://t.co/vbGF9V6h4b"
+            },
+            {
+              "display_url": "pic.x.com/vbGF9V6h4b",
+              "end": 179,
+              "expanded_url": "https://x.com/YuKi52037/status/1878515894177128863/photo/1",
+              "media_key": "3_1878515891526385664",
+              "start": 156,
+              "url": "https://t.co/vbGF9V6h4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878515894177128863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 31855,
+          "like_count": 87,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "寒涟漪事件我相信大家都心知肚明 开避难所是为了什么，以及他对避难所里的无助的xyn做了什么 \n图1 大家说我造谣\n图2 寒涟漪要证据\n图3 芙卡被寒涟漪在浴室做了\n图4 旧的证据\n没有办法再加入更多的图片了\n所以寒涟漪开避难所的同时还在透跨\n40000fo的人就干这事？\n现在证据确凿了 你怎么解释吧\n不然起诉 https://t.co/vbGF9V6h4b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962661886060830722"
+          ]
+        },
+        "author_id": "1926307161480568832",
+        "conversation_id": "1962661889990893871",
+        "created_at": "2025-09-01T23:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T00:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962661889990893871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Bj0MZaujR",
+              "end": 169,
+              "expanded_url": "https://x.com/banzaixyg/status/1962661889990893871/photo/1",
+              "media_key": "3_1962661886060830722",
+              "start": 146,
+              "url": "https://t.co/6Bj0MZaujR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962661889990893871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 676,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我来说一下寒涟漪（潘佳彤）指控我的事：\n1.我当时到寒➗的避难所是偶然，当时我朋友和我说的是他朋友家，后来才知道是寒涟漪\n2.很长一段时间指的是多久？算上我被寒涟漪送进他势力下私人精神病院的时间一共18天，我有车票为证寒➗有什么证据？\n3.所谓药物滥用是被寒➗侵犯后精神崩溃紫砂并非娱乐滥用 https://t.co/6Bj0MZaujR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "喵星",
+        "name": "🥺",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8714,
+          "following_count": 1070,
+          "like_count": 15221,
+          "listed_count": 15,
+          "media_count": 256,
+          "tweet_count": 1885
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/09xyn/双性人/od仙人/时不时出药品混搭玩法/刷新福州/可以约我哦～/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@yaiikawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926477398863671296/NjWycX_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 293,
+          "like_count": 2213,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 620
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

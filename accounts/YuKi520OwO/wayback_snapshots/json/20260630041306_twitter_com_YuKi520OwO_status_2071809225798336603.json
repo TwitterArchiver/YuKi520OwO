@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2047244239730577446",
+    "created_at": "2026-06-30T04:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T05:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071809225798336603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586738275913322496",
+          "start": 0,
+          "username": "taotaotaoxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071809225798336603",
+    "in_reply_to_user_id": "1586738275913322496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071652609614913569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taotaotaoxxx 正常来说大麻，，3到7天就会被完全代谢掉了啊。你是不是喝水不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2047244239730577446",
+        "created_at": "2026-06-30T04:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071809225798336603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586738275913322496",
+              "start": 0,
+              "username": "taotaotaoxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071809225798336603",
+        "in_reply_to_user_id": "1586738275913322496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071652609614913569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taotaotaoxxx 正常来说大麻，，3到7天就会被完全代谢掉了啊。你是不是喝水不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586738275913322496",
+        "conversation_id": "2047244239730577446",
+        "created_at": "2026-06-29T17:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071652609614913569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071652609614913569",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047244239730577446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 麻烦问一下 尿检怎么作弊 我大麻已经停用一个月但是尿检还是可以检出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8693,
+          "following_count": 1150,
+          "like_count": 16267,
+          "listed_count": 18,
+          "media_count": 340,
+          "tweet_count": 2431
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T15:14:33.000Z",
+        "description": "",
+        "id": "1586738275913322496",
+        "location": "Hong Kong",
+        "name": "局部坏死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605785527500025858/bbcYGcDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 109,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "taotaotaoxxx",
+        "verified": false
+      }
+    ]
+  }
+}

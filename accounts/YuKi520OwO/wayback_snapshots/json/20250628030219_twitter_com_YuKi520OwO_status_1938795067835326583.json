@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "1938080839193239976",
+    "created_at": "2025-06-28T03:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T04:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938795067835326583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730235267204747264",
+          "start": 0,
+          "username": "qihainanami23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938795067835326583",
+    "in_reply_to_user_id": "1730235267204747264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938768427994525817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qihainanami23 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1938080839193239976",
+        "created_at": "2025-06-28T03:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T04:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938795067835326583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730235267204747264",
+              "start": 0,
+              "username": "qihainanami23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938795067835326583",
+        "in_reply_to_user_id": "1730235267204747264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938768427994525817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qihainanami23 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730235267204747264",
+        "conversation_id": "1938080839193239976",
+        "created_at": "2025-06-28T01:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T02:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938768427994525817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938768427994525817",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938741872156979602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 这么好是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8776,
+          "following_count": 1028,
+          "like_count": 15050,
+          "listed_count": 16,
+          "media_count": 242,
+          "tweet_count": 1813
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T14:40:18.000Z",
+        "description": "",
+        "id": "1730235267204747264",
+        "name": "曲云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732102762668883972/X9fiU7Ve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 519,
+          "like_count": 10227,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 9747
+        },
+        "username": "qihainanami23",
+        "verified": false
+      }
+    ]
+  }
+}
