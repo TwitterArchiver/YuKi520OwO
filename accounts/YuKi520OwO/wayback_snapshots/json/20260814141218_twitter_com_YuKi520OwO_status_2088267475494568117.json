@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2088256858700046513",
+    "created_at": "2026-08-14T14:12:18.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088267475494568117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069160672672546816",
+          "start": 0,
+          "username": "BlackCrow1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088267475494568117",
+    "in_reply_to_user_id": "2069160672672546816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088265919806206278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackCrow1966 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2088256858700046513",
+        "created_at": "2026-08-14T14:12:18.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088267475494568117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069160672672546816",
+              "start": 0,
+              "username": "BlackCrow1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088267475494568117",
+        "in_reply_to_user_id": "2069160672672546816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088265919806206278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackCrow1966 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069160672672546816",
+        "conversation_id": "2088256858700046513",
+        "created_at": "2026-08-14T14:06:08.000Z",
+        "display_text_range": [
+          12,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088265919806206278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088265919806206278",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088256858700046513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 1 笔录的性质不需要证据印证 如果办案人员告知了错误内容那么责任依旧在所谓“胡说八道”的办案人员 实际上执法压力非常大几件事情偶尔搞串很正常\n2 以取得谅解为目的的澄清视频已经完成了程序的功能 所谓的“真相”已经不再有效了 请你明确这一原则"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "is_identity_verified": false,
+        "location": "中国（及港澳台）/日本/泰国等",
+        "most_recent_tweet_id": "2088267475494568117",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8686,
+          "following_count": 1153,
+          "like_count": 16459,
+          "listed_count": 18,
+          "media_count": 355,
+          "tweet_count": 2518
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "野草闲花逢春生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "docuchina.cn",
+                "end": 23,
+                "expanded_url": "http://www.docuchina.cn/",
+                "start": 0,
+                "url": "https://t.co/xIdrdm9lc8"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "is_identity_verified": false,
+        "location": "沙坪坝",
+        "most_recent_tweet_id": "2088266756074897728",
+        "name": "原乡人",
+        "pinned_tweet_id": "2083234627708506262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069160672672546816/1786630487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087905660696686592/_A6f0rb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 0,
+          "like_count": 5432,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/xIdrdm9lc8",
+        "username": "BlackCrow1966",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

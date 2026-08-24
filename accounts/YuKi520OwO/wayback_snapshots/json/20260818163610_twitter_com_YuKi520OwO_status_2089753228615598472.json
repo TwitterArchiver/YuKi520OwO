@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2089560763325366288",
+    "created_at": "2026-08-18T16:36:10.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089753228615598472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675870584297910277",
+          "start": 0,
+          "username": "Wakari747763"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089753228615598472",
+    "in_reply_to_user_id": "1675870584297910277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089560763325366288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wakari747763 忍心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089560691086909440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-cYKja4AAqwfj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2089560763325366288",
+        "created_at": "2026-08-18T16:36:10.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089753228615598472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1675870584297910277",
+              "start": 0,
+              "username": "Wakari747763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089753228615598472",
+        "in_reply_to_user_id": "1675870584297910277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089560763325366288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wakari747763 忍心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089560691086909440"
+          ]
+        },
+        "author_id": "1675870584297910277",
+        "conversation_id": "2089560763325366288",
+        "created_at": "2026-08-18T03:51:22.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089560763325366288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hf6VqWrjMr",
+              "end": 40,
+              "expanded_url": "https://x.com/Wakari747763/status/2089560763325366288/photo/1",
+              "media_key": "3_2089560691086909440",
+              "start": 17,
+              "url": "https://t.co/hf6VqWrjMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089560763325366288",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089560691086909440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 650,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们真的忍心欺负这么可爱的我吗😭 https://t.co/hf6VqWrjMr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "is_identity_verified": false,
+        "location": "中国（及港澳台）/日本/泰国等",
+        "most_recent_tweet_id": "2089753228615598472",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8729,
+          "following_count": 1153,
+          "like_count": 16498,
+          "listed_count": 18,
+          "media_count": 356,
+          "tweet_count": 2543
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-03T14:14:28.000Z",
+        "description": "Transgirl🍥🏳️‍⚧️she/her or they/them//持证含糖//现居北京(07.04.18)欢迎来找我//181cm美少女战士//已炸柜//喜欢被抱抱被摸头依偎在别人怀里",
+        "id": "1675870584297910277",
+        "is_identity_verified": false,
+        "location": "大家的怀里",
+        "most_recent_tweet_id": "2089560763325366288",
+        "name": "汐華若理🍥",
+        "pinned_tweet_id": "1724787489486114828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675870584297910277/1688913385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089570353223987200/zarb-q8X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 903,
+          "like_count": 192,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "Wakari747763",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

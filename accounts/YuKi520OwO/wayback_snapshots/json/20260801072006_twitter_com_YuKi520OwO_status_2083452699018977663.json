@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2083134764496957627",
+    "created_at": "2026-08-01T07:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083452699018977663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Fuugetsu_808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083452699018977663",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083134764496957627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fuugetsu_808 jr西日本"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_2083134753453301760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjIBXba4AAEHXf.jpg",
+        "width": 3187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2083134764496957627",
+        "created_at": "2026-08-01T07:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083452699018977663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Fuugetsu_808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083452699018977663",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083134764496957627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuugetsu_808 jr西日本"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083134753453301760"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2083134764496957627",
+        "created_at": "2026-07-31T10:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083134764496957627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaVrRPmFU2",
+              "end": 34,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2083134764496957627/photo/1",
+              "media_key": "3_2083134753453301760",
+              "start": 11,
+              "url": "https://t.co/JaVrRPmFU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083134764496957627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2367,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请选出你最喜欢的JR https://t.co/JaVrRPmFU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8674,
+          "following_count": 1151,
+          "like_count": 16344,
+          "listed_count": 18,
+          "media_count": 349,
+          "tweet_count": 2488
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 1900,
+          "like_count": 79877,
+          "listed_count": 12,
+          "media_count": 1750,
+          "tweet_count": 13136
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

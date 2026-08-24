@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088161146469810178"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088161157366649030",
+    "created_at": "2026-08-14T07:09:50.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088161157366649030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mn8lIpGAhY",
+          "end": 27,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2088161157366649030/photo/1",
+          "media_key": "3_2088161146469810178",
+          "start": 4,
+          "url": "https://t.co/Mn8lIpGAhY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088161157366649030",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2088161146469810178"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "67！ https://t.co/Mn8lIpGAhY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2088161146469810178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqjf8kbAAIY4My.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088161146469810178"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088161157366649030",
+        "created_at": "2026-08-14T07:09:50.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088161157366649030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mn8lIpGAhY",
+              "end": 27,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2088161157366649030/photo/1",
+              "media_key": "3_2088161146469810178",
+              "start": 4,
+              "url": "https://t.co/Mn8lIpGAhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088161157366649030",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2088161146469810178"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "67！ https://t.co/Mn8lIpGAhY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "is_identity_verified": false,
+        "location": "中国（及港澳台）/日本/泰国等",
+        "most_recent_tweet_id": "2088161157366649030",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8687,
+          "following_count": 1153,
+          "like_count": 16437,
+          "listed_count": 18,
+          "media_count": 352,
+          "tweet_count": 2506
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

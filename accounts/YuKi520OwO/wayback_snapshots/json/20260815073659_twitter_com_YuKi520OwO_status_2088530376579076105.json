@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2088266220177088855",
+    "created_at": "2026-08-15T07:36:59.000Z",
+    "display_text_range": [
+      12,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088530376579076105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1391053794432086020",
+          "start": 0,
+          "username": "ChishioMoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088530376579076105",
+    "in_reply_to_user_id": "1391053794432086020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088517510241177929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChishioMoe 因为那个三角枫那个sb他od了 一听说有偷拍就想伸张正义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2088266220177088855",
+        "created_at": "2026-08-15T07:36:59.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088530376579076105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1391053794432086020",
+              "start": 0,
+              "username": "ChishioMoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088530376579076105",
+        "in_reply_to_user_id": "1391053794432086020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088517510241177929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChishioMoe 因为那个三角枫那个sb他od了 一听说有偷拍就想伸张正义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391053794432086020",
+        "conversation_id": "2088266220177088855",
+        "created_at": "2026-08-15T06:45:51.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088517510241177929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088517510241177929",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088266220177088855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 不是因为偷拍，那是因为什么爆发冲突？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "is_identity_verified": false,
+        "location": "中国（及港澳台）/日本/泰国等",
+        "most_recent_tweet_id": "2088530376579076105",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8711,
+          "following_count": 1155,
+          "like_count": 16484,
+          "listed_count": 18,
+          "media_count": 356,
+          "tweet_count": 2531
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-08T15:34:14.000Z",
+        "description": "大家好，这里是汐颜！ /HRT：23.10.13/173-53kg/INFP忧郁小猫/欢迎宝宝们扩列💕/ADHDとCPTSDで壊れそうだけど、可愛くてゆるふわで笑ってるの…ねぇ、壊れても即使地獄に行っても見捨てないって約束して？✨ | 姐姐@chengyiga | 妹妹@ssd0kknd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "chengyiga"
+              },
+              {
+                "end": 144,
+                "start": 135,
+                "username": "ssd0kknd"
+              }
+            ]
+          }
+        },
+        "id": "1391053794432086020",
+        "is_identity_verified": false,
+        "location": "♡",
+        "most_recent_tweet_id": "2088517510241177929",
+        "name": "✞稚羽汐颜✞🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391053794432086020/1728540722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815347493917655040/2H5ADLuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 1893,
+          "like_count": 2072,
+          "listed_count": 10,
+          "media_count": 138,
+          "tweet_count": 1806
+        },
+        "url": "",
+        "username": "ChishioMoe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

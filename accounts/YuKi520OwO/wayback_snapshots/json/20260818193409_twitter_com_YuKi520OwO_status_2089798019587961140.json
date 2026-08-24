@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2089662573176304021",
+    "created_at": "2026-08-18T19:34:09.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089798019587961140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696106403361177601",
+          "start": 0,
+          "username": "bingjian824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089798019587961140",
+    "in_reply_to_user_id": "1696106403361177601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089662573176304021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingjian824 省流:灾难将至"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2089662555895873536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_5BeibwAACU56.jpg",
+        "width": 2340
+      },
+      {
+        "height": 1653,
+        "media_key": "3_2089662566654242816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_5CGnbcAAosLY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2089662573176304021",
+        "created_at": "2026-08-18T19:34:09.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089798019587961140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696106403361177601",
+              "start": 0,
+              "username": "bingjian824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089798019587961140",
+        "in_reply_to_user_id": "1696106403361177601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089662573176304021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingjian824 省流:灾难将至"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089662555895873536",
+            "3_2089662566654242816"
+          ]
+        },
+        "author_id": "1696106403361177601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2089662573176304021",
+        "created_at": "2026-08-18T10:35:56.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089662573176304021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "arcaea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "quietandlightless.world",
+              "end": 124,
+              "expanded_url": "https://quietandlightless.world",
+              "start": 101,
+              "unwound_url": "https://quietandlightless.world",
+              "url": "https://t.co/V3hlhqHFIC"
+            },
+            {
+              "display_url": "pic.x.com/32g5gcxsBl",
+              "end": 179,
+              "expanded_url": "https://x.com/bingjian824/status/2089662573176304021/photo/1",
+              "media_key": "3_2089662555895873536",
+              "start": 156,
+              "url": "https://t.co/32g5gcxsBl"
+            },
+            {
+              "display_url": "pic.x.com/32g5gcxsBl",
+              "end": 179,
+              "expanded_url": "https://x.com/bingjian824/status/2089662573176304021/photo/1",
+              "media_key": "3_2089662566654242816",
+              "start": 156,
+              "url": "https://t.co/32g5gcxsBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089662573176304021",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089662555895873536"
+          },
+          {
+            "media_key": "3_2089662566654242816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 24069,
+          "like_count": 425,
+          "quote_count": 12,
+          "reply_count": 4,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "#arcaea 按此顺序进入世界模式\n4 4 5 4 2 3 4 3 5 3\n7 7 8 6 5 6 8 6 8 6\n9 9 10 9 8 9 10 8 10 9\n得到图一乱码，使用base64解码得到https://t.co/V3hlhqHFIC\n网址倒计时结束时间为8/27 早上8点(GMT+08:00) https://t.co/32g5gcxsBl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "is_identity_verified": false,
+        "location": "中国（及港澳台）/日本/泰国等",
+        "most_recent_tweet_id": "2089798019587961140",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8730,
+          "following_count": 1153,
+          "like_count": 16499,
+          "listed_count": 18,
+          "media_count": 356,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-28T10:25:14.000Z",
+        "description": "a noob rhythm gamer\nrotaeno 17.876\n🚫No POLITICAL discussions,thanks",
+        "id": "1696106403361177601",
+        "is_identity_verified": false,
+        "location": "home",
+        "most_recent_tweet_id": "2089718317930160344",
+        "name": "IceGully",
+        "pinned_tweet_id": "2063612727592157363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1696106403361177601/1774434581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040323653142020096/8ypKT2_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 7,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "bingjian824",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

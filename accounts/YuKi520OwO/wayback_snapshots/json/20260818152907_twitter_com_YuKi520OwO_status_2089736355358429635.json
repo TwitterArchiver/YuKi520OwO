@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2089688729988587574",
+    "created_at": "2026-08-18T15:29:07.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089736355358429635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2064893790012444672",
+          "start": 0,
+          "username": "KaliroWeber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089736355358429635",
+    "in_reply_to_user_id": "2064893790012444672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089688729988587574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaliroWeber 干嘛！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2089688679782789120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAQyFmbsAAVfRL.jpg",
+        "width": 750
+      },
+      {
+        "height": 1720,
+        "media_key": "3_2089688679782793216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAQyFmbwAAgr17.jpg",
+        "width": 960
+      },
+      {
+        "height": 1720,
+        "media_key": "3_2089688679803740160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAQyFrbYAAucDO.jpg",
+        "width": 960
+      },
+      {
+        "height": 298,
+        "media_key": "3_2089688679740801024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAQyFcbAAANRXj.jpg",
+        "width": 298
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2089688729988587574",
+        "created_at": "2026-08-18T15:29:07.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089736355358429635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2064893790012444672",
+              "start": 0,
+              "username": "KaliroWeber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089736355358429635",
+        "in_reply_to_user_id": "2064893790012444672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089688729988587574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaliroWeber 干嘛！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089688679782789120",
+            "3_2089688679782793216",
+            "3_2089688679803740160",
+            "3_2089688679740801024"
+          ]
+        },
+        "author_id": "2064893790012444672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089688729988587574",
+        "created_at": "2026-08-18T12:19:52.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089688729988587574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6hV50G2kY",
+              "end": 34,
+              "expanded_url": "https://x.com/KaliroWeber/status/2089688729988587574/photo/1",
+              "media_key": "3_2089688679782789120",
+              "start": 11,
+              "url": "https://t.co/P6hV50G2kY"
+            },
+            {
+              "display_url": "pic.x.com/P6hV50G2kY",
+              "end": 34,
+              "expanded_url": "https://x.com/KaliroWeber/status/2089688729988587574/photo/1",
+              "media_key": "3_2089688679782793216",
+              "start": 11,
+              "url": "https://t.co/P6hV50G2kY"
+            },
+            {
+              "display_url": "pic.x.com/P6hV50G2kY",
+              "end": 34,
+              "expanded_url": "https://x.com/KaliroWeber/status/2089688729988587574/photo/1",
+              "media_key": "3_2089688679803740160",
+              "start": 11,
+              "url": "https://t.co/P6hV50G2kY"
+            },
+            {
+              "display_url": "pic.x.com/P6hV50G2kY",
+              "end": 34,
+              "expanded_url": "https://x.com/KaliroWeber/status/2089688729988587574/photo/1",
+              "media_key": "3_2089688679740801024",
+              "start": 11,
+              "url": "https://t.co/P6hV50G2kY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089688729988587574",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089688679782789120"
+          },
+          {
+            "media_key": "3_2089688679782793216"
+          },
+          {
+            "media_key": "3_2089688679803740160"
+          },
+          {
+            "media_key": "3_2089688679740801024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只是几个ai的娘化图 https://t.co/P6hV50G2kY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "is_identity_verified": false,
+        "location": "中国（及港澳台）/日本/泰国等",
+        "most_recent_tweet_id": "2089736355358429635",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8729,
+          "following_count": 1153,
+          "like_count": 16494,
+          "listed_count": 18,
+          "media_count": 356,
+          "tweet_count": 2542
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T02:14:19.000Z",
+        "description": "MTF｜ZH/ENG/DE/LAT｜Medicine or O-Chemistry|Medicine student in CN|医学生-糖商|社交障碍|灵感重生ing|在追求薯条自由的道路上｜愿世界再无病痛｜私信无偿医疗咨询",
+        "id": "2064893790012444672",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2089688729988587574",
+        "name": "科利尔kaliro🍥🏳️‍⚧️-糖商",
+        "pinned_tweet_id": "2086811509175570742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064893790012444672/1784732297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086005304500891648/EfKwdPWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 844,
+          "like_count": 1509,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "KaliroWeber",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

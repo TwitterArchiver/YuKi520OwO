@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2090007780316905905",
+    "created_at": "2026-08-19T10:56:49.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090030217746436594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1327985720305147906",
+          "start": 0,
+          "username": "rbqxiaoling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090030217746436594",
+    "in_reply_to_user_id": "1327985720305147906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090007780316905905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rbqxiaoling 问一下，哪座城市"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2090007780316905905",
+        "created_at": "2026-08-19T10:56:49.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090030217746436594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1327985720305147906",
+              "start": 0,
+              "username": "rbqxiaoling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090030217746436594",
+        "in_reply_to_user_id": "1327985720305147906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090007780316905905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rbqxiaoling 问一下，哪座城市"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327985720305147906",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2090007780316905905",
+        "created_at": "2026-08-19T09:27:39.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090007780316905905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "男娘"
+            },
+            {
+              "end": 79,
+              "start": 71,
+              "tag": "cosplay"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "调教"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "cd"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "cos"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "金主"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090007780316905905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "金主收留无家可归的小男娘，女生，爱玩cos的。享受优质生活，可接受调教的，有需要的私信我。\nps:我不是金主，我是帮忙发消息的。\n\n#男娘  #cosplay  #调教 #cd #cos  #金主"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "is_identity_verified": false,
+        "location": "中国（及港澳台）/日本/泰国等",
+        "most_recent_tweet_id": "2090030217746436594",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8728,
+          "following_count": 1151,
+          "like_count": 16505,
+          "listed_count": 18,
+          "media_count": 356,
+          "tweet_count": 2546
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-15T14:44:12.000Z",
+        "description": "投喂66可➕qq。。也是门槛。。",
+        "id": "1327985720305147906",
+        "is_identity_verified": false,
+        "location": "南平",
+        "most_recent_tweet_id": "2090007780316905905",
+        "name": "凌",
+        "pinned_tweet_id": "2006232705395028142",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327985896751128577/_XhOwoD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 2393,
+          "like_count": 5333,
+          "listed_count": 21,
+          "media_count": 165,
+          "tweet_count": 1017
+        },
+        "url": "",
+        "username": "rbqxiaoling",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
