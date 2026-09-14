@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094752956759654401"
+      ],
+      "media_source_tweet_id": [
+        "2094752967639572769"
+      ]
+    },
+    "author_id": "1479730386431545346",
+    "conversation_id": "2094755164918046789",
+    "created_at": "2026-09-01T11:52:04.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094755164918046789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047433069116719104",
+          "start": 3,
+          "username": "N552AA8"
+        },
+        {
+          "end": 24,
+          "id": "1479730386431545346",
+          "start": 13,
+          "username": "YuKi520OwO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mXdkyb3aDF",
+          "end": 48,
+          "expanded_url": "https://x.com/N552AA8/status/2094752967639572769/photo/1",
+          "media_key": "3_2094752956759654401",
+          "start": 25,
+          "url": "https://t.co/mXdkyb3aDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094755164918046789",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2094752956759654401"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094752967639572769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N552AA8: @YuKi520OwO https://t.co/mXdkyb3aDF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2094752956759654401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIOtzfbwAEQ4fw.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094752956759654401"
+          ],
+          "media_source_tweet_id": [
+            "2094752967639572769"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2094755164918046789",
+        "created_at": "2026-09-01T11:52:04.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094755164918046789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047433069116719104",
+              "start": 3,
+              "username": "N552AA8"
+            },
+            {
+              "end": 24,
+              "id": "1479730386431545346",
+              "start": 13,
+              "username": "YuKi520OwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXdkyb3aDF",
+              "end": 48,
+              "expanded_url": "https://x.com/N552AA8/status/2094752967639572769/photo/1",
+              "media_key": "3_2094752956759654401",
+              "start": 25,
+              "url": "https://t.co/mXdkyb3aDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094755164918046789",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094752956759654401"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094752967639572769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N552AA8: @YuKi520OwO https://t.co/mXdkyb3aDF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094752956759654401"
+          ]
+        },
+        "author_id": "2047433069116719104",
+        "conversation_id": "2094752967639572769",
+        "created_at": "2026-09-01T11:43:20.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094752967639572769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXdkyb3aDF",
+              "end": 35,
+              "expanded_url": "https://x.com/N552AA8/status/2094752967639572769/photo/1",
+              "media_key": "3_2094752956759654401",
+              "start": 12,
+              "url": "https://t.co/mXdkyb3aDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094752967639572769",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094752956759654401"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO https://t.co/mXdkyb3aDF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "is_identity_verified": false,
+        "location": "中国（及港澳台）/日本/泰国等",
+        "most_recent_tweet_id": "2094755164918046789",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8717,
+          "following_count": 1151,
+          "like_count": 16518,
+          "listed_count": 18,
+          "media_count": 356,
+          "tweet_count": 2587
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:51:07.000Z",
+        "description": "08/mtx（f？/ENTP-T/ASD/C-PTSD/ADHD/BPD/osdd-1a/重度焦虑/重度失眠/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder💊/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/ugd1wwbKjr"
+              }
+            ]
+          }
+        },
+        "id": "2047433069116719104",
+        "is_identity_verified": false,
+        "location": "宛平南路600号",
+        "most_recent_tweet_id": "2094753693765914787",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（八代目）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047433261555576832/tJJpmxLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 137,
+          "like_count": 346,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 217
+        },
+        "url": "https://t.co/ugd1wwbKjr",
+        "username": "N552AA8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

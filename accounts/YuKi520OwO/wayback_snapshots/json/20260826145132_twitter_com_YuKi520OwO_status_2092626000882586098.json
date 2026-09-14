@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2092233765565464580",
+    "created_at": "2026-08-26T14:51:32.000Z",
+    "display_text_range": [
+      35,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092626000882586098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543753719451242496",
+          "start": 0,
+          "username": "4x_n2ym3"
+        },
+        {
+          "end": 22,
+          "id": "1771831647320801280",
+          "start": 10,
+          "username": "xi_mo_jiang"
+        },
+        {
+          "end": 34,
+          "id": "1360522586317348865",
+          "start": 23,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092626000882586098",
+    "in_reply_to_user_id": "1543753719451242496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092361945118851398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4x_n2ym3 @xi_mo_jiang @nanami_mua 他爱ban就ban呗 我最看不起这种不喜欢一个人就开ban的人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2092233765565464580",
+        "created_at": "2026-08-26T14:51:32.000Z",
+        "display_text_range": [
+          35,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092626000882586098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543753719451242496",
+              "start": 0,
+              "username": "4x_n2ym3"
+            },
+            {
+              "end": 22,
+              "id": "1771831647320801280",
+              "start": 10,
+              "username": "xi_mo_jiang"
+            },
+            {
+              "end": 34,
+              "id": "1360522586317348865",
+              "start": 23,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092626000882586098",
+        "in_reply_to_user_id": "1543753719451242496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092361945118851398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4x_n2ym3 @xi_mo_jiang @nanami_mua 他爱ban就ban呗 我最看不起这种不喜欢一个人就开ban的人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543753719451242496",
+        "conversation_id": "2092233765565464580",
+        "created_at": "2026-08-25T21:22:16.000Z",
+        "display_text_range": [
+          37,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T22:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092361945118851398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771831647320801280",
+              "start": 0,
+              "username": "xi_mo_jiang"
+            },
+            {
+              "end": 24,
+              "id": "1479730386431545346",
+              "start": 13,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 36,
+              "id": "1360522586317348865",
+              "start": 25,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092361945118851398",
+        "in_reply_to_user_id": "1771831647320801280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092360942608941316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi_mo_jiang @YuKi520OwO @nanami_mua 我也在不知道原因的情况下被他/她ban了TwT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "is_identity_verified": false,
+        "location": "中国（及港澳台）/日本/泰国等",
+        "most_recent_tweet_id": "2092626000882586098",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8718,
+          "following_count": 1149,
+          "like_count": 16503,
+          "listed_count": 18,
+          "media_count": 356,
+          "tweet_count": 2578
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T00:29:15.000Z",
+        "description": "赛博社恐/08 沪/性别不明/含糖25.08/gnrh使用中/明日方舟摆烂玩家/等待arcaea7.0/maimai菜鸟/chunithm疑似瓶颈/间歇性潜水/99.99%回fo/备用@X_ouso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 92,
+                "username": "X_ouso"
+              }
+            ]
+          }
+        },
+        "id": "1543753719451242496",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2092606168531366264",
+        "name": "4x.n2ym3_酵素",
+        "pinned_tweet_id": "2087979862351118414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543753719451242496/1765199277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043037861243686913/qa5aPDZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 3313,
+          "like_count": 1855,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "4x_n2ym3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-24T09:29:32.000Z",
+        "description": "",
+        "id": "1771831647320801280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092447005763358758",
+        "name": "汐沫(前身山竹)",
+        "pinned_tweet_id": "2076162137391812793",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771831647320801280/1727803710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072261259794268161/G6IO0KTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1123,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 532
+        },
+        "url": "",
+        "username": "xi_mo_jiang",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX&Non-Binary/🍥25.1.11/半个家长党/100%健全/言论含有政治内容致歉/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092584174498836590",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2091704395511779603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360522586317348865/1764742642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 511,
+          "like_count": 94982,
+          "listed_count": 10,
+          "media_count": 965,
+          "tweet_count": 12612
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
