@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1479730386431545346",
+    "conversation_id": "2096918093981487611",
+    "created_at": "2026-10-04T15:09:07.000Z",
+    "display_text_range": [
+      21,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T16:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106763551281156364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047433069116719104",
+          "start": 0,
+          "username": "N552AA8"
+        },
+        {
+          "end": 20,
+          "id": "2102689079628582912",
+          "start": 9,
+          "username": "Jetsoneslc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106763551281156364",
+    "in_reply_to_user_id": "2047433069116719104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106652000901312814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA8 @Jetsoneslc 对不起宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2096918093981487611",
+        "created_at": "2026-10-04T15:09:07.000Z",
+        "display_text_range": [
+          21,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106763551281156364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047433069116719104",
+              "start": 0,
+              "username": "N552AA8"
+            },
+            {
+              "end": 20,
+              "id": "2102689079628582912",
+              "start": 9,
+              "username": "Jetsoneslc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106763551281156364",
+        "in_reply_to_user_id": "2047433069116719104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106652000901312814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA8 @Jetsoneslc 对不起宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047433069116719104",
+        "conversation_id": "2096918093981487611",
+        "created_at": "2026-10-04T07:45:51.000Z",
+        "display_text_range": [
+          24,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106652000901312814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2102689079628582912",
+              "start": 0,
+              "username": "Jetsoneslc"
+            },
+            {
+              "end": 23,
+              "id": "1479730386431545346",
+              "start": 12,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106652000901312814",
+        "in_reply_to_user_id": "2102689079628582912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106180209971990977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jetsoneslc @YuKi520OwO 好好好。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "含糖MTX🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "is_identity_verified": false,
+        "location": "中国（及港澳台）/日本/泰国等",
+        "most_recent_tweet_id": "2106763551281156364",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8687,
+          "following_count": 1166,
+          "like_count": 16479,
+          "listed_count": 17,
+          "media_count": 356,
+          "tweet_count": 2595
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:51:07.000Z",
+        "description": "08/mtx（f？/ENTP-T/ASD/C-PTSD/ADHD/双相混合性发作/BPD/osdd-1a/重度焦虑/重度失眠/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder💊/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/ugd1wwbKjr"
+              }
+            ]
+          }
+        },
+        "id": "2047433069116719104",
+        "is_identity_verified": false,
+        "location": "宛平南路600号",
+        "most_recent_tweet_id": "2106656957608198464",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（八代目）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047433261555576832/tJJpmxLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 184,
+          "like_count": 494,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 258
+        },
+        "url": "https://t.co/ugd1wwbKjr",
+        "username": "N552AA8",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-23T09:21:27.000Z",
+        "description": "Gentle smile, quiet perseverance.\nHold inner light towards the world.",
+        "id": "2102689079628582912",
+        "is_identity_verified": false,
+        "location": "Edinburgh, Scotland",
+        "most_recent_tweet_id": "2106755348715512059",
+        "name": "Royal K.",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105597206656962560/Z6wIdnb5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "Jetsoneslc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
